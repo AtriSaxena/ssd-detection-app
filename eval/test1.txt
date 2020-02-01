@@ -1,0 +1,5403 @@
+
+GROUND TRUTH FOR: 0
+label: 180.0 || 50.0 || 763.0 || 920.0 || 3
+
+GROUND TRUTH FOR: 0
+label: 315.0 || 116.0 || 858.0 || 529.0 || 7
+label: 505.0 || 134.0 || 973.0 || 472.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 355.0 || 203.0 || 951.0 || 614.0 || 5
+
+GROUND TRUTH FOR: 0
+label: 34.0 || 227.0 || 803.0 || 738.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 70.0 || 344.0 || 904.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 89.0 || 35.0 || 997.0 || 708.0 || 2
+
+GROUND TRUTH FOR: 1
+label: 33.0 || 56.0 || 946.0 || 846.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 213.0 || 199.0 || 1023.0 || 767.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 5.0 || 221.0 || 727.0 || 648.0 || 7
+
+GROUND TRUTH FOR: 1
+label: -1.0 || 117.0 || 924.0 || 946.0 || 2
+
+GROUND TRUTH FOR: 1
+label: -1.0 || 359.0 || 119.0 || 548.0 || 7
+label: 193.0 || 309.0 || 989.0 || 767.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 0.0 || 75.0 || 465.0 || 601.0 || 3
+label: 144.0 || 12.0 || 713.0 || 674.0 || 3
+label: 395.0 || 56.0 || 840.0 || 536.0 || 3
+
+GROUND TRUTH FOR: 1
+label: 276.0 || -1.0 || 1023.0 || 681.0 || 3
+
+GROUND TRUTH FOR: 2
+label: 22.0 || 282.0 || 540.0 || 668.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 179.0 || 144.0 || 622.0 || 694.0 || 3
+
+GROUND TRUTH FOR: 2
+label: -1.0 || 159.0 || 544.0 || 735.0 || 3
+label: 352.0 || -1.0 || 1023.0 || 767.0 || 3
+
+GROUND TRUTH FOR: 2
+label: 197.0 || 157.0 || 677.0 || 616.0 || 4
+
+GROUND TRUTH FOR: 2
+label: 20.0 || 284.0 || 608.0 || 878.0 || 7
+label: 400.0 || 257.0 || 985.0 || 877.0 || 7
+
+GROUND TRUTH FOR: 2
+label: -1.0 || -1.0 || 1023.0 || 684.0 || 6
+
+GROUND TRUTH FOR: 3
+label: -1.0 || -1.0 || 1023.0 || 573.0 || 2
+label: -1.0 || 337.0 || 1023.0 || 682.0 || 2
+
+GROUND TRUTH FOR: 3
+label: 107.0 || 97.0 || 752.0 || 991.0 || 3
+
+GROUND TRUTH FOR: 3
+label: -1.0 || 346.0 || 1023.0 || 598.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 180.0 || 50.0 || 763.0 || 920.0 || 3
+
+GROUND TRUTH FOR: 0
+label: 315.0 || 116.0 || 858.0 || 529.0 || 7
+label: 505.0 || 134.0 || 973.0 || 472.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 355.0 || 203.0 || 951.0 || 614.0 || 5
+
+GROUND TRUTH FOR: 0
+label: 34.0 || 227.0 || 803.0 || 738.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 70.0 || 344.0 || 904.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 89.0 || 35.0 || 997.0 || 708.0 || 2
+
+GROUND TRUTH FOR: 1
+label: 33.0 || 56.0 || 946.0 || 846.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 213.0 || 199.0 || 1023.0 || 767.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 5.0 || 221.0 || 727.0 || 648.0 || 7
+
+GROUND TRUTH FOR: 1
+label: -1.0 || 117.0 || 924.0 || 946.0 || 2
+
+GROUND TRUTH FOR: 1
+label: -1.0 || 359.0 || 119.0 || 548.0 || 7
+label: 193.0 || 309.0 || 989.0 || 767.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 0.0 || 75.0 || 465.0 || 601.0 || 3
+label: 144.0 || 12.0 || 713.0 || 674.0 || 3
+label: 395.0 || 56.0 || 840.0 || 536.0 || 3
+
+GROUND TRUTH FOR: 1
+label: 276.0 || -1.0 || 1023.0 || 681.0 || 3
+
+GROUND TRUTH FOR: 2
+label: 22.0 || 282.0 || 540.0 || 668.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 179.0 || 144.0 || 622.0 || 694.0 || 3
+
+GROUND TRUTH FOR: 2
+label: -1.0 || 159.0 || 544.0 || 735.0 || 3
+label: 352.0 || -1.0 || 1023.0 || 767.0 || 3
+
+GROUND TRUTH FOR: 2
+label: 197.0 || 157.0 || 677.0 || 616.0 || 4
+
+GROUND TRUTH FOR: 2
+label: 20.0 || 284.0 || 608.0 || 878.0 || 7
+label: 400.0 || 257.0 || 985.0 || 877.0 || 7
+
+GROUND TRUTH FOR: 2
+label: -1.0 || -1.0 || 1023.0 || 684.0 || 6
+
+GROUND TRUTH FOR: 3
+label: -1.0 || -1.0 || 1023.0 || 573.0 || 2
+label: -1.0 || 337.0 || 1023.0 || 682.0 || 2
+
+GROUND TRUTH FOR: 3
+label: 107.0 || 97.0 || 752.0 || 991.0 || 3
+
+GROUND TRUTH FOR: 3
+label: -1.0 || 346.0 || 1023.0 || 598.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 502.0 || 272.0 || 915.0 || 660.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 213.0 || 283.0 || 268.0 || 364.0 || 3
+label: 274.0 || 229.0 || 734.0 || 531.0 || 3
+label: 553.0 || 95.0 || 916.0 || 477.0 || 3
+
+GROUND TRUTH FOR: 3
+label: 24.0 || 140.0 || 475.0 || 525.0 || 0
+label: 469.0 || 101.0 || 972.0 || 496.0 || 0
+
+GROUND TRUTH FOR: 4
+label: 229.0 || 316.0 || 741.0 || 697.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 57.0 || 358.0 || 191.0 || 680.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 7.0 || 77.0 || 1022.0 || 737.0 || 5
+
+GROUND TRUTH FOR: 4
+label: 181.0 || 12.0 || 947.0 || 599.0 || 7
+
+GROUND TRUTH FOR: 4
+label: -1.0 || 337.0 || 74.0 || 506.0 || 3
+label: 14.0 || 306.0 || 285.0 || 555.0 || 3
+label: 193.0 || 52.0 || 719.0 || 936.0 || 3
+label: 493.0 || 54.0 || 572.0 || 118.0 || 3
+
+GROUND TRUTH FOR: 4
+label: 107.0 || 248.0 || 573.0 || 715.0 || 7
+label: 269.0 || 228.0 || 735.0 || 654.0 || 7
+
+GROUND TRUTH FOR: 5
+label: 130.0 || 301.0 || 1012.0 || 492.0 || 2
+
+GROUND TRUTH FOR: 5
+label: 205.0 || 8.0 || 789.0 || 650.0 || 4
+
+GROUND TRUTH FOR: 5
+label: 64.0 || 233.0 || 534.0 || 698.0 || 7
+
+GROUND TRUTH FOR: 5
+label: -1.0 || 159.0 || 1023.0 || 680.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 49.0 || -1.0 || 1023.0 || 1022.0 || 3
+
+GROUND TRUTH FOR: 6
+label: 69.0 || 354.0 || 972.0 || 596.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 66.0 || 32.0 || 772.0 || 787.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 56.0 || 211.0 || 660.0 || 680.0 || 7
+label: 57.0 || 49.0 || 550.0 || 903.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 306.0 || 152.0 || 1023.0 || 682.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 51.0 || 97.0 || 976.0 || 748.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 188.0 || 80.0 || 858.0 || 913.0 || 3
+
+GROUND TRUTH FOR: 7
+label: 1.0 || 7.0 || 730.0 || 766.0 || 3
+
+GROUND TRUTH FOR: 7
+label: 181.0 || 328.0 || 545.0 || 560.0 || 5
+
+GROUND TRUTH FOR: 7
+label: 14.0 || 281.0 || 885.0 || 687.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 108.0 || 119.0 || 948.0 || 653.0 || 1
+
+GROUND TRUTH FOR: 7
+label: 94.0 || 40.0 || 590.0 || 366.0 || 7
+
+GROUND TRUTH FOR: 8
+label: -1.0 || -1.0 || 845.0 || 643.0 || 1
+
+GROUND TRUTH FOR: 8
+label: 99.0 || 460.0 || 179.0 || 700.0 || 6
+label: 276.0 || 189.0 || 422.0 || 735.0 || 6
+label: 429.0 || 34.0 || 663.0 || 775.0 || 6
+label: 776.0 || 450.0 || 853.0 || 705.0 || 6
+label: 831.0 || 454.0 || 976.0 || 706.0 || 6
+
+GROUND TRUTH FOR: 8
+label: 209.0 || -1.0 || 948.0 || 676.0 || 6
+
+GROUND TRUTH FOR: 8
+label: 148.0 || 254.0 || 622.0 || 707.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 195.0 || 240.0 || 361.0 || 419.0 || 3
+label: 645.0 || 236.0 || 820.0 || 408.0 || 3
+
+GROUND TRUTH FOR: 9
+label: 51.0 || 324.0 || 697.0 || 792.0 || 7
+label: 438.0 || 359.0 || 1016.0 || 763.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 97.0 || -1.0 || 1017.0 || 672.0 || 7
+
+GROUND TRUTH FOR: 9
+label: -1.0 || 167.0 || 741.0 || 767.0 || 1
+
+GROUND TRUTH FOR: 9
+label: -1.0 || 136.0 || 255.0 || 304.0 || 7
+label: -1.0 || 136.0 || 916.0 || 303.0 || 7
+label: 862.0 || 160.0 || 916.0 || 221.0 || 7
+
+GROUND TRUTH FOR: a
+label: 54.0 || 295.0 || 304.0 || 494.0 || 3
+label: 485.0 || 344.0 || 768.0 || 497.0 || 3
+
+GROUND TRUTH FOR: a
+label: 196.0 || 117.0 || 767.0 || 1022.0 || 7
+
+GROUND TRUTH FOR: a
+label: 154.0 || -1.0 || 1023.0 || 818.0 || 0
+
+GROUND TRUTH FOR: a
+label: 46.0 || 43.0 || 1022.0 || 767.0 || 7
+
+GROUND TRUTH FOR: a
+label: 246.0 || 328.0 || 449.0 || 553.0 || 3
+label: 502.0 || 146.0 || 655.0 || 392.0 || 3
+
+GROUND TRUTH FOR: a
+label: -1.0 || -1.0 || 1022.0 || 682.0 || 1
+
+GROUND TRUTH FOR: b
+label: -1.0 || 43.0 || 845.0 || 765.0 || 7
+
+GROUND TRUTH FOR: b
+label: 21.0 || 169.0 || 619.0 || 628.0 || 0
+
+GROUND TRUTH FOR: b
+label: -1.0 || 192.0 || 627.0 || 975.0 || 4
+
+GROUND TRUTH FOR: b
+label: 73.0 || 27.0 || 756.0 || 949.0 || 7
+
+GROUND TRUTH FOR: b
+label: -1.0 || -1.0 || 732.0 || 848.0 || 7
+
+GROUND TRUTH FOR: b
+label: -1.0 || 15.0 || 683.0 || 1023.0 || 3
+
+GROUND TRUTH FOR: b
+label: -1.0 || 373.0 || 828.0 || 985.0 || 7
+label: 858.0 || 290.0 || 982.0 || 558.0 || 7
+
+GROUND TRUTH FOR: c
+label: 42.0 || 79.0 || 655.0 || 681.0 || 7
+
+GROUND TRUTH FOR: c
+label: 34.0 || 144.0 || 705.0 || 645.0 || 7
+label: 407.0 || 107.0 || 921.0 || 620.0 || 7
+
+GROUND TRUTH FOR: c
+label: 334.0 || 290.0 || 924.0 || 686.0 || 4
+
+GROUND TRUTH FOR: d
+label: 212.0 || 317.0 || 808.0 || 702.0 || 4
+
+GROUND TRUTH FOR: d
+label: 155.0 || -1.0 || 270.0 || 237.0 || 7
+label: 157.0 || -1.0 || 986.0 || 565.0 || 7
+label: 207.0 || -1.0 || 491.0 || 97.0 || 7
+label: 299.0 || 42.0 || 568.0 || 228.0 || 7
+label: 454.0 || 150.0 || 910.0 || 565.0 || 7
+label: 550.0 || -1.0 || 805.0 || 103.0 || 7
+label: 847.0 || -1.0 || 989.0 || 56.0 || 7
+
+GROUND TRUTH FOR: d
+label: 80.0 || 267.0 || 922.0 || 976.0 || 7
+
+GROUND TRUTH FOR: d
+label: -1.0 || 117.0 || 787.0 || 390.0 || 7
+
+GROUND TRUTH FOR: d
+label: 215.0 || 63.0 || 708.0 || 608.0 || 6
+
+GROUND TRUTH FOR: d
+label: 231.0 || 112.0 || 983.0 || 767.0 || 7
+
+GROUND TRUTH FOR: d
+label: 222.0 || 136.0 || 831.0 || 766.0 || 7
+
+GROUND TRUTH FOR: d
+label: 182.0 || 234.0 || 998.0 || 491.0 || 2
+
+GROUND TRUTH FOR: d
+label: 208.0 || 130.0 || 999.0 || 566.0 || 7
+
+GROUND TRUTH FOR: d
+label: 77.0 || 55.0 || 1023.0 || 682.0 || 7
+
+GROUND TRUTH FOR: e
+label: 294.0 || 282.0 || 526.0 || 677.0 || 7
+
+GROUND TRUTH FOR: e
+label: 311.0 || 140.0 || 546.0 || 506.0 || 3
+label: 497.0 || 255.0 || 659.0 || 530.0 || 3
+
+GROUND TRUTH FOR: e
+label: 163.0 || 71.0 || 1022.0 || 681.0 || 0
+label: 455.0 || 133.0 || 1023.0 || 682.0 || 0
+
+GROUND TRUTH FOR: e
+label: 155.0 || 129.0 || 453.0 || 347.0 || 7
+
+GROUND TRUTH FOR: e
+label: -1.0 || 102.0 || 260.0 || 630.0 || 7
+label: 167.0 || 127.0 || 390.0 || 600.0 || 7
+label: 435.0 || 81.0 || 959.0 || 630.0 || 7
+label: 630.0 || 106.0 || 996.0 || 630.0 || 7
+
+GROUND TRUTH FOR: f
+label: 0.0 || -1.0 || 576.0 || 595.0 || 3
+
+GROUND TRUTH FOR: f
+label: 173.0 || 211.0 || 839.0 || 654.0 || 7
+
+GROUND TRUTH FOR: f
+label: -1.0 || 228.0 || 1022.0 || 818.0 || 7
+label: 410.0 || 286.0 || 949.0 || 390.0 || 7
+
+GROUND TRUTH FOR: f
+label: 130.0 || 294.0 || 369.0 || 791.0 || 7
+label: 309.0 || 249.0 || 575.0 || 797.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 16.0 || 418.0 || 583.0 || 601.0 || 1
+label: 883.0 || 248.0 || 1023.0 || 389.0 || 1
+
+GROUND TRUTH FOR: 0
+label: 76.0 || 33.0 || 749.0 || 1010.0 || 3
+
+GROUND TRUTH FOR: 0
+label: -1.0 || 94.0 || 1023.0 || 682.0 || 7
+
+GROUND TRUTH FOR: 0
+label: -1.0 || 212.0 || 783.0 || 611.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 450.0 || 144.0 || 585.0 || 212.0 || 7
+label: 496.0 || 146.0 || 647.0 || 208.0 || 7
+label: 590.0 || 132.0 || 697.0 || 203.0 || 7
+label: 611.0 || 138.0 || 730.0 || 212.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 419.0 || 305.0 || 747.0 || 766.0 || 0
+
+GROUND TRUTH FOR: 1
+label: -1.0 || 242.0 || 971.0 || 643.0 || 2
+
+GROUND TRUTH FOR: 1
+label: 0.0 || -1.0 || 911.0 || 551.0 || 2
+
+GROUND TRUTH FOR: 1
+label: 238.0 || 135.0 || 780.0 || 674.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 446.0 || 196.0 || 924.0 || 672.0 || 7
+label: 913.0 || 271.0 || 985.0 || 332.0 || 7
+
+GROUND TRUTH FOR: 1
+label: -1.0 || 124.0 || 850.0 || 574.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 193.0 || 265.0 || 444.0 || 524.0 || 7
+label: 314.0 || 242.0 || 547.0 || 520.0 || 7
+label: 519.0 || 230.0 || 927.0 || 635.0 || 7
+label: 550.0 || 270.0 || 956.0 || 596.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 272.0 || 39.0 || 831.0 || 665.0 || 3
+
+GROUND TRUTH FOR: 2
+label: 84.0 || 196.0 || 291.0 || 368.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 345.0 || 23.0 || 741.0 || 672.0 || 3
+
+GROUND TRUTH FOR: 3
+label: 10.0 || 37.0 || 738.0 || 730.0 || 3
+label: 271.0 || 56.0 || 476.0 || 262.0 || 3
+label: 793.0 || 143.0 || 854.0 || 222.0 || 3
+label: 923.0 || 170.0 || 1023.0 || 227.0 || 3
+
+GROUND TRUTH FOR: 3
+label: 143.0 || -1.0 || 1023.0 || 659.0 || 2
+
+GROUND TRUTH FOR: 3
+label: 237.0 || -1.0 || 726.0 || 594.0 || 3
+
+GROUND TRUTH FOR: 3
+label: 152.0 || -1.0 || 1022.0 || 680.0 || 7
+label: 853.0 || 44.0 || 1023.0 || 532.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 29.0 || 191.0 || 999.0 || 639.0 || 7
+
+GROUND TRUTH FOR: 4
+label: -1.0 || 83.0 || 978.0 || 1015.0 || 4
+
+GROUND TRUTH FOR: 4
+label: -1.0 || -1.0 || 1023.0 || 1022.0 || 0
+
+GROUND TRUTH FOR: 4
+label: 3.0 || 207.0 || 580.0 || 662.0 || 3
+label: 371.0 || -1.0 || 845.0 || 521.0 || 3
+label: 541.0 || 174.0 || 933.0 || 484.0 || 3
+
+GROUND TRUTH FOR: 4
+label: 484.0 || 446.0 || 607.0 || 559.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 269.0 || 187.0 || 585.0 || 472.0 || 7
+label: 720.0 || 192.0 || 812.0 || 302.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 287.0 || 47.0 || 1022.0 || 766.0 || 5
+
+GROUND TRUTH FOR: 5
+label: -1.0 || 264.0 || 291.0 || 442.0 || 7
+label: -1.0 || 279.0 || 1022.0 || 679.0 || 7
+
+GROUND TRUTH FOR: 5
+label: 279.0 || 252.0 || 816.0 || 883.0 || 2
+
+GROUND TRUTH FOR: 5
+label: 39.0 || 475.0 || 219.0 || 816.0 || 7
+label: 42.0 || 248.0 || 490.0 || 921.0 || 7
+label: 169.0 || 248.0 || 488.0 || 920.0 || 7
+label: 632.0 || 274.0 || 1003.0 || 825.0 || 7
+
+GROUND TRUTH FOR: 5
+label: 221.0 || -1.0 || 586.0 || 439.0 || 0
+label: 327.0 || 42.0 || 852.0 || 572.0 || 0
+label: 655.0 || -1.0 || 844.0 || 103.0 || 0
+
+GROUND TRUTH FOR: 6
+label: 0.0 || 2.0 || 925.0 || 732.0 || 6
+
+GROUND TRUTH FOR: 6
+label: 44.0 || 9.0 || 970.0 || 765.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 129.0 || 222.0 || 802.0 || 649.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 3.0 || 140.0 || 521.0 || 1018.0 || 7
+label: 136.0 || 176.0 || 984.0 || 1019.0 || 7
+
+GROUND TRUTH FOR: 6
+label: -1.0 || 137.0 || 389.0 || 767.0 || 3
+label: 244.0 || 159.0 || 872.0 || 767.0 || 3
+
+GROUND TRUTH FOR: 6
+label: -1.0 || 87.0 || 53.0 || 211.0 || 7
+label: -1.0 || 330.0 || 149.0 || 653.0 || 7
+label: 156.0 || 2.0 || 269.0 || 106.0 || 7
+label: 316.0 || 270.0 || 694.0 || 583.0 || 7
+label: 337.0 || 124.0 || 427.0 || 321.0 || 7
+label: 397.0 || 83.0 || 576.0 || 230.0 || 7
+
+GROUND TRUTH FOR: 7
+label: -1.0 || 368.0 || 310.0 || 682.0 || 1
+label: 361.0 || -1.0 || 818.0 || 454.0 || 1
+label: 460.0 || -1.0 || 1000.0 || 413.0 || 1
+
+GROUND TRUTH FOR: 7
+label: 113.0 || 381.0 || 236.0 || 522.0 || 3
+label: 285.0 || 396.0 || 412.0 || 568.0 || 3
+label: 580.0 || 340.0 || 877.0 || 575.0 || 3
+
+GROUND TRUTH FOR: 7
+label: 217.0 || 105.0 || 475.0 || 359.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 379.0 || 73.0 || 665.0 || 759.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 302.0 || 101.0 || 1009.0 || 677.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 169.0 || 364.0 || 730.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 206.0 || 11.0 || 782.0 || 678.0 || 3
+
+GROUND TRUTH FOR: 8
+label: -1.0 || 52.0 || 944.0 || 759.0 || 1
+
+GROUND TRUTH FOR: 8
+label: 172.0 || 251.0 || 628.0 || 659.0 || 3
+
+GROUND TRUTH FOR: 8
+label: 116.0 || 260.0 || 600.0 || 897.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 17.0 || -1.0 || 1022.0 || 666.0 || 5
+
+GROUND TRUTH FOR: 8
+label: 18.0 || 364.0 || 746.0 || 690.0 || 7
+
+GROUND TRUTH FOR: 8
+label: -1.0 || 225.0 || 1023.0 || 680.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 118.0 || 229.0 || 378.0 || 1017.0 || 7
+label: 355.0 || 266.0 || 570.0 || 907.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 95.0 || 140.0 || 651.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 488.0 || 279.0 || 962.0 || 684.0 || 7
+
+GROUND TRUTH FOR: 8
+label: -1.0 || -1.0 || 462.0 || 677.0 || 7
+label: 385.0 || 2.0 || 746.0 || 667.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 294.0 || 244.0 || 819.0 || 558.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 503.0 || 303.0 || 795.0 || 477.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 71.0 || 241.0 || 863.0 || 596.0 || 1
+
+GROUND TRUTH FOR: 9
+label: 74.0 || 103.0 || 268.0 || 607.0 || 7
+label: 280.0 || 127.0 || 513.0 || 619.0 || 7
+
+GROUND TRUTH FOR: a
+label: 551.0 || 217.0 || 861.0 || 651.0 || 7
+label: 734.0 || 233.0 || 1011.0 || 622.0 || 7
+
+GROUND TRUTH FOR: a
+label: -1.0 || -1.0 || 1022.0 || 681.0 || 2
+
+GROUND TRUTH FOR: a
+label: 144.0 || 216.0 || 550.0 || 880.0 || 4
+
+GROUND TRUTH FOR: a
+label: 100.0 || 192.0 || 721.0 || 665.0 || 7
+
+GROUND TRUTH FOR: a
+label: 249.0 || 209.0 || 601.0 || 681.0 || 7
+
+GROUND TRUTH FOR: a
+label: -1.0 || 307.0 || 882.0 || 757.0 || 2
+
+GROUND TRUTH FOR: a
+label: 466.0 || 257.0 || 602.0 || 536.0 || 7
+
+GROUND TRUTH FOR: b
+label: -1.0 || 205.0 || 615.0 || 984.0 || 1
+
+GROUND TRUTH FOR: b
+label: -1.0 || 195.0 || 572.0 || 674.0 || 7
+
+GROUND TRUTH FOR: b
+label: 67.0 || 107.0 || 513.0 || 545.0 || 6
+label: 710.0 || 371.0 || 809.0 || 535.0 || 6
+
+GROUND TRUTH FOR: b
+label: 297.0 || 268.0 || 559.0 || 728.0 || 7
+
+GROUND TRUTH FOR: c
+label: 52.0 || 36.0 || 815.0 || 606.0 || 7
+label: 288.0 || 156.0 || 786.0 || 634.0 || 7
+
+GROUND TRUTH FOR: c
+label: 253.0 || 217.0 || 389.0 || 516.0 || 0
+label: 441.0 || 247.0 || 599.0 || 553.0 || 0
+label: 596.0 || 267.0 || 911.0 || 557.0 || 0
+
+GROUND TRUTH FOR: c
+label: -1.0 || 716.0 || 281.0 || 919.0 || 7
+
+GROUND TRUTH FOR: c
+label: -1.0 || -1.0 || 661.0 || 766.0 || 3
+label: 725.0 || 225.0 || 844.0 || 330.0 || 3
+label: 845.0 || 222.0 || 970.0 || 349.0 || 3
+
+GROUND TRUTH FOR: d
+label: -1.0 || -1.0 || 927.0 || 872.0 || 5
+
+GROUND TRUTH FOR: d
+label: 294.0 || 203.0 || 941.0 || 566.0 || 7
+
+GROUND TRUTH FOR: d
+label: 342.0 || 127.0 || 889.0 || 626.0 || 7
+
+GROUND TRUTH FOR: d
+label: -1.0 || 29.0 || 564.0 || 681.0 || 4
+label: 507.0 || -1.0 || 1023.0 || 680.0 || 4
+
+GROUND TRUTH FOR: d
+label: 69.0 || 113.0 || 723.0 || 577.0 || 5
+
+GROUND TRUTH FOR: e
+label: 444.0 || 218.0 || 651.0 || 607.0 || 7
+label: 598.0 || 208.0 || 842.0 || 625.0 || 7
+
+GROUND TRUTH FOR: e
+label: -1.0 || 111.0 || 837.0 || 405.0 || 2
+
+GROUND TRUTH FOR: e
+label: 40.0 || 278.0 || 945.0 || 423.0 || 2
+
+GROUND TRUTH FOR: e
+label: 18.0 || 52.0 || 580.0 || 899.0 || 4
+label: 530.0 || 91.0 || 1009.0 || 774.0 || 4
+
+GROUND TRUTH FOR: e
+label: -1.0 || -1.0 || 683.0 || 934.0 || 2
+
+GROUND TRUTH FOR: f
+label: 73.0 || 190.0 || 569.0 || 975.0 || 7
+
+GROUND TRUTH FOR: f
+label: 284.0 || 48.0 || 833.0 || 621.0 || 3
+
+GROUND TRUTH FOR: f
+label: 450.0 || 186.0 || 953.0 || 629.0 || 5
+
+GROUND TRUTH FOR: f
+label: 403.0 || -1.0 || 964.0 || 551.0 || 5
+
+GROUND TRUTH FOR: 0
+label: 208.0 || 40.0 || 956.0 || 662.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 132.0 || 37.0 || 947.0 || 693.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 414.0 || 51.0 || 806.0 || 798.0 || 7
+
+GROUND TRUTH FOR: 0
+label: -1.0 || 215.0 || 607.0 || 1023.0 || 0
+
+GROUND TRUTH FOR: 0
+label: 10.0 || 270.0 || 286.0 || 818.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 280.0 || 378.0 || 767.0 || 913.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 14.0 || 64.0 || 1023.0 || 628.0 || 2
+
+GROUND TRUTH FOR: 2
+label: -1.0 || 120.0 || 853.0 || 686.0 || 2
+label: 528.0 || 112.0 || 1023.0 || 417.0 || 2
+
+GROUND TRUTH FOR: 2
+label: -1.0 || -1.0 || 901.0 || 605.0 || 2
+
+GROUND TRUTH FOR: 2
+label: 798.0 || 411.0 || 864.0 || 471.0 || 4
+label: 823.0 || 382.0 || 1021.0 || 507.0 || 4
+
+GROUND TRUTH FOR: 2
+label: 141.0 || 204.0 || 954.0 || 522.0 || 4
+
+GROUND TRUTH FOR: 2
+label: 24.0 || 245.0 || 940.0 || 436.0 || 2
+label: 561.0 || 48.0 || 668.0 || 177.0 || 2
+
+GROUND TRUTH FOR: 2
+label: 245.0 || 32.0 || 1023.0 || 729.0 || 5
+
+GROUND TRUTH FOR: 3
+label: 339.0 || 379.0 || 648.0 || 855.0 || 7
+
+GROUND TRUTH FOR: 3
+label: -1.0 || 485.0 || 181.0 || 956.0 || 7
+label: 309.0 || 87.0 || 703.0 || 740.0 || 7
+
+GROUND TRUTH FOR: 3
+label: -1.0 || 305.0 || 9.0 || 355.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 203.0 || 236.0 || 693.0 || 618.0 || 4
+
+GROUND TRUTH FOR: 3
+label: 215.0 || 176.0 || 1023.0 || 757.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 13.0 || 86.0 || 960.0 || 669.0 || 0
+label: 416.0 || -1.0 || 1023.0 || 462.0 || 0
+
+GROUND TRUTH FOR: 3
+label: -1.0 || 12.0 || 1023.0 || 634.0 || 4
+
+GROUND TRUTH FOR: 4
+label: -1.0 || 24.0 || 247.0 || 525.0 || 7
+label: 341.0 || 27.0 || 582.0 || 524.0 || 7
+label: 678.0 || 32.0 || 926.0 || 524.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 142.0 || 106.0 || 1023.0 || 655.0 || 5
+
+GROUND TRUTH FOR: 4
+label: 260.0 || 236.0 || 621.0 || 552.0 || 7
+label: 756.0 || 272.0 || 1022.0 || 526.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 116.0 || 187.0 || 885.0 || 555.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 276.0 || 157.0 || 737.0 || 566.0 || 3
+
+GROUND TRUTH FOR: 4
+label: 118.0 || -1.0 || 536.0 || 1018.0 || 3
+
+GROUND TRUTH FOR: 4
+label: 248.0 || 203.0 || 865.0 || 731.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 91.0 || 259.0 || 970.0 || 921.0 || 7
+
+GROUND TRUTH FOR: 5
+label: 96.0 || 92.0 || 598.0 || 767.0 || 3
+label: 596.0 || 124.0 || 914.0 || 731.0 || 3
+
+GROUND TRUTH FOR: 5
+label: 451.0 || 186.0 || 977.0 || 765.0 || 7
+
+GROUND TRUTH FOR: 5
+label: 202.0 || 146.0 || 768.0 || 918.0 || 7
+
+GROUND TRUTH FOR: 5
+label: -1.0 || 76.0 || 915.0 || 767.0 || 5
+
+GROUND TRUTH FOR: 6
+label: 105.0 || 167.0 || 744.0 || 599.0 || 7
+label: 484.0 || 125.0 || 941.0 || 605.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 54.0 || 240.0 || 541.0 || 628.0 || 7
+label: 499.0 || 356.0 || 829.0 || 766.0 || 7
+label: 614.0 || 211.0 || 990.0 || 541.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 279.0 || 260.0 || 741.0 || 680.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 114.0 || 170.0 || 611.0 || 533.0 || 7
+label: 435.0 || 270.0 || 936.0 || 682.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 459.0 || 279.0 || 806.0 || 689.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 93.0 || 150.0 || 516.0 || 626.0 || 3
+label: 393.0 || 241.0 || 854.0 || 629.0 || 3
+
+GROUND TRUTH FOR: 7
+label: -1.0 || -1.0 || 232.0 || 682.0 || 7
+label: 232.0 || -1.0 || 1023.0 || 682.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 283.0 || 313.0 || 695.0 || 716.0 || 4
+
+GROUND TRUTH FOR: 7
+label: -1.0 || 42.0 || 914.0 || 682.0 || 3
+
+GROUND TRUTH FOR: 7
+label: 21.0 || 91.0 || 160.0 || 308.0 || 3
+label: 92.0 || 121.0 || 998.0 || 620.0 || 3
+label: 176.0 || 131.0 || 333.0 || 305.0 || 3
+
+GROUND TRUTH FOR: 8
+label: 129.0 || 157.0 || 819.0 || 674.0 || 7
+
+GROUND TRUTH FOR: 8
+label: -1.0 || 260.0 || 681.0 || 1022.0 || 7
+
+GROUND TRUTH FOR: 8
+label: -1.0 || 239.0 || 978.0 || 639.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 280.0 || 213.0 || 446.0 || 438.0 || 6
+
+GROUND TRUTH FOR: 9
+label: 210.0 || 150.0 || 700.0 || 620.0 || 7
+
+GROUND TRUTH FOR: a
+label: -1.0 || 112.0 || 912.0 || 547.0 || 2
+
+GROUND TRUTH FOR: a
+label: 44.0 || 266.0 || 473.0 || 705.0 || 3
+label: 385.0 || 195.0 || 751.0 || 659.0 || 3
+
+GROUND TRUTH FOR: a
+label: 45.0 || 63.0 || 817.0 || 857.0 || 7
+
+GROUND TRUTH FOR: a
+label: -1.0 || 106.0 || 1023.0 || 600.0 || 4
+
+GROUND TRUTH FOR: a
+label: 10.0 || 267.0 || 1006.0 || 532.0 || 7
+
+GROUND TRUTH FOR: a
+label: 106.0 || 237.0 || 401.0 || 576.0 || 6
+label: 575.0 || 110.0 || 853.0 || 655.0 || 6
+
+GROUND TRUTH FOR: a
+label: 487.0 || 287.0 || 804.0 || 636.0 || 7
+
+GROUND TRUTH FOR: a
+label: -1.0 || -1.0 || 752.0 || 1022.0 || 5
+
+GROUND TRUTH FOR: a
+label: 94.0 || 5.0 || 924.0 || 767.0 || 7
+
+GROUND TRUTH FOR: b
+label: 207.0 || 132.0 || 1022.0 || 678.0 || 7
+
+GROUND TRUTH FOR: b
+label: 56.0 || 18.0 || 963.0 || 767.0 || 7
+
+GROUND TRUTH FOR: b
+label: -1.0 || 143.0 || 979.0 || 766.0 || 4
+
+GROUND TRUTH FOR: b
+label: 57.0 || 269.0 || 352.0 || 537.0 || 3
+label: 296.0 || 259.0 || 538.0 || 539.0 || 3
+label: 623.0 || 290.0 || 930.0 || 588.0 || 3
+
+GROUND TRUTH FOR: b
+label: -1.0 || 322.0 || 927.0 || 721.0 || 7
+
+GROUND TRUTH FOR: b
+label: 119.0 || 289.0 || 682.0 || 838.0 || 5
+
+GROUND TRUTH FOR: c
+label: 4.0 || 164.0 || 1016.0 || 607.0 || 7
+
+GROUND TRUTH FOR: c
+label: -1.0 || 5.0 || 993.0 || 818.0 || 7
+
+GROUND TRUTH FOR: c
+label: 352.0 || 156.0 || 1021.0 || 528.0 || 1
+
+GROUND TRUTH FOR: c
+label: -1.0 || 426.0 || 769.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: c
+label: 208.0 || 51.0 || 510.0 || 813.0 || 3
+
+GROUND TRUTH FOR: c
+label: 185.0 || 37.0 || 680.0 || 608.0 || 3
+label: 194.0 || 296.0 || 603.0 || 692.0 || 3
+
+GROUND TRUTH FOR: c
+label: -1.0 || -1.0 || 1022.0 || 767.0 || 2
+
+GROUND TRUTH FOR: c
+label: 332.0 || 267.0 || 909.0 || 692.0 || 7
+
+GROUND TRUTH FOR: c
+label: 374.0 || 35.0 || 1022.0 || 680.0 || 3
+
+GROUND TRUTH FOR: c
+label: -1.0 || 327.0 || 682.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: c
+label: 75.0 || 148.0 || 962.0 || 355.0 || 2
+
+GROUND TRUTH FOR: c
+label: 18.0 || 229.0 || 697.0 || 765.0 || 7
+label: 139.0 || -1.0 || 238.0 || 125.0 || 7
+label: 572.0 || -1.0 || 719.0 || 105.0 || 7
+
+GROUND TRUTH FOR: c
+label: 33.0 || 208.0 || 1023.0 || 493.0 || 7
+
+GROUND TRUTH FOR: c
+label: 78.0 || 155.0 || 433.0 || 413.0 || 3
+label: 215.0 || 245.0 || 469.0 || 403.0 || 3
+label: 692.0 || 233.0 || 1022.0 || 430.0 || 3
+label: 727.0 || 184.0 || 1023.0 || 432.0 || 3
+
+GROUND TRUTH FOR: d
+label: 167.0 || 423.0 || 536.0 || 765.0 || 7
+
+GROUND TRUTH FOR: d
+label: -1.0 || 254.0 || 248.0 || 677.0 || 7
+
+GROUND TRUTH FOR: d
+label: 161.0 || 370.0 || 430.0 || 843.0 || 6
+label: 187.0 || 308.0 || 465.0 || 858.0 || 6
+label: 514.0 || 424.0 || 733.0 || 849.0 || 6
+
+GROUND TRUTH FOR: e
+label: 219.0 || 178.0 || 682.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: e
+label: 217.0 || 6.0 || 1023.0 || 679.0 || 7
+
+GROUND TRUTH FOR: f
+label: 187.0 || 160.0 || 845.0 || 631.0 || 4
+
+GROUND TRUTH FOR: f
+label: 48.0 || 85.0 || 976.0 || 758.0 || 4
+
+GROUND TRUTH FOR: f
+label: 240.0 || 73.0 || 913.0 || 575.0 || 7
+
+GROUND TRUTH FOR: f
+label: 505.0 || 103.0 || 955.0 || 764.0 || 7
+
+GROUND TRUTH FOR: f
+label: 362.0 || 213.0 || 658.0 || 602.0 || 6
+label: 472.0 || 119.0 || 591.0 || 604.0 || 6
+label: 517.0 || 241.0 || 692.0 || 558.0 || 6
+label: 520.0 || 96.0 || 769.0 || 605.0 || 6
+label: 911.0 || 372.0 || 1023.0 || 451.0 || 6
+
+GROUND TRUTH FOR: f
+label: -1.0 || 69.0 || 784.0 || 540.0 || 2
+
+GROUND TRUTH FOR: f
+label: 158.0 || 238.0 || 742.0 || 608.0 || 7
+label: 436.0 || 252.0 || 603.0 || 304.0 || 7
+label: 779.0 || 236.0 || 1023.0 || 483.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 22.0 || 136.0 || 647.0 || 647.0 || 7
+label: 324.0 || 101.0 || 986.0 || 674.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 198.0 || 340.0 || 734.0 || 688.0 || 2
+
+GROUND TRUTH FOR: 0
+label: 36.0 || 213.0 || 70.0 || 271.0 || 7
+label: 200.0 || 208.0 || 223.0 || 268.0 || 7
+label: 200.0 || 131.0 || 1023.0 || 840.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 94.0 || 54.0 || 1022.0 || 767.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 188.0 || 225.0 || 799.0 || 604.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 588.0 || 324.0 || 1022.0 || 676.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 68.0 || 330.0 || 994.0 || 706.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 266.0 || 203.0 || 841.0 || 605.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 92.0 || 265.0 || 465.0 || 776.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 106.0 || 26.0 || 770.0 || 706.0 || 5
+
+GROUND TRUTH FOR: 1
+label: 6.0 || 45.0 || 476.0 || 479.0 || 4
+label: 774.0 || 250.0 || 960.0 || 394.0 || 4
+
+GROUND TRUTH FOR: 1
+label: -1.0 || -1.0 || 1017.0 || 746.0 || 3
+
+GROUND TRUTH FOR: 1
+label: 295.0 || 260.0 || 811.0 || 670.0 || 7
+label: 384.0 || 204.0 || 766.0 || 574.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 93.0 || 27.0 || 826.0 || 767.0 || 0
+
+GROUND TRUTH FOR: 2
+label: 23.0 || 82.0 || 517.0 || 895.0 || 7
+label: 215.0 || 121.0 || 963.0 || 989.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 314.0 || 299.0 || 674.0 || 762.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 187.0 || 310.0 || 523.0 || 746.0 || 6
+
+GROUND TRUTH FOR: 2
+label: 0.0 || -1.0 || 1021.0 || 1019.0 || 1
+
+GROUND TRUTH FOR: 2
+label: 178.0 || 49.0 || 1023.0 || 682.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 276.0 || 251.0 || 842.0 || 682.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 19.0 || 286.0 || 320.0 || 547.0 || 3
+label: 469.0 || 222.0 || 900.0 || 551.0 || 3
+
+GROUND TRUTH FOR: 2
+label: 76.0 || 148.0 || 541.0 || 607.0 || 7
+label: 241.0 || 148.0 || 696.0 || 568.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 83.0 || 247.0 || 618.0 || 478.0 || 3
+label: 346.0 || 64.0 || 664.0 || 372.0 || 3
+label: 410.0 || 231.0 || 998.0 || 472.0 || 3
+
+GROUND TRUTH FOR: 3
+label: 158.0 || 63.0 || 910.0 || 672.0 || 3
+
+GROUND TRUTH FOR: 3
+label: 376.0 || 159.0 || 760.0 || 655.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 183.0 || 59.0 || 943.0 || 970.0 || 5
+
+GROUND TRUTH FOR: 3
+label: 69.0 || 15.0 || 948.0 || 739.0 || 3
+
+GROUND TRUTH FOR: 3
+label: 206.0 || -1.0 || 954.0 || 1021.0 || 7
+
+GROUND TRUTH FOR: 3
+label: -1.0 || 3.0 || 674.0 || 1022.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 350.0 || 54.0 || 788.0 || 671.0 || 3
+
+GROUND TRUTH FOR: 3
+label: -1.0 || 144.0 || 732.0 || 651.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 347.0 || 195.0 || 580.0 || 581.0 || 6
+
+GROUND TRUTH FOR: 4
+label: 87.0 || 236.0 || 310.0 || 598.0 || 7
+label: 403.0 || 140.0 || 631.0 || 600.0 || 7
+label: 727.0 || 193.0 || 940.0 || 622.0 || 7
+
+GROUND TRUTH FOR: 5
+label: -1.0 || 274.0 || 84.0 || 384.0 || 7
+label: -1.0 || 277.0 || 85.0 || 411.0 || 7
+label: 251.0 || 180.0 || 750.0 || 502.0 || 7
+label: 270.0 || 303.0 || 367.0 || 378.0 || 7
+label: 686.0 || 284.0 || 788.0 || 341.0 || 7
+label: 888.0 || 274.0 || 1014.0 || 388.0 || 7
+
+GROUND TRUTH FOR: 5
+label: 167.0 || 37.0 || 892.0 || 682.0 || 3
+
+GROUND TRUTH FOR: 5
+label: 0.0 || 121.0 || 1023.0 || 657.0 || 4
+
+GROUND TRUTH FOR: 5
+label: 228.0 || 166.0 || 890.0 || 435.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 378.0 || 187.0 || 626.0 || 624.0 || 3
+label: 532.0 || 190.0 || 739.0 || 607.0 || 3
+label: 636.0 || 157.0 || 884.0 || 584.0 || 3
+
+GROUND TRUTH FOR: 6
+label: 424.0 || 217.0 || 641.0 || 512.0 || 6
+
+GROUND TRUTH FOR: 6
+label: 150.0 || 61.0 || 859.0 || 615.0 || 5
+
+GROUND TRUTH FOR: 6
+label: 251.0 || 53.0 || 766.0 || 632.0 || 3
+
+GROUND TRUTH FOR: 6
+label: 193.0 || 114.0 || 1023.0 || 740.0 || 3
+
+GROUND TRUTH FOR: 7
+label: 22.0 || 31.0 || 1022.0 || 616.0 || 2
+
+GROUND TRUTH FOR: 7
+label: 319.0 || 334.0 || 419.0 || 524.0 || 7
+label: 752.0 || 468.0 || 828.0 || 535.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 422.0 || 76.0 || 842.0 || 556.0 || 3
+
+GROUND TRUTH FOR: 7
+label: 203.0 || 114.0 || 474.0 || 554.0 || 3
+
+GROUND TRUTH FOR: 7
+label: 177.0 || 28.0 || 559.0 || 766.0 || 3
+
+GROUND TRUTH FOR: 7
+label: 53.0 || 256.0 || 902.0 || 508.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 109.0 || 61.0 || 937.0 || 553.0 || 5
+
+GROUND TRUTH FOR: 8
+label: 36.0 || 222.0 || 713.0 || 558.0 || 3
+
+GROUND TRUTH FOR: 8
+label: 15.0 || 10.0 || 1022.0 || 682.0 || 4
+
+GROUND TRUTH FOR: 8
+label: 682.0 || 403.0 || 878.0 || 556.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 74.0 || 75.0 || 999.0 || 730.0 || 4
+
+GROUND TRUTH FOR: 9
+label: -1.0 || -1.0 || 1021.0 || 1022.0 || 3
+
+GROUND TRUTH FOR: 9
+label: 76.0 || 114.0 || 616.0 || 1023.0 || 0
+
+GROUND TRUTH FOR: 9
+label: 150.0 || 74.0 || 678.0 || 558.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 0.0 || -1.0 || 791.0 || 1020.0 || 1
+
+GROUND TRUTH FOR: 9
+label: -1.0 || 142.0 || 949.0 || 626.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 255.0 || 101.0 || 685.0 || 914.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 218.0 || 59.0 || 871.0 || 679.0 || 0
+
+GROUND TRUTH FOR: 9
+label: -1.0 || 166.0 || 946.0 || 658.0 || 7
+
+GROUND TRUTH FOR: a
+label: 151.0 || 213.0 || 935.0 || 727.0 || 7
+
+GROUND TRUTH FOR: a
+label: 101.0 || 217.0 || 706.0 || 644.0 || 5
+
+GROUND TRUTH FOR: a
+label: -1.0 || 283.0 || 507.0 || 751.0 || 2
+label: -1.0 || 33.0 || 808.0 || 199.0 || 2
+label: -1.0 || 155.0 || 986.0 || 546.0 || 2
+
+GROUND TRUTH FOR: a
+label: -1.0 || 119.0 || 852.0 || 738.0 || 7
+
+GROUND TRUTH FOR: a
+label: -1.0 || 252.0 || 679.0 || 978.0 || 2
+
+GROUND TRUTH FOR: a
+label: 287.0 || 38.0 || 1008.0 || 778.0 || 3
+
+GROUND TRUTH FOR: a
+label: 151.0 || 319.0 || 559.0 || 682.0 || 7
+label: 222.0 || 384.0 || 256.0 || 434.0 || 7
+label: 544.0 || 362.0 || 583.0 || 400.0 || 7
+label: 566.0 || 321.0 || 857.0 || 681.0 || 7
+label: 914.0 || 365.0 || 1023.0 || 609.0 || 7
+
+GROUND TRUTH FOR: a
+label: 45.0 || -1.0 || 865.0 || 767.0 || 7
+
+GROUND TRUTH FOR: b
+label: 20.0 || 354.0 || 586.0 || 885.0 || 7
+
+GROUND TRUTH FOR: b
+label: 59.0 || 338.0 || 1022.0 || 658.0 || 2
+
+GROUND TRUTH FOR: b
+label: 59.0 || 240.0 || 577.0 || 515.0 || 5
+label: 540.0 || 158.0 || 1023.0 || 422.0 || 5
+
+GROUND TRUTH FOR: b
+label: 159.0 || 285.0 || 1002.0 || 681.0 || 7
+
+GROUND TRUTH FOR: b
+label: 171.0 || 287.0 || 428.0 || 475.0 || 5
+label: 511.0 || 303.0 || 776.0 || 577.0 || 5
+
+GROUND TRUTH FOR: b
+label: -1.0 || 55.0 || 859.0 || 1005.0 || 3
+label: -1.0 || 236.0 || 497.0 || 1005.0 || 3
+
+GROUND TRUTH FOR: b
+label: 314.0 || 162.0 || 1013.0 || 727.0 || 7
+label: 496.0 || 145.0 || 1023.0 || 669.0 || 7
+
+GROUND TRUTH FOR: b
+label: 91.0 || 157.0 || 449.0 || 831.0 || 3
+
+GROUND TRUTH FOR: b
+label: 136.0 || 180.0 || 655.0 || 767.0 || 7
+label: 681.0 || 296.0 || 797.0 || 533.0 || 7
+
+GROUND TRUTH FOR: c
+label: 45.0 || 9.0 || 899.0 || 547.0 || 4
+
+GROUND TRUTH FOR: c
+label: 344.0 || 138.0 || 962.0 || 619.0 || 7
+
+GROUND TRUTH FOR: c
+label: 94.0 || 375.0 || 640.0 || 930.0 || 7
+
+GROUND TRUTH FOR: c
+label: 188.0 || 114.0 || 754.0 || 679.0 || 7
+
+GROUND TRUTH FOR: c
+label: 150.0 || 114.0 || 799.0 || 634.0 || 7
+
+GROUND TRUTH FOR: d
+label: 92.0 || 147.0 || 251.0 || 612.0 || 7
+label: 243.0 || 78.0 || 359.0 || 455.0 || 7
+label: 458.0 || 66.0 || 855.0 || 685.0 || 7
+label: 612.0 || 117.0 || 727.0 || 572.0 || 7
+label: 705.0 || 111.0 || 843.0 || 425.0 || 7
+
+GROUND TRUTH FOR: d
+label: 350.0 || 115.0 || 711.0 || 516.0 || 4
+
+GROUND TRUTH FOR: d
+label: 174.0 || 307.0 || 452.0 || 1022.0 || 7
+
+GROUND TRUTH FOR: d
+label: 71.0 || 173.0 || 646.0 || 682.0 || 7
+label: 597.0 || 262.0 || 816.0 || 682.0 || 7
+
+GROUND TRUTH FOR: d
+label: 81.0 || 156.0 || 767.0 || 767.0 || 7
+
+GROUND TRUTH FOR: d
+label: 186.0 || 131.0 || 741.0 || 969.0 || 6
+
+GROUND TRUTH FOR: d
+label: 313.0 || 103.0 || 1023.0 || 681.0 || 3
+
+GROUND TRUTH FOR: e
+label: 31.0 || 126.0 || 683.0 || 543.0 || 7
+
+GROUND TRUTH FOR: e
+label: -1.0 || 158.0 || 830.0 || 773.0 || 7
+
+GROUND TRUTH FOR: e
+label: -1.0 || 213.0 || 791.0 || 553.0 || 7
+
+GROUND TRUTH FOR: e
+label: 60.0 || 98.0 || 427.0 || 382.0 || 7
+
+GROUND TRUTH FOR: e
+label: 360.0 || 303.0 || 433.0 || 423.0 || 7
+label: 388.0 || 310.0 || 516.0 || 430.0 || 7
+label: 426.0 || 316.0 || 563.0 || 436.0 || 7
+
+GROUND TRUTH FOR: e
+label: 345.0 || 98.0 || 584.0 || 713.0 || 4
+label: 700.0 || 281.0 || 839.0 || 471.0 || 4
+
+GROUND TRUTH FOR: e
+label: 0.0 || 14.0 || 560.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: e
+label: 96.0 || 37.0 || 1023.0 || 829.0 || 3
+
+GROUND TRUTH FOR: f
+label: 381.0 || 337.0 || 792.0 || 632.0 || 3
+
+GROUND TRUTH FOR: f
+label: 414.0 || 500.0 || 669.0 || 902.0 || 6
+
+GROUND TRUTH FOR: 0
+label: 29.0 || 175.0 || 1023.0 || 682.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 87.0 || 52.0 || 836.0 || 603.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 227.0 || 213.0 || 784.0 || 770.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 306.0 || 24.0 || 634.0 || 491.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 177.0 || 297.0 || 697.0 || 743.0 || 7
+label: 643.0 || 417.0 || 963.0 || 721.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 247.0 || 348.0 || 615.0 || 642.0 || 0
+label: 844.0 || 376.0 || 862.0 || 392.0 || 0
+
+GROUND TRUTH FOR: 1
+label: 470.0 || 187.0 || 681.0 || 702.0 || 6
+label: 696.0 || 75.0 || 809.0 || 713.0 || 6
+
+GROUND TRUTH FOR: 1
+label: 444.0 || 39.0 || 874.0 || 670.0 || 6
+
+GROUND TRUTH FOR: 1
+label: 44.0 || -1.0 || 994.0 || 392.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 85.0 || 98.0 || 476.0 || 682.0 || 7
+label: 149.0 || 34.0 || 388.0 || 538.0 || 7
+label: 153.0 || 36.0 || 338.0 || 526.0 || 7
+label: 403.0 || 235.0 || 861.0 || 682.0 || 7
+
+GROUND TRUTH FOR: 1
+label: -1.0 || 710.0 || 117.0 || 815.0 || 0
+label: 139.0 || 698.0 || 310.0 || 810.0 || 0
+label: 331.0 || 694.0 || 511.0 || 804.0 || 0
+label: 551.0 || 678.0 || 717.0 || 800.0 || 0
+
+GROUND TRUTH FOR: 1
+label: 50.0 || 121.0 || 833.0 || 630.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 158.0 || 146.0 || 667.0 || 652.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 217.0 || 215.0 || 804.0 || 697.0 || 4
+
+GROUND TRUTH FOR: 2
+label: -1.0 || 466.0 || 89.0 || 584.0 || 4
+label: -1.0 || 312.0 || 177.0 || 459.0 || 4
+label: 82.0 || 293.0 || 273.0 || 381.0 || 4
+label: 83.0 || 356.0 || 595.0 || 716.0 || 4
+label: 353.0 || 271.0 || 893.0 || 599.0 || 4
+label: 721.0 || 246.0 || 986.0 || 442.0 || 4
+
+GROUND TRUTH FOR: 2
+label: -1.0 || 243.0 || 584.0 || 427.0 || 2
+label: 167.0 || 264.0 || 1022.0 || 540.0 || 2
+label: 179.0 || -1.0 || 431.0 || 94.0 || 2
+
+GROUND TRUTH FOR: 3
+label: 9.0 || 82.0 || 697.0 || 549.0 || 7
+
+GROUND TRUTH FOR: 3
+label: -1.0 || 17.0 || 967.0 || 848.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 345.0 || 293.0 || 712.0 || 1015.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 599.0 || 234.0 || 729.0 || 471.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 30.0 || -1.0 || 631.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 243.0 || 28.0 || 710.0 || 654.0 || 4
+label: 888.0 || 71.0 || 1023.0 || 628.0 || 4
+
+GROUND TRUTH FOR: 4
+label: 329.0 || 130.0 || 1022.0 || 667.0 || 7
+label: 329.0 || 130.0 || 700.0 || 667.0 || 7
+label: 844.0 || 339.0 || 1023.0 || 593.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 43.0 || 21.0 || 646.0 || 1001.0 || 3
+
+GROUND TRUTH FOR: 4
+label: -1.0 || 2.0 || 1023.0 || 683.0 || 3
+
+GROUND TRUTH FOR: 4
+label: 350.0 || 144.0 || 707.0 || 671.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 75.0 || 94.0 || 871.0 || 645.0 || 7
+
+GROUND TRUTH FOR: 5
+label: -1.0 || 216.0 || 267.0 || 469.0 || 7
+label: 106.0 || 246.0 || 453.0 || 471.0 || 7
+label: 337.0 || 211.0 || 756.0 || 466.0 || 7
+
+GROUND TRUTH FOR: 5
+label: 102.0 || 215.0 || 518.0 || 478.0 || 3
+label: 348.0 || 92.0 || 490.0 || 421.0 || 3
+label: 420.0 || 177.0 || 939.0 || 495.0 || 3
+
+GROUND TRUTH FOR: 5
+label: 26.0 || 174.0 || 678.0 || 1022.0 || 7
+
+GROUND TRUTH FOR: 5
+label: -1.0 || 105.0 || 1013.0 || 766.0 || 2
+
+GROUND TRUTH FOR: 6
+label: 127.0 || 42.0 || 891.0 || 683.0 || 4
+
+GROUND TRUTH FOR: 6
+label: -1.0 || 82.0 || 295.0 || 679.0 || 4
+label: 209.0 || -1.0 || 1023.0 || 679.0 || 4
+
+GROUND TRUTH FOR: 6
+label: 222.0 || 181.0 || 642.0 || 676.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 334.0 || 183.0 || 722.0 || 681.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 255.0 || 305.0 || 497.0 || 832.0 || 6
+
+GROUND TRUTH FOR: 6
+label: 76.0 || 340.0 || 617.0 || 1022.0 || 7
+label: 581.0 || 512.0 || 689.0 || 678.0 || 7
+
+GROUND TRUTH FOR: 6
+label: -1.0 || 25.0 || 107.0 || 578.0 || 4
+label: 62.0 || 84.0 || 454.0 || 638.0 || 4
+label: 371.0 || 53.0 || 753.0 || 681.0 || 4
+label: 576.0 || 309.0 || 1023.0 || 764.0 || 4
+
+GROUND TRUTH FOR: 6
+label: 216.0 || 334.0 || 335.0 || 703.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 652.0 || 214.0 || 1002.0 || 835.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 83.0 || 237.0 || 930.0 || 606.0 || 7
+
+GROUND TRUTH FOR: 6
+label: -1.0 || 346.0 || 193.0 || 549.0 || 7
+label: 396.0 || 92.0 || 1022.0 || 684.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 687.0 || 164.0 || 923.0 || 372.0 || 7
+label: 746.0 || 173.0 || 982.0 || 384.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 36.0 || 205.0 || 346.0 || 424.0 || 7
+label: 484.0 || 210.0 || 863.0 || 452.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 365.0 || 147.0 || 567.0 || 571.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 374.0 || 320.0 || 794.0 || 602.0 || 7
+label: 550.0 || 305.0 || 1006.0 || 581.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 550.0 || 144.0 || 715.0 || 440.0 || 3
+
+GROUND TRUTH FOR: 7
+label: 114.0 || 272.0 || 1023.0 || 639.0 || 2
+
+GROUND TRUTH FOR: 8
+label: 192.0 || 229.0 || 949.0 || 606.0 || 7
+label: 870.0 || 248.0 || 1023.0 || 576.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 68.0 || 149.0 || 747.0 || 757.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 259.0 || 148.0 || 364.0 || 232.0 || 3
+label: 466.0 || 241.0 || 664.0 || 465.0 || 3
+label: 991.0 || 188.0 || 1023.0 || 303.0 || 3
+
+GROUND TRUTH FOR: 9
+label: 312.0 || 319.0 || 413.0 || 487.0 || 3
+label: 323.0 || 323.0 || 568.0 || 524.0 || 3
+
+GROUND TRUTH FOR: 9
+label: 85.0 || 182.0 || 315.0 || 445.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 429.0 || 235.0 || 666.0 || 500.0 || 3
+
+GROUND TRUTH FOR: 9
+label: 3.0 || 22.0 || 1023.0 || 630.0 || 0
+
+GROUND TRUTH FOR: 9
+label: 200.0 || 2.0 || 916.0 || 767.0 || 4
+
+GROUND TRUTH FOR: 9
+label: 88.0 || 41.0 || 1022.0 || 753.0 || 3
+
+GROUND TRUTH FOR: 9
+label: 6.0 || 314.0 || 324.0 || 701.0 || 7
+label: 587.0 || 391.0 || 686.0 || 598.0 || 7
+label: 655.0 || 397.0 || 796.0 || 607.0 || 7
+label: 834.0 || 442.0 || 902.0 || 569.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 51.0 || 138.0 || 526.0 || 682.0 || 7
+label: 614.0 || 163.0 || 1023.0 || 682.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 106.0 || 305.0 || 299.0 || 426.0 || 4
+label: 212.0 || 434.0 || 272.0 || 469.0 || 4
+label: 253.0 || 334.0 || 665.0 || 488.0 || 4
+label: 284.0 || 235.0 || 540.0 || 375.0 || 4
+label: 387.0 || 181.0 || 565.0 || 251.0 || 4
+label: 463.0 || 250.0 || 586.0 || 315.0 || 4
+label: 510.0 || 210.0 || 727.0 || 275.0 || 4
+label: 705.0 || 84.0 || 907.0 || 177.0 || 4
+label: 770.0 || 81.0 || 956.0 || 163.0 || 4
+
+GROUND TRUTH FOR: a
+label: 367.0 || 154.0 || 700.0 || 493.0 || 7
+
+GROUND TRUTH FOR: a
+label: -1.0 || 313.0 || 434.0 || 714.0 || 7
+label: 249.0 || 0.0 || 801.0 || 652.0 || 7
+label: 606.0 || 362.0 || 945.0 || 735.0 || 7
+
+GROUND TRUTH FOR: a
+label: 54.0 || 176.0 || 344.0 || 449.0 || 7
+label: 529.0 || 262.0 || 742.0 || 446.0 || 7
+label: 614.0 || 216.0 || 993.0 || 508.0 || 7
+
+GROUND TRUTH FOR: a
+label: 440.0 || 397.0 || 605.0 || 606.0 || 3
+
+GROUND TRUTH FOR: a
+label: 20.0 || 581.0 || 496.0 || 935.0 || 7
+
+GROUND TRUTH FOR: a
+label: 228.0 || 70.0 || 776.0 || 699.0 || 3
+
+GROUND TRUTH FOR: a
+label: -1.0 || 28.0 || 681.0 || 1022.0 || 5
+
+GROUND TRUTH FOR: b
+label: -1.0 || 46.0 || 948.0 || 729.0 || 4
+
+GROUND TRUTH FOR: b
+label: 193.0 || 68.0 || 1023.0 || 766.0 || 5
+
+GROUND TRUTH FOR: b
+label: 237.0 || -1.0 || 998.0 || 767.0 || 7
+
+GROUND TRUTH FOR: b
+label: 676.0 || 273.0 || 991.0 || 542.0 || 0
+
+GROUND TRUTH FOR: b
+label: 354.0 || 579.0 || 522.0 || 746.0 || 7
+label: 794.0 || 668.0 || 968.0 || 732.0 || 7
+
+GROUND TRUTH FOR: b
+label: -1.0 || 123.0 || 959.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: b
+label: 291.0 || 85.0 || 1022.0 || 681.0 || 0
+
+GROUND TRUTH FOR: c
+label: 92.0 || 304.0 || 688.0 || 642.0 || 7
+
+GROUND TRUTH FOR: c
+label: 104.0 || 225.0 || 679.0 || 527.0 || 1
+
+GROUND TRUTH FOR: c
+label: 310.0 || 185.0 || 738.0 || 667.0 || 7
+label: 796.0 || 286.0 || 977.0 || 396.0 || 7
+
+GROUND TRUTH FOR: c
+label: 210.0 || 382.0 || 1023.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: c
+label: -1.0 || 156.0 || 1023.0 || 717.0 || 7
+
+GROUND TRUTH FOR: d
+label: 103.0 || 140.0 || 920.0 || 495.0 || 7
+
+GROUND TRUTH FOR: d
+label: -1.0 || 22.0 || 699.0 || 681.0 || 3
+
+GROUND TRUTH FOR: d
+label: -1.0 || -1.0 || 995.0 || 679.0 || 7
+
+GROUND TRUTH FOR: d
+label: 34.0 || -1.0 || 682.0 || 1023.0 || 3
+
+GROUND TRUTH FOR: d
+label: 240.0 || 89.0 || 576.0 || 630.0 || 6
+label: 547.0 || 225.0 || 661.0 || 639.0 || 6
+
+GROUND TRUTH FOR: d
+label: -1.0 || 158.0 || 888.0 || 593.0 || 2
+
+GROUND TRUTH FOR: e
+label: 95.0 || 164.0 || 763.0 || 724.0 || 4
+label: 700.0 || 250.0 || 1023.0 || 607.0 || 4
+
+GROUND TRUTH FOR: e
+label: 6.0 || 202.0 || 681.0 || 664.0 || 7
+
+GROUND TRUTH FOR: e
+label: 129.0 || 229.0 || 545.0 || 670.0 || 4
+label: 457.0 || 227.0 || 805.0 || 756.0 || 4
+
+GROUND TRUTH FOR: e
+label: 73.0 || 217.0 || 997.0 || 660.0 || 7
+
+GROUND TRUTH FOR: e
+label: 628.0 || 330.0 || 867.0 || 438.0 || 7
+
+GROUND TRUTH FOR: f
+label: 41.0 || 222.0 || 419.0 || 544.0 || 7
+label: 222.0 || 125.0 || 970.0 || 726.0 || 7
+
+GROUND TRUTH FOR: f
+label: -1.0 || -1.0 || 1022.0 || 574.0 || 7
+
+GROUND TRUTH FOR: f
+label: 160.0 || 73.0 || 818.0 || 904.0 || 7
+
+GROUND TRUTH FOR: f
+label: -1.0 || 142.0 || 807.0 || 681.0 || 7
+
+GROUND TRUTH FOR: f
+label: -1.0 || 344.0 || 1023.0 || 680.0 || 7
+
+GROUND TRUTH FOR: f
+label: -1.0 || 307.0 || 678.0 || 1019.0 || 7
+
+GROUND TRUTH FOR: f
+label: 62.0 || 85.0 || 566.0 || 644.0 || 3
+label: 537.0 || 6.0 || 896.0 || 740.0 || 3
+
+GROUND TRUTH FOR: 0
+label: 27.0 || 48.0 || 527.0 || 939.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 86.0 || 255.0 || 202.0 || 338.0 || 7
+label: 250.0 || 245.0 || 438.0 || 488.0 || 7
+label: 255.0 || 185.0 || 846.0 || 658.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 590.0 || 2.0 || 1023.0 || 766.0 || 6
+
+GROUND TRUTH FOR: 0
+label: 100.0 || 253.0 || 347.0 || 636.0 || 7
+label: 382.0 || 131.0 || 645.0 || 247.0 || 7
+label: 590.0 || 143.0 || 727.0 || 257.0 || 7
+label: 819.0 || 151.0 || 942.0 || 258.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 180.0 || 214.0 || 568.0 || 669.0 || 7
+
+GROUND TRUTH FOR: 0
+label: -1.0 || 5.0 || 1023.0 || 767.0 || 0
+
+GROUND TRUTH FOR: 0
+label: -1.0 || 518.0 || 927.0 || 766.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 239.0 || 244.0 || 835.0 || 656.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 54.0 || 258.0 || 954.0 || 506.0 || 2
+
+GROUND TRUTH FOR: 1
+label: -1.0 || 11.0 || 568.0 || 684.0 || 7
+label: 545.0 || 30.0 || 1023.0 || 683.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 329.0 || 312.0 || 1022.0 || 682.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 409.0 || 206.0 || 697.0 || 465.0 || 3
+
+GROUND TRUTH FOR: 2
+label: 328.0 || 226.0 || 662.0 || 428.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 216.0 || 175.0 || 674.0 || 964.0 || 1
+
+GROUND TRUTH FOR: 2
+label: 253.0 || 43.0 || 658.0 || 576.0 || 3
+
+GROUND TRUTH FOR: 2
+label: 48.0 || 301.0 || 408.0 || 776.0 || 7
+label: 145.0 || 336.0 || 670.0 || 804.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 126.0 || 223.0 || 780.0 || 611.0 || 5
+
+GROUND TRUTH FOR: 2
+label: 304.0 || 357.0 || 785.0 || 605.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 162.0 || 476.0 || 682.0 || 1022.0 || 7
+
+GROUND TRUTH FOR: 3
+label: -1.0 || 2.0 || 1015.0 || 860.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 223.0 || 331.0 || 620.0 || 684.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 143.0 || 141.0 || 971.0 || 594.0 || 7
+
+GROUND TRUTH FOR: 4
+label: -1.0 || 93.0 || 987.0 || 555.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 389.0 || 160.0 || 632.0 || 616.0 || 5
+
+GROUND TRUTH FOR: 4
+label: 59.0 || 40.0 || 959.0 || 785.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 105.0 || 504.0 || 252.0 || 610.0 || 3
+label: 372.0 || 499.0 || 469.0 || 587.0 || 3
+label: 546.0 || 528.0 || 803.0 || 691.0 || 3
+label: 856.0 || 495.0 || 967.0 || 614.0 || 3
+
+GROUND TRUTH FOR: 5
+label: -1.0 || 191.0 || 835.0 || 554.0 || 7
+
+GROUND TRUTH FOR: 5
+label: 179.0 || 202.0 || 783.0 || 458.0 || 7
+
+GROUND TRUTH FOR: 5
+label: -1.0 || -1.0 || 679.0 || 915.0 || 2
+
+GROUND TRUTH FOR: 5
+label: 125.0 || 165.0 || 466.0 || 627.0 || 3
+label: 471.0 || -1.0 || 1022.0 || 675.0 || 3
+
+GROUND TRUTH FOR: 5
+label: -1.0 || 132.0 || 902.0 || 598.0 || 2
+
+GROUND TRUTH FOR: 5
+label: -1.0 || 499.0 || 122.0 || 766.0 || 5
+label: 241.0 || 123.0 || 842.0 || 740.0 || 5
+
+GROUND TRUTH FOR: 5
+label: 1.0 || 1756.0 || 3481.0 || 3886.0 || 7
+label: 848.0 || 1644.0 || 4257.0 || 3886.0 || 7
+label: 1109.0 || -1.0 || 2487.0 || 794.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 223.0 || 163.0 || 526.0 || 944.0 || 3
+
+GROUND TRUTH FOR: 6
+label: 140.0 || 268.0 || 616.0 || 642.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 73.0 || 236.0 || 1023.0 || 974.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 30.0 || 14.0 || 937.0 || 1007.0 || 4
+
+GROUND TRUTH FOR: 6
+label: 59.0 || 294.0 || 599.0 || 645.0 || 7
+label: 668.0 || 329.0 || 963.0 || 541.0 || 7
+label: 922.0 || 285.0 || 945.0 || 300.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 273.0 || 280.0 || 949.0 || 459.0 || 7
+
+GROUND TRUTH FOR: 7
+label: -1.0 || 159.0 || 1023.0 || 417.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 68.0 || 304.0 || 520.0 || 623.0 || 3
+
+GROUND TRUTH FOR: 7
+label: 670.0 || 253.0 || 844.0 || 476.0 || 7
+
+GROUND TRUTH FOR: 8
+label: -1.0 || 180.0 || 1023.0 || 678.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 80.0 || 25.0 || 742.0 || 741.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 138.0 || 437.0 || 399.0 || 749.0 || 7
+label: 155.0 || 453.0 || 493.0 || 754.0 || 7
+label: 377.0 || 165.0 || 1023.0 || 767.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 396.0 || 163.0 || 705.0 || 405.0 || 4
+
+GROUND TRUTH FOR: 8
+label: 157.0 || -1.0 || 935.0 || 660.0 || 5
+
+GROUND TRUTH FOR: 8
+label: 159.0 || 266.0 || 537.0 || 619.0 || 4
+label: 514.0 || 354.0 || 590.0 || 421.0 || 4
+
+GROUND TRUTH FOR: 8
+label: -1.0 || 74.0 || 919.0 || 657.0 || 5
+
+GROUND TRUTH FOR: 8
+label: -1.0 || 109.0 || 865.0 || 1022.0 || 0
+
+GROUND TRUTH FOR: 8
+label: 113.0 || 779.0 || 648.0 || 1022.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 528.0 || 197.0 || 833.0 || 613.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 293.0 || 118.0 || 883.0 || 593.0 || 3
+
+GROUND TRUTH FOR: 9
+label: -1.0 || 280.0 || 1006.0 || 556.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 14.0 || 39.0 || 1008.0 || 599.0 || 4
+
+GROUND TRUTH FOR: 9
+label: 321.0 || 125.0 || 727.0 || 684.0 || 7
+label: 649.0 || 156.0 || 1023.0 || 591.0 || 7
+
+GROUND TRUTH FOR: 9
+label: -1.0 || 275.0 || 781.0 || 678.0 || 7
+
+GROUND TRUTH FOR: a
+label: -1.0 || 24.0 || 638.0 || 684.0 || 3
+
+GROUND TRUTH FOR: a
+label: 150.0 || 351.0 || 648.0 || 511.0 || 7
+label: 973.0 || 483.0 || 1023.0 || 538.0 || 7
+
+GROUND TRUTH FOR: a
+label: 77.0 || 114.0 || 1022.0 || 434.0 || 2
+
+GROUND TRUTH FOR: a
+label: -1.0 || 121.0 || 246.0 || 682.0 || 3
+label: 127.0 || -1.0 || 844.0 || 682.0 || 3
+
+GROUND TRUTH FOR: a
+label: 169.0 || 96.0 || 971.0 || 833.0 || 0
+
+GROUND TRUTH FOR: b
+label: 769.0 || 231.0 || 912.0 || 428.0 || 7
+label: 844.0 || 286.0 || 974.0 || 398.0 || 7
+
+GROUND TRUTH FOR: b
+label: -1.0 || 154.0 || 142.0 || 625.0 || 3
+label: 92.0 || 154.0 || 455.0 || 489.0 || 3
+label: 120.0 || 167.0 || 576.0 || 587.0 || 3
+label: 589.0 || 165.0 || 966.0 || 409.0 || 3
+label: 685.0 || 195.0 || 1023.0 || 667.0 || 3
+
+GROUND TRUTH FOR: b
+label: 396.0 || 205.0 || 942.0 || 617.0 || 5
+
+GROUND TRUTH FOR: b
+label: 84.0 || 175.0 || 690.0 || 1021.0 || 7
+
+GROUND TRUTH FOR: b
+label: 194.0 || 93.0 || 540.0 || 629.0 || 7
+
+GROUND TRUTH FOR: b
+label: 56.0 || 297.0 || 882.0 || 881.0 || 3
+
+GROUND TRUTH FOR: b
+label: -1.0 || 103.0 || 977.0 || 947.0 || 7
+
+GROUND TRUTH FOR: b
+label: 20.0 || 383.0 || 85.0 || 403.0 || 7
+label: 143.0 || 334.0 || 325.0 || 566.0 || 7
+label: 289.0 || 6.0 || 680.0 || 1002.0 || 7
+
+GROUND TRUTH FOR: b
+label: 139.0 || 439.0 || 550.0 || 755.0 || 3
+label: 278.0 || 174.0 || 382.0 || 234.0 || 3
+label: 394.0 || 408.0 || 832.0 || 776.0 || 3
+
+GROUND TRUTH FOR: b
+label: 100.0 || 367.0 || 964.0 || 528.0 || 7
+
+GROUND TRUTH FOR: b
+label: -1.0 || -1.0 || 966.0 || 955.0 || 3
+
+GROUND TRUTH FOR: c
+label: -1.0 || 63.0 || 710.0 || 716.0 || 4
+
+GROUND TRUTH FOR: c
+label: 179.0 || 253.0 || 661.0 || 754.0 || 7
+
+GROUND TRUTH FOR: c
+label: 191.0 || 333.0 || 561.0 || 893.0 || 7
+label: 525.0 || 400.0 || 717.0 || 646.0 || 7
+
+GROUND TRUTH FOR: c
+label: 279.0 || -1.0 || 1023.0 || 187.0 || 7
+label: 300.0 || 279.0 || 514.0 || 677.0 || 7
+
+GROUND TRUTH FOR: d
+label: -1.0 || -1.0 || 482.0 || 391.0 || 3
+
+GROUND TRUTH FOR: d
+label: 38.0 || 206.0 || 621.0 || 582.0 || 4
+label: 680.0 || 400.0 || 884.0 || 567.0 || 4
+
+GROUND TRUTH FOR: d
+label: 79.0 || 32.0 || 923.0 || 624.0 || 1
+
+GROUND TRUTH FOR: d
+label: 340.0 || 349.0 || 541.0 || 529.0 || 7
+
+GROUND TRUTH FOR: d
+label: 488.0 || 216.0 || 853.0 || 478.0 || 7
+
+GROUND TRUTH FOR: d
+label: -1.0 || 235.0 || 290.0 || 301.0 || 7
+label: 439.0 || 200.0 || 606.0 || 529.0 || 7
+
+GROUND TRUTH FOR: d
+label: 119.0 || 124.0 || 635.0 || 878.0 || 3
+
+GROUND TRUTH FOR: d
+label: 411.0 || 182.0 || 727.0 || 742.0 || 7
+
+GROUND TRUTH FOR: e
+label: -1.0 || 276.0 || 661.0 || 640.0 || 3
+
+GROUND TRUTH FOR: e
+label: 7.0 || 44.0 || 953.0 || 955.0 || 3
+
+GROUND TRUTH FOR: e
+label: -1.0 || 252.0 || 943.0 || 681.0 || 7
+
+GROUND TRUTH FOR: e
+label: 134.0 || 70.0 || 918.0 || 700.0 || 0
+
+GROUND TRUTH FOR: e
+label: -1.0 || -1.0 || 1023.0 || 645.0 || 7
+
+GROUND TRUTH FOR: f
+label: 243.0 || 202.0 || 1022.0 || 313.0 || 2
+
+GROUND TRUTH FOR: f
+label: 165.0 || 319.0 || 231.0 || 526.0 || 3
+label: 768.0 || 345.0 || 858.0 || 477.0 || 3
+
+GROUND TRUTH FOR: f
+label: 98.0 || 230.0 || 524.0 || 687.0 || 7
+
+GROUND TRUTH FOR: f
+label: 445.0 || 324.0 || 530.0 || 481.0 || 7
+
+GROUND TRUTH FOR: f
+label: 54.0 || 210.0 || 575.0 || 508.0 || 7
+
+GROUND TRUTH FOR: f
+label: 74.0 || 28.0 || 886.0 || 836.0 || 7
+
+GROUND TRUTH FOR: f
+label: 79.0 || 328.0 || 470.0 || 853.0 || 7
+label: 313.0 || 366.0 || 659.0 || 835.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 199.0 || 180.0 || 556.0 || 579.0 || 4
+
+GROUND TRUTH FOR: 0
+label: -1.0 || -1.0 || 556.0 || 766.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 229.0 || 272.0 || 431.0 || 503.0 || 4
+label: 350.0 || 12.0 || 894.0 || 766.0 || 4
+
+GROUND TRUTH FOR: 1
+label: 155.0 || 306.0 || 845.0 || 682.0 || 7
+label: 445.0 || 300.0 || 958.0 || 682.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 62.0 || 183.0 || 626.0 || 457.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 404.0 || 177.0 || 953.0 || 605.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 256.0 || 465.0 || 789.0 || 684.0 || 7
+label: 753.0 || -1.0 || 1023.0 || 321.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 225.0 || 139.0 || 1023.0 || 763.0 || 5
+
+GROUND TRUTH FOR: 1
+label: 84.0 || -1.0 || 767.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 143.0 || 39.0 || 897.0 || 964.0 || 3
+
+GROUND TRUTH FOR: 1
+label: 90.0 || 308.0 || 328.0 || 506.0 || 7
+label: 164.0 || 315.0 || 452.0 || 531.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 141.0 || 116.0 || 1023.0 || 554.0 || 5
+
+GROUND TRUTH FOR: 2
+label: 455.0 || 251.0 || 756.0 || 414.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 406.0 || 21.0 || 524.0 || 255.0 || 3
+
+GROUND TRUTH FOR: 2
+label: 414.0 || 143.0 || 630.0 || 633.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 168.0 || 184.0 || 429.0 || 605.0 || 7
+label: 555.0 || 162.0 || 724.0 || 655.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 52.0 || 351.0 || 458.0 || 890.0 || 4
+
+GROUND TRUTH FOR: 3
+label: 424.0 || 333.0 || 913.0 || 733.0 || 7
+
+GROUND TRUTH FOR: 3
+label: -1.0 || 138.0 || 927.0 || 681.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 203.0 || 62.0 || 1023.0 || 692.0 || 5
+
+GROUND TRUTH FOR: 4
+label: 502.0 || 192.0 || 771.0 || 516.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 237.0 || 52.0 || 864.0 || 765.0 || 3
+
+GROUND TRUTH FOR: 4
+label: 125.0 || 32.0 || 924.0 || 654.0 || 2
+
+GROUND TRUTH FOR: 4
+label: 227.0 || 254.0 || 321.0 || 542.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 43.0 || 55.0 || 890.0 || 679.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 142.0 || 244.0 || 633.0 || 766.0 || 0
+label: 611.0 || 172.0 || 761.0 || 674.0 || 0
+label: 700.0 || 383.0 || 1023.0 || 767.0 || 0
+
+GROUND TRUTH FOR: 4
+label: 5.0 || 86.0 || 1021.0 || 460.0 || 7
+
+GROUND TRUTH FOR: 4
+label: -1.0 || 182.0 || 386.0 || 455.0 || 4
+label: 336.0 || 129.0 || 712.0 || 393.0 || 4
+
+GROUND TRUTH FOR: 4
+label: 243.0 || 30.0 || 924.0 || 678.0 || 5
+
+GROUND TRUTH FOR: 4
+label: 186.0 || 121.0 || 907.0 || 580.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 150.0 || -1.0 || 875.0 || 681.0 || 5
+
+GROUND TRUTH FOR: 5
+label: 171.0 || 10.0 || 862.0 || 778.0 || 3
+
+GROUND TRUTH FOR: 5
+label: 166.0 || 132.0 || 799.0 || 584.0 || 7
+
+GROUND TRUTH FOR: 5
+label: 86.0 || 258.0 || 181.0 || 453.0 || 7
+label: 176.0 || 270.0 || 274.0 || 434.0 || 7
+label: 407.0 || 216.0 || 561.0 || 514.0 || 7
+label: 753.0 || 234.0 || 934.0 || 513.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 371.0 || 132.0 || 1022.0 || 681.0 || 7
+
+GROUND TRUTH FOR: 6
+label: -1.0 || 134.0 || 575.0 || 636.0 || 3
+label: 476.0 || 95.0 || 941.0 || 330.0 || 3
+
+GROUND TRUTH FOR: 6
+label: 290.0 || 370.0 || 926.0 || 681.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 127.0 || 229.0 || 475.0 || 475.0 || 7
+label: 664.0 || 100.0 || 855.0 || 316.0 || 7
+label: 703.0 || 70.0 || 953.0 || 331.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 252.0 || 280.0 || 368.0 || 381.0 || 7
+label: 254.0 || 284.0 || 606.0 || 390.0 || 7
+label: 325.0 || 285.0 || 440.0 || 380.0 || 7
+label: 433.0 || 290.0 || 515.0 || 383.0 || 7
+label: 486.0 || 288.0 || 616.0 || 389.0 || 7
+label: 897.0 || 290.0 || 999.0 || 389.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 22.0 || 49.0 || 988.0 || 657.0 || 2
+
+GROUND TRUTH FOR: 6
+label: 382.0 || 75.0 || 1022.0 || 540.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 47.0 || 248.0 || 1023.0 || 530.0 || 2
+
+GROUND TRUTH FOR: 7
+label: -1.0 || 658.0 || 43.0 || 758.0 || 7
+label: 8.0 || 425.0 || 683.0 || 1009.0 || 7
+label: 590.0 || 473.0 || 683.0 || 609.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 26.0 || 383.0 || 369.0 || 1022.0 || 7
+label: 444.0 || 289.0 || 765.0 || 1022.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 210.0 || 258.0 || 993.0 || 818.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 108.0 || 203.0 || 572.0 || 861.0 || 5
+
+GROUND TRUTH FOR: 7
+label: 0.0 || 2.0 || 656.0 || 958.0 || 1
+
+GROUND TRUTH FOR: 8
+label: 95.0 || 37.0 || 940.0 || 562.0 || 3
+label: 372.0 || 74.0 || 1022.0 || 591.0 || 3
+
+GROUND TRUTH FOR: 8
+label: 95.0 || 128.0 || 569.0 || 472.0 || 7
+label: 97.0 || 140.0 || 924.0 || 581.0 || 7
+label: 274.0 || 296.0 || 518.0 || 478.0 || 7
+label: 395.0 || 268.0 || 957.0 || 592.0 || 7
+
+GROUND TRUTH FOR: 8
+label: -1.0 || -1.0 || 1023.0 || 703.0 || 2
+
+GROUND TRUTH FOR: 8
+label: -1.0 || 63.0 || 524.0 || 570.0 || 1
+label: 357.0 || 103.0 || 1023.0 || 614.0 || 1
+
+GROUND TRUTH FOR: 9
+label: 157.0 || 264.0 || 665.0 || 1023.0 || 7
+label: 455.0 || 244.0 || 957.0 || 992.0 || 7
+
+GROUND TRUTH FOR: 9
+label: -1.0 || 53.0 || 897.0 || 682.0 || 2
+
+GROUND TRUTH FOR: 9
+label: 53.0 || 242.0 || 665.0 || 972.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 91.0 || 358.0 || 596.0 || 724.0 || 4
+label: 358.0 || 21.0 || 987.0 || 635.0 || 4
+
+GROUND TRUTH FOR: 9
+label: 87.0 || 101.0 || 582.0 || 418.0 || 4
+label: 148.0 || 246.0 || 512.0 || 557.0 || 4
+label: 468.0 || 230.0 || 871.0 || 573.0 || 4
+
+GROUND TRUTH FOR: a
+label: 331.0 || 194.0 || 614.0 || 671.0 || 7
+
+GROUND TRUTH FOR: a
+label: 598.0 || 242.0 || 983.0 || 661.0 || 7
+label: 933.0 || 335.0 || 1023.0 || 520.0 || 7
+
+GROUND TRUTH FOR: a
+label: 337.0 || 202.0 || 627.0 || 591.0 || 7
+label: 533.0 || 169.0 || 810.0 || 580.0 || 7
+
+GROUND TRUTH FOR: a
+label: -1.0 || 74.0 || 461.0 || 679.0 || 1
+label: -1.0 || 364.0 || 588.0 || 679.0 || 1
+label: 498.0 || 323.0 || 1023.0 || 679.0 || 1
+
+GROUND TRUTH FOR: b
+label: -1.0 || -1.0 || 583.0 || 1022.0 || 7
+
+GROUND TRUTH FOR: b
+label: 350.0 || 176.0 || 744.0 || 614.0 || 7
+
+GROUND TRUTH FOR: b
+label: 173.0 || 133.0 || 641.0 || 515.0 || 7
+label: 315.0 || 179.0 || 756.0 || 508.0 || 7
+
+GROUND TRUTH FOR: b
+label: 82.0 || 198.0 || 639.0 || 651.0 || 7
+
+GROUND TRUTH FOR: b
+label: 85.0 || 169.0 || 1022.0 || 691.0 || 7
+
+GROUND TRUTH FOR: b
+label: 267.0 || 33.0 || 784.0 || 639.0 || 3
+
+GROUND TRUTH FOR: b
+label: 243.0 || -1.0 || 1023.0 || 766.0 || 7
+
+GROUND TRUTH FOR: b
+label: -1.0 || 129.0 || 732.0 || 719.0 || 7
+
+GROUND TRUTH FOR: c
+label: 43.0 || 247.0 || 701.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: c
+label: 122.0 || 170.0 || 518.0 || 615.0 || 7
+
+GROUND TRUTH FOR: c
+label: 148.0 || 389.0 || 446.0 || 1022.0 || 7
+
+GROUND TRUTH FOR: c
+label: 377.0 || 358.0 || 572.0 || 600.0 || 3
+
+GROUND TRUTH FOR: c
+label: 128.0 || 138.0 || 604.0 || 635.0 || 7
+label: 310.0 || 167.0 || 734.0 || 628.0 || 7
+
+GROUND TRUTH FOR: d
+label: -1.0 || 361.0 || 190.0 || 673.0 || 2
+label: 7.0 || 178.0 || 951.0 || 429.0 || 2
+
+GROUND TRUTH FOR: d
+label: -1.0 || 266.0 || 1023.0 || 767.0 || 3
+
+GROUND TRUTH FOR: d
+label: 144.0 || 104.0 || 929.0 || 653.0 || 7
+
+GROUND TRUTH FOR: d
+label: -1.0 || 163.0 || 854.0 || 826.0 || 7
+
+GROUND TRUTH FOR: d
+label: -1.0 || 453.0 || 285.0 || 680.0 || 3
+label: 28.0 || 21.0 || 167.0 || 318.0 || 3
+label: 68.0 || 18.0 || 133.0 || 281.0 || 3
+label: 80.0 || 173.0 || 244.0 || 427.0 || 3
+label: 171.0 || 286.0 || 550.0 || 606.0 || 3
+label: 482.0 || 276.0 || 631.0 || 662.0 || 3
+label: 692.0 || 144.0 || 978.0 || 547.0 || 3
+label: 778.0 || 164.0 || 1023.0 || 265.0 || 3
+label: 921.0 || 239.0 || 1021.0 || 445.0 || 3
+
+GROUND TRUTH FOR: d
+label: 276.0 || 184.0 || 645.0 || 594.0 || 7
+
+GROUND TRUTH FOR: d
+label: 357.0 || 13.0 || 962.0 || 677.0 || 7
+
+GROUND TRUTH FOR: e
+label: 265.0 || 109.0 || 552.0 || 681.0 || 7
+label: 573.0 || 270.0 || 1002.0 || 559.0 || 7
+
+GROUND TRUTH FOR: e
+label: -1.0 || 225.0 || 780.0 || 832.0 || 7
+
+GROUND TRUTH FOR: e
+label: 152.0 || 126.0 || 828.0 || 767.0 || 7
+
+GROUND TRUTH FOR: e
+label: 214.0 || 141.0 || 649.0 || 678.0 || 1
+
+GROUND TRUTH FOR: e
+label: 120.0 || 9.0 || 835.0 || 883.0 || 0
+
+GROUND TRUTH FOR: e
+label: 238.0 || 45.0 || 853.0 || 601.0 || 3
+
+GROUND TRUTH FOR: f
+label: 136.0 || -1.0 || 970.0 || 558.0 || 2
+
+GROUND TRUTH FOR: f
+label: 358.0 || 207.0 || 761.0 || 524.0 || 1
+
+GROUND TRUTH FOR: f
+label: 127.0 || 77.0 || 967.0 || 832.0 || 6
+
+GROUND TRUTH FOR: f
+label: 378.0 || 102.0 || 789.0 || 535.0 || 3
+
+GROUND TRUTH FOR: f
+label: -1.0 || 170.0 || 742.0 || 682.0 || 7
+label: -1.0 || 323.0 || 137.0 || 657.0 || 7
+label: 92.0 || 211.0 || 1008.0 || 682.0 || 7
+
+GROUND TRUTH FOR: f
+label: 17.0 || 4.0 || 598.0 || 956.0 || 5
+
+GROUND TRUTH FOR: f
+label: 412.0 || 432.0 || 583.0 || 766.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 88.0 || 169.0 || 960.0 || 743.0 || 3
+
+GROUND TRUTH FOR: 0
+label: -1.0 || 156.0 || 873.0 || 594.0 || 1
+
+GROUND TRUTH FOR: 0
+label: -1.0 || 173.0 || 174.0 || 275.0 || 7
+label: 314.0 || 116.0 || 913.0 || 446.0 || 7
+label: 619.0 || 135.0 || 715.0 || 222.0 || 7
+label: 802.0 || 138.0 || 858.0 || 169.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 144.0 || 191.0 || 433.0 || 602.0 || 7
+label: 277.0 || 196.0 || 607.0 || 583.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 251.0 || 164.0 || 1001.0 || 810.0 || 5
+
+GROUND TRUTH FOR: 1
+label: -1.0 || 204.0 || 574.0 || 1023.0 || 7
+label: -1.0 || 396.0 || 574.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 495.0 || 319.0 || 802.0 || 617.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 88.0 || 200.0 || 658.0 || 723.0 || 7
+label: 449.0 || 259.0 || 1022.0 || 722.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 279.0 || 161.0 || 990.0 || 866.0 || 1
+
+GROUND TRUTH FOR: 1
+label: 72.0 || 114.0 || 579.0 || 607.0 || 3
+
+GROUND TRUTH FOR: 1
+label: 208.0 || 7.0 || 819.0 || 748.0 || 3
+
+GROUND TRUTH FOR: 1
+label: 72.0 || 153.0 || 375.0 || 386.0 || 4
+label: 353.0 || 154.0 || 716.0 || 397.0 || 4
+label: 694.0 || 180.0 || 912.0 || 368.0 || 4
+
+GROUND TRUTH FOR: 1
+label: -1.0 || 37.0 || 321.0 || 562.0 || 4
+label: 397.0 || 344.0 || 743.0 || 650.0 || 4
+
+GROUND TRUTH FOR: 2
+label: 569.0 || 129.0 || 900.0 || 623.0 || 6
+
+GROUND TRUTH FOR: 2
+label: 37.0 || 72.0 || 243.0 || 277.0 || 7
+label: 306.0 || 83.0 || 787.0 || 439.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 212.0 || 6.0 || 840.0 || 656.0 || 3
+
+GROUND TRUTH FOR: 2
+label: 82.0 || 185.0 || 626.0 || 992.0 || 4
+
+GROUND TRUTH FOR: 2
+label: 94.0 || 324.0 || 1023.0 || 488.0 || 2
+
+GROUND TRUTH FOR: 2
+label: 263.0 || 223.0 || 319.0 || 283.0 || 3
+label: 318.0 || 215.0 || 362.0 || 316.0 || 3
+label: 419.0 || 171.0 || 829.0 || 619.0 || 3
+label: 867.0 || 387.0 || 921.0 || 474.0 || 3
+label: 892.0 || 349.0 || 928.0 || 416.0 || 3
+label: 934.0 || 180.0 || 989.0 || 238.0 || 3
+label: 992.0 || 186.0 || 1023.0 || 251.0 || 3
+
+GROUND TRUTH FOR: 2
+label: 38.0 || 64.0 || 771.0 || 459.0 || 5
+
+GROUND TRUTH FOR: 2
+label: 338.0 || 243.0 || 760.0 || 607.0 || 4
+
+GROUND TRUTH FOR: 2
+label: 495.0 || 282.0 || 791.0 || 693.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 252.0 || 285.0 || 397.0 || 566.0 || 7
+label: 461.0 || 249.0 || 606.0 || 547.0 || 7
+label: 651.0 || 294.0 || 804.0 || 510.0 || 7
+
+GROUND TRUTH FOR: 3
+label: -1.0 || 364.0 || 714.0 || 1023.0 || 3
+label: 330.0 || 59.0 || 1022.0 || 949.0 || 3
+
+GROUND TRUTH FOR: 3
+label: 102.0 || 433.0 || 461.0 || 780.0 || 7
+label: 167.0 || 412.0 || 438.0 || 744.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 318.0 || 19.0 || 677.0 || 531.0 || 7
+label: 600.0 || 37.0 || 874.0 || 617.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 60.0 || 335.0 || 431.0 || 632.0 || 4
+label: 113.0 || 252.0 || 566.0 || 691.0 || 4
+label: 565.0 || 220.0 || 1023.0 || 752.0 || 4
+
+GROUND TRUTH FOR: 3
+label: 80.0 || 331.0 || 1023.0 || 677.0 || 2
+
+GROUND TRUTH FOR: 3
+label: 154.0 || 233.0 || 626.0 || 612.0 || 3
+label: 587.0 || 130.0 || 849.0 || 555.0 || 3
+label: 737.0 || 256.0 || 951.0 || 507.0 || 3
+
+GROUND TRUTH FOR: 3
+label: -1.0 || 381.0 || 682.0 || 996.0 || 7
+label: 63.0 || 399.0 || 614.0 || 874.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 178.0 || 56.0 || 423.0 || 301.0 || 7
+label: 364.0 || 142.0 || 954.0 || 644.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 107.0 || 228.0 || 724.0 || 923.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 147.0 || 188.0 || 872.0 || 481.0 || 2
+
+GROUND TRUTH FOR: 4
+label: 131.0 || 257.0 || 323.0 || 978.0 || 7
+
+GROUND TRUTH FOR: 4
+label: -1.0 || 313.0 || 377.0 || 678.0 || 7
+label: 679.0 || 287.0 || 1022.0 || 678.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 113.0 || 318.0 || 679.0 || 807.0 || 5
+
+GROUND TRUTH FOR: 4
+label: 177.0 || 187.0 || 669.0 || 766.0 || 7
+
+GROUND TRUTH FOR: 5
+label: 109.0 || 368.0 || 510.0 || 586.0 || 3
+label: 140.0 || 205.0 || 180.0 || 248.0 || 3
+label: 250.0 || 204.0 || 271.0 || 234.0 || 3
+label: 488.0 || 334.0 || 893.0 || 575.0 || 3
+label: 655.0 || 173.0 || 722.0 || 257.0 || 3
+
+GROUND TRUTH FOR: 5
+label: 268.0 || 259.0 || 636.0 || 605.0 || 7
+
+GROUND TRUTH FOR: 5
+label: 119.0 || 91.0 || 1023.0 || 678.0 || 7
+
+GROUND TRUTH FOR: 6
+label: -1.0 || 121.0 || 1022.0 || 767.0 || 0
+
+GROUND TRUTH FOR: 6
+label: 307.0 || 167.0 || 825.0 || 736.0 || 7
+label: 414.0 || 187.0 || 944.0 || 650.0 || 7
+label: 539.0 || 186.0 || 945.0 || 650.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 88.0 || 3.0 || 826.0 || 789.0 || 3
+
+GROUND TRUTH FOR: 6
+label: 699.0 || 279.0 || 878.0 || 515.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 388.0 || 151.0 || 821.0 || 555.0 || 3
+
+GROUND TRUTH FOR: 6
+label: 17.0 || 328.0 || 612.0 || 782.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 77.0 || 234.0 || 623.0 || 577.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 59.0 || 125.0 || 586.0 || 799.0 || 3
+
+GROUND TRUTH FOR: 7
+label: 44.0 || 324.0 || 832.0 || 468.0 || 2
+
+GROUND TRUTH FOR: 8
+label: -1.0 || -1.0 || 961.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: 8
+label: -1.0 || 49.0 || 992.0 || 573.0 || 5
+
+GROUND TRUTH FOR: 8
+label: 934.0 || 129.0 || 1022.0 || 389.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 113.0 || 165.0 || 528.0 || 540.0 || 7
+
+GROUND TRUTH FOR: 8
+label: -1.0 || 228.0 || 261.0 || 605.0 || 4
+label: -1.0 || 105.0 || 431.0 || 492.0 || 4
+label: 505.0 || 101.0 || 932.0 || 503.0 || 4
+label: 733.0 || 252.0 || 1023.0 || 597.0 || 4
+
+GROUND TRUTH FOR: 8
+label: 474.0 || 119.0 || 855.0 || 576.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 325.0 || 239.0 || 620.0 || 520.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 55.0 || 425.0 || 130.0 || 602.0 || 3
+label: 264.0 || 452.0 || 398.0 || 621.0 || 3
+label: 410.0 || 492.0 || 490.0 || 616.0 || 3
+label: 662.0 || 470.0 || 812.0 || 614.0 || 3
+label: 796.0 || 522.0 || 892.0 || 667.0 || 3
+label: 889.0 || 490.0 || 1023.0 || 561.0 || 3
+label: 915.0 || 515.0 || 1023.0 || 612.0 || 3
+
+GROUND TRUTH FOR: 9
+label: 502.0 || 248.0 || 822.0 || 560.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 777.0 || 264.0 || 810.0 || 319.0 || 7
+label: 825.0 || 260.0 || 849.0 || 325.0 || 7
+
+GROUND TRUTH FOR: a
+label: 22.0 || 9.0 || 629.0 || 1022.0 || 3
+
+GROUND TRUTH FOR: a
+label: 203.0 || 122.0 || 847.0 || 610.0 || 7
+
+GROUND TRUTH FOR: a
+label: 184.0 || 182.0 || 909.0 || 861.0 || 7
+
+GROUND TRUTH FOR: a
+label: 85.0 || 245.0 || 508.0 || 588.0 || 3
+label: 506.0 || 200.0 || 693.0 || 664.0 || 3
+label: 573.0 || 128.0 || 965.0 || 535.0 || 3
+label: 660.0 || 237.0 || 1021.0 || 659.0 || 3
+
+GROUND TRUTH FOR: b
+label: 266.0 || 270.0 || 756.0 || 607.0 || 7
+
+GROUND TRUTH FOR: b
+label: -1.0 || 44.0 || 767.0 || 849.0 || 1
+
+GROUND TRUTH FOR: b
+label: 40.0 || 205.0 || 876.0 || 693.0 || 4
+
+GROUND TRUTH FOR: b
+label: 220.0 || 59.0 || 613.0 || 546.0 || 3
+label: 626.0 || 211.0 || 814.0 || 639.0 || 3
+
+GROUND TRUTH FOR: b
+label: -1.0 || 280.0 || 201.0 || 486.0 || 7
+label: 94.0 || 157.0 || 807.0 || 662.0 || 7
+label: 648.0 || 290.0 || 967.0 || 507.0 || 7
+
+GROUND TRUTH FOR: b
+label: 116.0 || -1.0 || 739.0 || 680.0 || 4
+
+GROUND TRUTH FOR: c
+label: 31.0 || -1.0 || 821.0 || 621.0 || 7
+
+GROUND TRUTH FOR: c
+label: 357.0 || 64.0 || 893.0 || 428.0 || 2
+
+GROUND TRUTH FOR: c
+label: -1.0 || 53.0 || 850.0 || 767.0 || 7
+label: 239.0 || 175.0 || 1023.0 || 767.0 || 7
+
+GROUND TRUTH FOR: c
+label: -1.0 || 134.0 || 934.0 || 557.0 || 7
+
+GROUND TRUTH FOR: c
+label: 154.0 || 175.0 || 795.0 || 694.0 || 7
+
+GROUND TRUTH FOR: c
+label: 170.0 || 206.0 || 588.0 || 605.0 || 3
+
+GROUND TRUTH FOR: c
+label: 149.0 || 193.0 || 900.0 || 788.0 || 7
+
+GROUND TRUTH FOR: c
+label: 110.0 || 238.0 || 780.0 || 473.0 || 2
+
+GROUND TRUTH FOR: c
+label: 53.0 || 320.0 || 352.0 || 540.0 || 7
+
+GROUND TRUTH FOR: c
+label: 339.0 || 136.0 || 665.0 || 665.0 || 7
+
+GROUND TRUTH FOR: c
+label: 83.0 || 150.0 || 676.0 || 634.0 || 7
+
+GROUND TRUTH FOR: c
+label: 64.0 || 368.0 || 400.0 || 625.0 || 7
+
+GROUND TRUTH FOR: c
+label: 256.0 || 344.0 || 754.0 || 920.0 || 7
+
+GROUND TRUTH FOR: c
+label: -1.0 || 384.0 || 680.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: c
+label: -1.0 || 48.0 || 590.0 || 930.0 || 7
+label: 154.0 || 224.0 || 732.0 || 823.0 || 7
+label: 520.0 || 203.0 || 1023.0 || 847.0 || 7
+
+GROUND TRUTH FOR: c
+label: -1.0 || -1.0 || 1023.0 || 723.0 || 1
+
+GROUND TRUTH FOR: c
+label: 57.0 || 392.0 || 407.0 || 736.0 || 7
+label: 201.0 || 375.0 || 564.0 || 751.0 || 7
+
+GROUND TRUTH FOR: c
+label: 250.0 || 190.0 || 1022.0 || 725.0 || 2
+label: 726.0 || 286.0 || 1023.0 || 577.0 || 2
+
+GROUND TRUTH FOR: d
+label: -1.0 || 215.0 || 584.0 || 887.0 || 7
+
+GROUND TRUTH FOR: d
+label: 78.0 || 199.0 || 1022.0 || 850.0 || 7
+
+GROUND TRUTH FOR: d
+label: 342.0 || 224.0 || 726.0 || 678.0 || 1
+
+GROUND TRUTH FOR: d
+label: 75.0 || 103.0 || 538.0 || 437.0 || 3
+label: 718.0 || 272.0 || 856.0 || 399.0 || 3
+
+GROUND TRUTH FOR: d
+label: 68.0 || 258.0 || 466.0 || 571.0 || 3
+label: 398.0 || 270.0 || 826.0 || 591.0 || 3
+
+GROUND TRUTH FOR: d
+label: 125.0 || 140.0 || 1001.0 || 695.0 || 7
+
+GROUND TRUTH FOR: d
+label: 347.0 || 55.0 || 925.0 || 600.0 || 2
+
+GROUND TRUTH FOR: d
+label: 85.0 || 116.0 || 682.0 || 681.0 || 3
+
+GROUND TRUTH FOR: d
+label: 153.0 || 95.0 || 725.0 || 907.0 || 6
+
+GROUND TRUTH FOR: d
+label: 0.0 || -1.0 || 766.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: e
+label: -1.0 || 172.0 || 605.0 || 991.0 || 7
+
+GROUND TRUTH FOR: e
+label: 199.0 || 30.0 || 975.0 || 681.0 || 3
+
+GROUND TRUTH FOR: e
+label: 231.0 || 312.0 || 597.0 || 965.0 || 7
+
+GROUND TRUTH FOR: e
+label: -1.0 || 247.0 || 587.0 || 680.0 || 3
+label: 55.0 || -1.0 || 838.0 || 680.0 || 3
+
+GROUND TRUTH FOR: e
+label: 241.0 || 201.0 || 712.0 || 628.0 || 3
+
+GROUND TRUTH FOR: e
+label: 12.0 || 144.0 || 600.0 || 578.0 || 7
+
+GROUND TRUTH FOR: e
+label: 262.0 || 146.0 || 701.0 || 536.0 || 7
+label: 471.0 || 189.0 || 996.0 || 675.0 || 7
+
+GROUND TRUTH FOR: e
+label: 400.0 || 351.0 || 927.0 || 790.0 || 5
+
+GROUND TRUTH FOR: f
+label: 670.0 || 292.0 || 1011.0 || 723.0 || 7
+
+GROUND TRUTH FOR: f
+label: 231.0 || 258.0 || 774.0 || 667.0 || 4
+
+GROUND TRUTH FOR: f
+label: -1.0 || 138.0 || 763.0 || 642.0 || 7
+
+GROUND TRUTH FOR: f
+label: 380.0 || 193.0 || 673.0 || 616.0 || 6
+label: 557.0 || 170.0 || 986.0 || 618.0 || 6
+
+GROUND TRUTH FOR: f
+label: -1.0 || -1.0 || 988.0 || 1023.0 || 5
+
+GROUND TRUTH FOR: f
+label: 7.0 || 151.0 || 881.0 || 632.0 || 7
+
+GROUND TRUTH FOR: f
+label: -1.0 || 502.0 || 221.0 || 785.0 || 7
+label: -1.0 || 399.0 || 783.0 || 782.0 || 7
+label: 226.0 || 402.0 || 291.0 || 558.0 || 7
+label: 492.0 || 521.0 || 672.0 || 677.0 || 7
+
+GROUND TRUTH FOR: f
+label: -1.0 || 253.0 || 1023.0 || 643.0 || 7
+label: 0.0 || 247.0 || 235.0 || 404.0 || 7
+label: 256.0 || 313.0 || 862.0 || 643.0 || 7
+label: 528.0 || 255.0 || 750.0 || 368.0 || 7
+label: 611.0 || 347.0 || 714.0 || 426.0 || 7
+label: 961.0 || 278.0 || 1023.0 || 378.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 237.0 || 112.0 || 811.0 || 628.0 || 3
+
+GROUND TRUTH FOR: 0
+label: 35.0 || 60.0 || 538.0 || 987.0 || 3
+label: 396.0 || 378.0 || 682.0 || 899.0 || 3
+
+GROUND TRUTH FOR: 0
+label: 172.0 || -1.0 || 437.0 || 408.0 || 3
+label: 231.0 || 316.0 || 675.0 || 767.0 || 3
+label: 293.0 || 155.0 || 527.0 || 676.0 || 3
+label: 1006.0 || 207.0 || 1023.0 || 441.0 || 3
+
+GROUND TRUTH FOR: 0
+label: 129.0 || 116.0 || 682.0 || 1021.0 || 3
+
+GROUND TRUTH FOR: 0
+label: -1.0 || 121.0 || 984.0 || 634.0 || 7
+
+GROUND TRUTH FOR: 1
+label: -1.0 || -1.0 || 925.0 || 819.0 || 3
+
+GROUND TRUTH FOR: 1
+label: 391.0 || 128.0 || 742.0 || 709.0 || 7
+
+GROUND TRUTH FOR: 1
+label: -1.0 || -1.0 || 682.0 || 1022.0 || 4
+
+GROUND TRUTH FOR: 1
+label: 40.0 || 33.0 || 971.0 || 985.0 || 7
+
+GROUND TRUTH FOR: 2
+label: -1.0 || 180.0 || 550.0 || 551.0 || 7
+label: 277.0 || 159.0 || 688.0 || 536.0 || 7
+label: 707.0 || 179.0 || 1023.0 || 469.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 412.0 || 237.0 || 755.0 || 660.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 98.0 || 98.0 || 662.0 || 662.0 || 3
+
+GROUND TRUTH FOR: 2
+label: 233.0 || 38.0 || 739.0 || 681.0 || 3
+
+GROUND TRUTH FOR: 2
+label: 92.0 || 16.0 || 413.0 || 765.0 || 7
+label: 386.0 || 175.0 || 808.0 || 766.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 179.0 || 203.0 || 753.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 258.0 || 225.0 || 566.0 || 857.0 || 3
+
+GROUND TRUTH FOR: 3
+label: 161.0 || 329.0 || 455.0 || 1022.0 || 7
+
+GROUND TRUTH FOR: 3
+label: -1.0 || 0.0 || 405.0 || 764.0 || 6
+label: 379.0 || 86.0 || 1012.0 || 670.0 || 6
+
+GROUND TRUTH FOR: 3
+label: 70.0 || 136.0 || 911.0 || 698.0 || 7
+
+GROUND TRUTH FOR: 4
+label: -1.0 || 543.0 || 248.0 || 725.0 || 6
+label: 390.0 || 266.0 || 717.0 || 766.0 || 6
+
+GROUND TRUTH FOR: 4
+label: 300.0 || 97.0 || 680.0 || 840.0 || 3
+
+GROUND TRUTH FOR: 4
+label: 19.0 || 75.0 || 974.0 || 600.0 || 4
+
+GROUND TRUTH FOR: 4
+label: 75.0 || 209.0 || 846.0 || 767.0 || 0
+
+GROUND TRUTH FOR: 4
+label: 283.0 || 246.0 || 579.0 || 611.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 125.0 || 274.0 || 536.0 || 607.0 || 7
+label: 551.0 || 292.0 || 885.0 || 546.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 36.0 || 72.0 || 459.0 || 711.0 || 1
+label: 267.0 || 23.0 || 1009.0 || 710.0 || 1
+
+GROUND TRUTH FOR: 4
+label: 448.0 || 284.0 || 888.0 || 1022.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 42.0 || -1.0 || 777.0 || 767.0 || 3
+
+GROUND TRUTH FOR: 4
+label: 91.0 || 223.0 || 552.0 || 743.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 175.0 || 153.0 || 582.0 || 617.0 || 7
+label: 324.0 || 225.0 || 948.0 || 705.0 || 7
+
+GROUND TRUTH FOR: 5
+label: 263.0 || 306.0 || 324.0 || 442.0 || 3
+label: 478.0 || 300.0 || 549.0 || 447.0 || 3
+label: 528.0 || 321.0 || 601.0 || 455.0 || 3
+label: 629.0 || 309.0 || 708.0 || 468.0 || 3
+label: 675.0 || 363.0 || 834.0 || 483.0 || 3
+
+GROUND TRUTH FOR: 5
+label: 241.0 || 65.0 || 644.0 || 678.0 || 3
+
+GROUND TRUTH FOR: 5
+label: 27.0 || 114.0 || 959.0 || 727.0 || 7
+
+GROUND TRUTH FOR: 5
+label: 252.0 || 146.0 || 872.0 || 648.0 || 0
+label: 637.0 || 348.0 || 1022.0 || 565.0 || 0
+
+GROUND TRUTH FOR: 5
+label: 29.0 || 97.0 || 748.0 || 579.0 || 1
+label: 401.0 || 70.0 || 979.0 || 915.0 || 1
+
+GROUND TRUTH FOR: 5
+label: 264.0 || 319.0 || 773.0 || 896.0 || 7
+label: 634.0 || 303.0 || 936.0 || 868.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 195.0 || 140.0 || 976.0 || 518.0 || 2
+
+GROUND TRUTH FOR: 6
+label: 567.0 || 198.0 || 746.0 || 478.0 || 3
+
+GROUND TRUTH FOR: 6
+label: 91.0 || 139.0 || 914.0 || 764.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 272.0 || 138.0 || 739.0 || 940.0 || 1
+
+GROUND TRUTH FOR: 6
+label: 336.0 || 212.0 || 912.0 || 600.0 || 7
+
+GROUND TRUTH FOR: 6
+label: -1.0 || 22.0 || 912.0 || 689.0 || 4
+
+GROUND TRUTH FOR: 6
+label: -1.0 || 47.0 || 576.0 || 681.0 || 3
+
+GROUND TRUTH FOR: 6
+label: 197.0 || 202.0 || 668.0 || 648.0 || 3
+
+GROUND TRUTH FOR: 6
+label: 1.0 || 17.0 || 767.0 || 1022.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 114.0 || 23.0 || 710.0 || 760.0 || 7
+label: 407.0 || 82.0 || 907.0 || 732.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 89.0 || 111.0 || 886.0 || 586.0 || 4
+
+GROUND TRUTH FOR: 7
+label: 68.0 || 137.0 || 1022.0 || 782.0 || 1
+
+GROUND TRUTH FOR: 7
+label: -1.0 || -1.0 || 1023.0 || 682.0 || 3
+
+GROUND TRUTH FOR: 7
+label: -1.0 || 113.0 || 570.0 || 870.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 368.0 || 150.0 || 650.0 || 527.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 120.0 || 180.0 || 570.0 || 649.0 || 7
+label: 438.0 || 259.0 || 776.0 || 679.0 || 7
+
+GROUND TRUTH FOR: 8
+label: -1.0 || -1.0 || 1023.0 || 679.0 || 5
+
+GROUND TRUTH FOR: 8
+label: 216.0 || 209.0 || 721.0 || 603.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 314.0 || 221.0 || 855.0 || 489.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 137.0 || 62.0 || 586.0 || 630.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 187.0 || 460.0 || 545.0 || 795.0 || 7
+label: 251.0 || 456.0 || 595.0 || 794.0 || 7
+
+GROUND TRUTH FOR: 8
+label: -1.0 || -1.0 || 924.0 || 715.0 || 4
+
+GROUND TRUTH FOR: 8
+label: 95.0 || 327.0 || 466.0 || 806.0 || 4
+
+GROUND TRUTH FOR: 8
+label: 302.0 || 153.0 || 623.0 || 682.0 || 6
+label: 476.0 || 60.0 || 785.0 || 682.0 || 6
+
+GROUND TRUTH FOR: 8
+label: 31.0 || 112.0 || 1018.0 || 754.0 || 5
+
+GROUND TRUTH FOR: 8
+label: 165.0 || 260.0 || 920.0 || 622.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 167.0 || 357.0 || 648.0 || 736.0 || 3
+label: 617.0 || 373.0 || 850.0 || 615.0 || 3
+
+GROUND TRUTH FOR: 9
+label: -1.0 || 141.0 || 1016.0 || 297.0 || 7
+
+GROUND TRUTH FOR: 9
+label: -1.0 || 263.0 || 942.0 || 679.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 238.0 || 361.0 || 575.0 || 1002.0 || 3
+label: 279.0 || 258.0 || 472.0 || 460.0 || 3
+
+GROUND TRUTH FOR: a
+label: 177.0 || 258.0 || 928.0 || 633.0 || 5
+
+GROUND TRUTH FOR: a
+label: 413.0 || 329.0 || 460.0 || 418.0 || 4
+label: 865.0 || 268.0 || 1022.0 || 481.0 || 4
+
+GROUND TRUTH FOR: a
+label: 397.0 || 131.0 || 967.0 || 578.0 || 7
+label: 695.0 || 150.0 || 969.0 || 280.0 || 7
+
+GROUND TRUTH FOR: a
+label: 71.0 || 422.0 || 626.0 || 888.0 || 1
+
+GROUND TRUTH FOR: a
+label: 223.0 || 214.0 || 808.0 || 586.0 || 7
+
+GROUND TRUTH FOR: a
+label: 9.0 || 233.0 || 634.0 || 658.0 || 3
+
+GROUND TRUTH FOR: a
+label: 209.0 || 455.0 || 461.0 || 780.0 || 4
+
+GROUND TRUTH FOR: b
+label: 24.0 || 21.0 || 936.0 || 570.0 || 7
+
+GROUND TRUTH FOR: b
+label: 417.0 || 148.0 || 987.0 || 508.0 || 7
+
+GROUND TRUTH FOR: b
+label: 146.0 || 43.0 || 788.0 || 655.0 || 3
+
+GROUND TRUTH FOR: b
+label: 334.0 || 166.0 || 870.0 || 585.0 || 7
+
+GROUND TRUTH FOR: b
+label: 108.0 || -1.0 || 924.0 || 679.0 || 3
+
+GROUND TRUTH FOR: b
+label: -1.0 || 357.0 || 947.0 || 574.0 || 7
+
+GROUND TRUTH FOR: c
+label: 520.0 || 266.0 || 803.0 || 470.0 || 7
+
+GROUND TRUTH FOR: c
+label: -1.0 || 74.0 || 707.0 || 679.0 || 3
+
+GROUND TRUTH FOR: c
+label: 106.0 || 204.0 || 448.0 || 618.0 || 3
+label: 503.0 || 128.0 || 976.0 || 546.0 || 3
+
+GROUND TRUTH FOR: c
+label: -1.0 || 229.0 || 1023.0 || 767.0 || 0
+
+GROUND TRUTH FOR: c
+label: -1.0 || 30.0 || 803.0 || 681.0 || 3
+
+GROUND TRUTH FOR: d
+label: 35.0 || 155.0 || 607.0 || 627.0 || 7
+
+GROUND TRUTH FOR: d
+label: 100.0 || 416.0 || 1013.0 || 575.0 || 7
+
+GROUND TRUTH FOR: d
+label: 37.0 || 292.0 || 766.0 || 1001.0 || 3
+label: 128.0 || 20.0 || 614.0 || 500.0 || 3
+label: 726.0 || 231.0 || 986.0 || 823.0 || 3
+
+GROUND TRUTH FOR: d
+label: 854.0 || 287.0 || 1023.0 || 682.0 || 7
+
+GROUND TRUTH FOR: d
+label: 38.0 || 133.0 || 627.0 || 1023.0 || 3
+
+GROUND TRUTH FOR: d
+label: 58.0 || 311.0 || 513.0 || 676.0 || 6
+label: 516.0 || 265.0 || 995.0 || 678.0 || 6
+
+GROUND TRUTH FOR: d
+label: 143.0 || 119.0 || 978.0 || 1023.0 || 6
+
+GROUND TRUTH FOR: e
+label: 374.0 || 101.0 || 806.0 || 634.0 || 7
+
+GROUND TRUTH FOR: e
+label: -1.0 || 180.0 || 862.0 || 595.0 || 2
+
+GROUND TRUTH FOR: e
+label: 39.0 || 58.0 || 849.0 || 642.0 || 5
+
+GROUND TRUTH FOR: e
+label: 261.0 || 228.0 || 666.0 || 623.0 || 4
+
+GROUND TRUTH FOR: e
+label: 207.0 || 208.0 || 738.0 || 550.0 || 7
+
+GROUND TRUTH FOR: e
+label: 348.0 || 273.0 || 668.0 || 508.0 || 6
+
+GROUND TRUTH FOR: e
+label: 198.0 || 159.0 || 704.0 || 524.0 || 7
+
+GROUND TRUTH FOR: e
+label: 25.0 || 316.0 || 611.0 || 948.0 || 7
+
+GROUND TRUTH FOR: f
+label: 275.0 || 55.0 || 903.0 || 766.0 || 4
+
+GROUND TRUTH FOR: f
+label: 61.0 || 194.0 || 1008.0 || 934.0 || 7
+
+GROUND TRUTH FOR: f
+label: 354.0 || 44.0 || 746.0 || 673.0 || 5
+
+GROUND TRUTH FOR: f
+label: 40.0 || -1.0 || 1022.0 || 766.0 || 3
+label: 70.0 || 89.0 || 261.0 || 539.0 || 3
+label: 188.0 || 209.0 || 394.0 || 681.0 || 3
+label: 683.0 || 278.0 || 876.0 || 465.0 || 3
+
+GROUND TRUTH FOR: f
+label: 206.0 || -1.0 || 387.0 || 230.0 || 7
+label: 229.0 || 209.0 || 471.0 || 531.0 || 7
+label: 395.0 || 255.0 || 657.0 || 568.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 263.0 || 195.0 || 790.0 || 689.0 || 3
+
+GROUND TRUTH FOR: 0
+label: -1.0 || 86.0 || 1022.0 || 663.0 || 4
+
+GROUND TRUTH FOR: 0
+label: -1.0 || 73.0 || 974.0 || 766.0 || 2
+
+GROUND TRUTH FOR: 0
+label: 308.0 || 195.0 || 877.0 || 577.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 282.0 || 132.0 || 1022.0 || 582.0 || 7
+
+GROUND TRUTH FOR: 0
+label: -1.0 || 52.0 || 831.0 || 682.0 || 1
+
+GROUND TRUTH FOR: 0
+label: 74.0 || 103.0 || 901.0 || 593.0 || 4
+label: 583.0 || 613.0 || 1023.0 || 682.0 || 4
+
+GROUND TRUTH FOR: 0
+label: 6.0 || 360.0 || 129.0 || 633.0 || 7
+label: 291.0 || 339.0 || 732.0 || 769.0 || 7
+label: 858.0 || 331.0 || 998.0 || 647.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 433.0 || 95.0 || 823.0 || 613.0 || 4
+
+GROUND TRUTH FOR: 0
+label: -1.0 || 313.0 || 642.0 || 610.0 || 7
+
+GROUND TRUTH FOR: 0
+label: -1.0 || 256.0 || 154.0 || 722.0 || 7
+label: 67.0 || 265.0 || 275.0 || 712.0 || 7
+label: 243.0 || 249.0 || 464.0 || 721.0 || 7
+label: 392.0 || 265.0 || 573.0 || 715.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 283.0 || -1.0 || 1023.0 || 682.0 || 3
+
+GROUND TRUTH FOR: 1
+label: 99.0 || 152.0 || 503.0 || 666.0 || 7
+label: 427.0 || 132.0 || 778.0 || 638.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 176.0 || 67.0 || 776.0 || 659.0 || 7
+
+GROUND TRUTH FOR: 2
+label: -1.0 || -1.0 || 966.0 || 1023.0 || 3
+
+GROUND TRUTH FOR: 2
+label: 379.0 || 176.0 || 617.0 || 558.0 || 0
+
+GROUND TRUTH FOR: 2
+label: 44.0 || -1.0 || 828.0 || 636.0 || 3
+
+GROUND TRUTH FOR: 2
+label: -1.0 || 246.0 || 940.0 || 767.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 190.0 || 335.0 || 893.0 || 681.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 25.0 || -1.0 || 1023.0 || 767.0 || 2
+
+GROUND TRUTH FOR: 2
+label: -1.0 || 170.0 || 1023.0 || 518.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 319.0 || 95.0 || 571.0 || 516.0 || 4
+
+GROUND TRUTH FOR: 3
+label: 36.0 || 571.0 || 680.0 || 1022.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 296.0 || 314.0 || 708.0 || 584.0 || 0
+label: 643.0 || 343.0 || 874.0 || 569.0 || 0
+label: 660.0 || 327.0 || 1022.0 || 581.0 || 0
+
+GROUND TRUTH FOR: 3
+label: 304.0 || 176.0 || 990.0 || 497.0 || 5
+
+GROUND TRUTH FOR: 3
+label: 114.0 || 40.0 || 591.0 || 686.0 || 4
+label: 183.0 || 91.0 || 768.0 || 716.0 || 4
+label: 595.0 || 74.0 || 924.0 || 635.0 || 4
+label: 906.0 || 165.0 || 1023.0 || 474.0 || 4
+
+GROUND TRUTH FOR: 3
+label: 259.0 || 289.0 || 850.0 || 767.0 || 7
+label: 864.0 || 532.0 || 1023.0 || 642.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 147.0 || 52.0 || 849.0 || 869.0 || 3
+
+GROUND TRUTH FOR: 3
+label: -1.0 || 233.0 || 674.0 || 766.0 || 3
+label: 321.0 || -1.0 || 1022.0 || 766.0 || 3
+
+GROUND TRUTH FOR: 4
+label: 185.0 || 248.0 || 457.0 || 979.0 || 1
+label: 305.0 || 139.0 || 654.0 || 642.0 || 1
+
+GROUND TRUTH FOR: 4
+label: 447.0 || 298.0 || 788.0 || 562.0 || 7
+label: 559.0 || 287.0 || 879.0 || 548.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 250.0 || -1.0 || 833.0 || 683.0 || 5
+
+GROUND TRUTH FOR: 4
+label: 133.0 || -1.0 || 447.0 || 174.0 || 4
+label: 264.0 || 142.0 || 507.0 || 429.0 || 4
+label: 337.0 || 188.0 || 669.0 || 420.0 || 4
+label: 581.0 || 129.0 || 1023.0 || 448.0 || 4
+label: 762.0 || 47.0 || 1023.0 || 383.0 || 4
+
+GROUND TRUTH FOR: 4
+label: 309.0 || 113.0 || 549.0 || 618.0 || 7
+
+GROUND TRUTH FOR: 4
+label: -1.0 || 49.0 || 478.0 || 588.0 || 4
+label: 354.0 || 128.0 || 1023.0 || 768.0 || 4
+
+GROUND TRUTH FOR: 4
+label: -1.0 || 26.0 || 1023.0 || 563.0 || 2
+
+GROUND TRUTH FOR: 5
+label: 557.0 || 419.0 || 783.0 || 747.0 || 7
+
+GROUND TRUTH FOR: 5
+label: 140.0 || -1.0 || 1022.0 || 859.0 || 7
+
+GROUND TRUTH FOR: 5
+label: 32.0 || 214.0 || 834.0 || 522.0 || 2
+
+GROUND TRUTH FOR: 5
+label: 348.0 || 341.0 || 797.0 || 699.0 || 7
+label: 468.0 || 282.0 || 884.0 || 613.0 || 7
+label: 569.0 || 251.0 || 970.0 || 574.0 || 7
+
+GROUND TRUTH FOR: 5
+label: 116.0 || 462.0 || 504.0 || 767.0 || 7
+label: 187.0 || 371.0 || 928.0 || 767.0 || 7
+label: 898.0 || 381.0 || 1023.0 || 707.0 || 7
+
+GROUND TRUTH FOR: 6
+label: -1.0 || 271.0 || 34.0 || 488.0 || 4
+label: -1.0 || 361.0 || 186.0 || 596.0 || 4
+label: 376.0 || 118.0 || 678.0 || 654.0 || 4
+label: 480.0 || 178.0 || 1006.0 || 648.0 || 4
+
+GROUND TRUTH FOR: 6
+label: 171.0 || 337.0 || 661.0 || 565.0 || 1
+
+GROUND TRUTH FOR: 6
+label: 392.0 || 97.0 || 716.0 || 681.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 266.0 || 160.0 || 904.0 || 570.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 264.0 || 121.0 || 402.0 || 434.0 || 3
+label: 444.0 || 73.0 || 630.0 || 503.0 || 3
+
+GROUND TRUTH FOR: 6
+label: 141.0 || 230.0 || 632.0 || 597.0 || 3
+label: 294.0 || 90.0 || 662.0 || 677.0 || 3
+label: 805.0 || 266.0 || 944.0 || 505.0 || 3
+
+GROUND TRUTH FOR: 6
+label: 137.0 || 11.0 || 1023.0 || 767.0 || 4
+
+GROUND TRUTH FOR: 6
+label: -1.0 || 112.0 || 495.0 || 545.0 || 7
+label: 645.0 || 129.0 || 983.0 || 602.0 || 7
+
+GROUND TRUTH FOR: 6
+label: -1.0 || -1.0 || 1017.0 || 679.0 || 2
+
+GROUND TRUTH FOR: 6
+label: 43.0 || 414.0 || 181.0 || 529.0 || 7
+label: 213.0 || 345.0 || 596.0 || 957.0 || 7
+label: 571.0 || 427.0 || 669.0 || 514.0 || 7
+
+GROUND TRUTH FOR: 7
+label: -1.0 || 124.0 || 1023.0 || 725.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 266.0 || 130.0 || 705.0 || 574.0 || 7
+label: 405.0 || 142.0 || 992.0 || 587.0 || 7
+
+GROUND TRUTH FOR: 7
+label: -1.0 || 300.0 || 1022.0 || 612.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 44.0 || 122.0 || 763.0 || 965.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 257.0 || 260.0 || 586.0 || 521.0 || 3
+
+GROUND TRUTH FOR: 8
+label: 276.0 || 111.0 || 834.0 || 599.0 || 3
+
+GROUND TRUTH FOR: 8
+label: 143.0 || 142.0 || 895.0 || 633.0 || 7
+label: 462.0 || 310.0 || 865.0 || 647.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 216.0 || 159.0 || 819.0 || 541.0 || 5
+
+GROUND TRUTH FOR: 8
+label: 67.0 || 62.0 || 996.0 || 687.0 || 4
+
+GROUND TRUTH FOR: 9
+label: -1.0 || 655.0 || 99.0 || 767.0 || 7
+label: 73.0 || 530.0 || 383.0 || 767.0 || 7
+label: 306.0 || 611.0 || 577.0 || 767.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 108.0 || 35.0 || 1023.0 || 494.0 || 2
+
+GROUND TRUTH FOR: 9
+label: 432.0 || 111.0 || 681.0 || 679.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 236.0 || 365.0 || 443.0 || 517.0 || 7
+label: 358.0 || 531.0 || 629.0 || 636.0 || 7
+label: 537.0 || 287.0 || 760.0 || 408.0 || 7
+label: 772.0 || 178.0 || 941.0 || 275.0 || 7
+
+GROUND TRUTH FOR: a
+label: -1.0 || 232.0 || 982.0 || 667.0 || 7
+
+GROUND TRUTH FOR: a
+label: -1.0 || 97.0 || 628.0 || 767.0 || 3
+
+GROUND TRUTH FOR: a
+label: 93.0 || 140.0 || 827.0 || 530.0 || 2
+
+GROUND TRUTH FOR: a
+label: 50.0 || 45.0 || 784.0 || 1022.0 || 7
+
+GROUND TRUTH FOR: a
+label: 78.0 || 124.0 || 661.0 || 1023.0 || 3
+
+GROUND TRUTH FOR: b
+label: 382.0 || 186.0 || 1005.0 || 637.0 || 7
+
+GROUND TRUTH FOR: b
+label: 453.0 || 228.0 || 795.0 || 417.0 || 7
+
+GROUND TRUTH FOR: b
+label: 19.0 || 44.0 || 946.0 || 615.0 || 3
+
+GROUND TRUTH FOR: b
+label: 175.0 || 174.0 || 802.0 || 682.0 || 7
+
+GROUND TRUTH FOR: b
+label: 535.0 || 250.0 || 817.0 || 675.0 || 3
+
+GROUND TRUTH FOR: b
+label: 30.0 || 135.0 || 435.0 || 567.0 || 4
+label: 336.0 || 144.0 || 611.0 || 304.0 || 4
+label: 493.0 || 186.0 || 924.0 || 580.0 || 4
+
+GROUND TRUTH FOR: b
+label: 81.0 || 67.0 || 971.0 || 604.0 || 4
+label: 299.0 || 317.0 || 721.0 || 660.0 || 4
+
+GROUND TRUTH FOR: b
+label: 200.0 || 292.0 || 964.0 || 682.0 || 7
+
+GROUND TRUTH FOR: b
+label: 214.0 || 151.0 || 546.0 || 967.0 || 7
+
+GROUND TRUTH FOR: b
+label: 450.0 || 135.0 || 938.0 || 628.0 || 7
+
+GROUND TRUTH FOR: b
+label: 268.0 || 85.0 || 731.0 || 762.0 || 3
+
+GROUND TRUTH FOR: b
+label: 252.0 || -1.0 || 947.0 || 1022.0 || 0
+
+GROUND TRUTH FOR: b
+label: 373.0 || 211.0 || 947.0 || 666.0 || 3
+
+GROUND TRUTH FOR: c
+label: -1.0 || 317.0 || 615.0 || 898.0 || 7
+
+GROUND TRUTH FOR: c
+label: 329.0 || 312.0 || 488.0 || 491.0 || 3
+
+GROUND TRUTH FOR: c
+label: 13.0 || 205.0 || 387.0 || 470.0 || 7
+label: 550.0 || 205.0 || 951.0 || 499.0 || 7
+
+GROUND TRUTH FOR: d
+label: 136.0 || 243.0 || 511.0 || 795.0 || 7
+
+GROUND TRUTH FOR: d
+label: -1.0 || 150.0 || 874.0 || 654.0 || 7
+
+GROUND TRUTH FOR: e
+label: 181.0 || 140.0 || 726.0 || 681.0 || 7
+
+GROUND TRUTH FOR: e
+label: 425.0 || 99.0 || 834.0 || 393.0 || 7
+
+GROUND TRUTH FOR: e
+label: 198.0 || 38.0 || 865.0 || 767.0 || 4
+label: 606.0 || 8.0 || 1023.0 || 767.0 || 4
+
+GROUND TRUTH FOR: e
+label: 728.0 || 401.0 || 834.0 || 701.0 || 7
+
+GROUND TRUTH FOR: e
+label: 317.0 || 205.0 || 667.0 || 665.0 || 3
+
+GROUND TRUTH FOR: e
+label: -1.0 || 231.0 || 767.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: f
+label: 258.0 || 84.0 || 735.0 || 766.0 || 3
+
+GROUND TRUTH FOR: 0
+label: 470.0 || 236.0 || 941.0 || 663.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 181.0 || 321.0 || 1004.0 || 766.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 186.0 || 142.0 || 842.0 || 645.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 244.0 || 153.0 || 632.0 || 696.0 || 7
+label: 617.0 || 163.0 || 801.0 || 475.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 271.0 || 358.0 || 573.0 || 694.0 || 7
+label: 381.0 || 419.0 || 1023.0 || 767.0 || 7
+label: 476.0 || 175.0 || 589.0 || 247.0 || 7
+label: 599.0 || 176.0 || 643.0 || 232.0 || 7
+label: 924.0 || 185.0 || 1012.0 || 239.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 60.0 || 30.0 || 930.0 || 1008.0 || 1
+
+GROUND TRUTH FOR: 1
+label: 264.0 || 215.0 || 498.0 || 617.0 || 4
+label: 498.0 || 244.0 || 755.0 || 635.0 || 4
+
+GROUND TRUTH FOR: 1
+label: 285.0 || 72.0 || 908.0 || 446.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 179.0 || 326.0 || 944.0 || 815.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 180.0 || 351.0 || 446.0 || 595.0 || 7
+label: 184.0 || 353.0 || 1022.0 || 592.0 || 7
+
+GROUND TRUTH FOR: 1
+label: -1.0 || 276.0 || 760.0 || 681.0 || 7
+label: 134.0 || 253.0 || 1023.0 || 681.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 502.0 || 128.0 || 977.0 || 632.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 7.0 || 347.0 || 452.0 || 566.0 || 3
+label: 391.0 || 237.0 || 633.0 || 682.0 || 3
+label: 501.0 || 344.0 || 943.0 || 627.0 || 3
+label: 516.0 || 117.0 || 1023.0 || 627.0 || 3
+
+GROUND TRUTH FOR: 2
+label: -1.0 || 175.0 || 1022.0 || 786.0 || 7
+
+GROUND TRUTH FOR: 2
+label: -1.0 || 44.0 || 848.0 || 944.0 || 3
+label: 376.0 || 561.0 || 819.0 || 939.0 || 3
+
+GROUND TRUTH FOR: 2
+label: 33.0 || 120.0 || 790.0 || 625.0 || 0
+label: 451.0 || 46.0 || 1003.0 || 625.0 || 0
+
+GROUND TRUTH FOR: 2
+label: 42.0 || 195.0 || 668.0 || 695.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 188.0 || 169.0 || 708.0 || 520.0 || 3
+
+GROUND TRUTH FOR: 2
+label: 244.0 || 155.0 || 1023.0 || 717.0 || 0
+
+GROUND TRUTH FOR: 2
+label: -1.0 || 48.0 || 959.0 || 993.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 362.0 || 147.0 || 846.0 || 656.0 || 3
+
+GROUND TRUTH FOR: 3
+label: 422.0 || 216.0 || 818.0 || 504.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 33.0 || -1.0 || 994.0 || 767.0 || 3
+
+GROUND TRUTH FOR: 3
+label: 83.0 || 136.0 || 1022.0 || 767.0 || 1
+
+GROUND TRUTH FOR: 3
+label: 256.0 || 325.0 || 677.0 || 689.0 || 3
+label: 261.0 || 250.0 || 488.0 || 385.0 || 3
+label: 773.0 || 277.0 || 931.0 || 546.0 || 3
+label: 850.0 || 219.0 || 900.0 || 289.0 || 3
+
+GROUND TRUTH FOR: 3
+label: 16.0 || 69.0 || 450.0 || 390.0 || 7
+label: 558.0 || 64.0 || 989.0 || 389.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 392.0 || 294.0 || 512.0 || 450.0 || 3
+
+GROUND TRUTH FOR: 3
+label: -1.0 || -1.0 || 928.0 || 658.0 || 2
+
+GROUND TRUTH FOR: 4
+label: -1.0 || 43.0 || 1022.0 || 709.0 || 4
+
+GROUND TRUTH FOR: 4
+label: 403.0 || 285.0 || 987.0 || 736.0 || 4
+
+GROUND TRUTH FOR: 4
+label: 285.0 || 236.0 || 601.0 || 615.0 || 4
+label: 427.0 || 173.0 || 850.0 || 509.0 || 4
+
+GROUND TRUTH FOR: 4
+label: 105.0 || 34.0 || 703.0 || 676.0 || 3
+
+GROUND TRUTH FOR: 4
+label: -1.0 || 333.0 || 271.0 || 1022.0 || 7
+label: 112.0 || 404.0 || 644.0 || 810.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 185.0 || 142.0 || 1022.0 || 659.0 || 5
+
+GROUND TRUTH FOR: 5
+label: 131.0 || -1.0 || 681.0 || 1021.0 || 3
+
+GROUND TRUTH FOR: 5
+label: 502.0 || 71.0 || 1014.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: 5
+label: -1.0 || 130.0 || 1022.0 || 735.0 || 7
+
+GROUND TRUTH FOR: 5
+label: 286.0 || 0.0 || 764.0 || 682.0 || 4
+
+GROUND TRUTH FOR: 5
+label: 46.0 || 111.0 || 1023.0 || 646.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 110.0 || 133.0 || 1022.0 || 683.0 || 2
+
+GROUND TRUTH FOR: 6
+label: 380.0 || 331.0 || 731.0 || 579.0 || 3
+
+GROUND TRUTH FOR: 6
+label: -1.0 || 284.0 || 512.0 || 740.0 || 7
+label: 198.0 || 279.0 || 771.0 || 756.0 || 7
+label: 723.0 || 360.0 || 1023.0 || 767.0 || 7
+
+GROUND TRUTH FOR: 6
+label: -1.0 || -1.0 || 757.0 || 767.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 164.0 || 150.0 || 1023.0 || 677.0 || 2
+
+GROUND TRUTH FOR: 6
+label: 215.0 || 79.0 || 673.0 || 426.0 || 7
+label: 537.0 || 100.0 || 849.0 || 312.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 226.0 || 85.0 || 882.0 || 729.0 || 3
+
+GROUND TRUTH FOR: 7
+label: 28.0 || 63.0 || 999.0 || 651.0 || 7
+
+GROUND TRUTH FOR: 7
+label: -1.0 || 291.0 || 765.0 || 478.0 || 7
+
+GROUND TRUTH FOR: 8
+label: -1.0 || -1.0 || 1023.0 || 1023.0 || 0
+
+GROUND TRUTH FOR: 8
+label: 35.0 || 31.0 || 967.0 || 876.0 || 5
+
+GROUND TRUTH FOR: 9
+label: 152.0 || 309.0 || 626.0 || 724.0 || 4
+label: 368.0 || 189.0 || 879.0 || 698.0 || 4
+
+GROUND TRUTH FOR: 9
+label: 127.0 || 122.0 || 754.0 || 766.0 || 3
+
+GROUND TRUTH FOR: 9
+label: 306.0 || 358.0 || 538.0 || 515.0 || 3
+
+GROUND TRUTH FOR: a
+label: 112.0 || 398.0 || 805.0 || 938.0 || 6
+
+GROUND TRUTH FOR: a
+label: 134.0 || 346.0 || 433.0 || 843.0 || 3
+label: 369.0 || 178.0 || 526.0 || 674.0 || 3
+label: 770.0 || 178.0 || 880.0 || 486.0 || 3
+
+GROUND TRUTH FOR: a
+label: -1.0 || 58.0 || 951.0 || 618.0 || 2
+
+GROUND TRUTH FOR: a
+label: 38.0 || 279.0 || 341.0 || 494.0 || 4
+label: 213.0 || 269.0 || 741.0 || 573.0 || 4
+label: 831.0 || 304.0 || 1023.0 || 527.0 || 4
+
+GROUND TRUTH FOR: a
+label: 93.0 || 210.0 || 945.0 || 854.0 || 7
+
+GROUND TRUTH FOR: a
+label: -1.0 || -1.0 || 1023.0 || 685.0 || 4
+
+GROUND TRUTH FOR: a
+label: 197.0 || 60.0 || 737.0 || 683.0 || 3
+
+GROUND TRUTH FOR: b
+label: 151.0 || 217.0 || 415.0 || 701.0 || 7
+label: 549.0 || 282.0 || 632.0 || 490.0 || 7
+label: 646.0 || 245.0 || 756.0 || 649.0 || 7
+label: 783.0 || 298.0 || 812.0 || 404.0 || 7
+label: 803.0 || 254.0 || 874.0 || 485.0 || 7
+label: 883.0 || 258.0 || 978.0 || 546.0 || 7
+
+GROUND TRUTH FOR: b
+label: 225.0 || 192.0 || 529.0 || 620.0 || 7
+label: 443.0 || 164.0 || 781.0 || 617.0 || 7
+
+GROUND TRUTH FOR: b
+label: 319.0 || 91.0 || 689.0 || 661.0 || 1
+
+GROUND TRUTH FOR: c
+label: 10.0 || -1.0 || 249.0 || 381.0 || 3
+label: 372.0 || 41.0 || 589.0 || 435.0 || 3
+label: 513.0 || 623.0 || 710.0 || 1023.0 || 3
+
+GROUND TRUTH FOR: c
+label: 22.0 || 320.0 || 927.0 || 682.0 || 7
+label: 989.0 || 359.0 || 1023.0 || 510.0 || 7
+
+GROUND TRUTH FOR: d
+label: 187.0 || 182.0 || 848.0 || 725.0 || 7
+
+GROUND TRUTH FOR: d
+label: 67.0 || 165.0 || 483.0 || 718.0 || 3
+
+GROUND TRUTH FOR: d
+label: -1.0 || -1.0 || 679.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: e
+label: 218.0 || 2.0 || 842.0 || 727.0 || 3
+
+GROUND TRUTH FOR: e
+label: 293.0 || 146.0 || 947.0 || 680.0 || 5
+
+GROUND TRUTH FOR: e
+label: 199.0 || 137.0 || 392.0 || 601.0 || 3
+label: 203.0 || 128.0 || 821.0 || 685.0 || 3
+label: 473.0 || 203.0 || 741.0 || 681.0 || 3
+
+GROUND TRUTH FOR: e
+label: 27.0 || 53.0 || 1022.0 || 325.0 || 2
+
+GROUND TRUTH FOR: e
+label: -1.0 || -1.0 || 609.0 || 680.0 || 5
+
+GROUND TRUTH FOR: e
+label: 169.0 || 137.0 || 906.0 || 996.0 || 1
+
+GROUND TRUTH FOR: e
+label: 3.0 || 262.0 || 228.0 || 620.0 || 0
+label: 203.0 || 163.0 || 848.0 || 758.0 || 0
+
+GROUND TRUTH FOR: e
+label: 322.0 || 125.0 || 813.0 || 618.0 || 7
+
+GROUND TRUTH FOR: e
+label: -1.0 || -1.0 || 682.0 || 1023.0 || 6
+
+GROUND TRUTH FOR: e
+label: 63.0 || 195.0 || 584.0 || 800.0 || 3
+
+GROUND TRUTH FOR: e
+label: -1.0 || -1.0 || 1023.0 || 548.0 || 3
+
+GROUND TRUTH FOR: f
+label: 91.0 || -1.0 || 1023.0 || 879.0 || 7
+
+GROUND TRUTH FOR: f
+label: 195.0 || 165.0 || 984.0 || 662.0 || 7
+
+GROUND TRUTH FOR: f
+label: -1.0 || 249.0 || 720.0 || 880.0 || 7
+
+GROUND TRUTH FOR: f
+label: 328.0 || 140.0 || 514.0 || 242.0 || 0
+label: 546.0 || 130.0 || 701.0 || 240.0 || 0
+
+GROUND TRUTH FOR: f
+label: -1.0 || 156.0 || 976.0 || 766.0 || 1
+
+GROUND TRUTH FOR: f
+label: 213.0 || 193.0 || 808.0 || 1004.0 || 7
+
+GROUND TRUTH FOR: f
+label: 698.0 || 230.0 || 999.0 || 534.0 || 7
+
+GROUND TRUTH FOR: f
+label: -1.0 || 132.0 || 721.0 || 681.0 || 4
+
+GROUND TRUTH FOR: f
+label: 32.0 || -1.0 || 599.0 || 1011.0 || 7
+
+GROUND TRUTH FOR: 0
+label: -1.0 || -1.0 || 965.0 || 709.0 || 2
+
+GROUND TRUTH FOR: 0
+label: 273.0 || 97.0 || 695.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 119.0 || 251.0 || 390.0 || 646.0 || 7
+label: 226.0 || 212.0 || 547.0 || 664.0 || 7
+label: 895.0 || 332.0 || 976.0 || 487.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 233.0 || 278.0 || 734.0 || 879.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 98.0 || 297.0 || 1022.0 || 575.0 || 2
+
+GROUND TRUTH FOR: 0
+label: 295.0 || 41.0 || 708.0 || 681.0 || 6
+
+GROUND TRUTH FOR: 0
+label: 88.0 || 239.0 || 1022.0 || 758.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 173.0 || 28.0 || 1023.0 || 922.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 23.0 || 115.0 || 1007.0 || 664.0 || 4
+
+GROUND TRUTH FOR: 1
+label: -1.0 || 179.0 || 210.0 || 549.0 || 7
+label: 223.0 || 53.0 || 766.0 || 1023.0 || 7
+label: 259.0 || 275.0 || 767.0 || 896.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 28.0 || 163.0 || 842.0 || 678.0 || 1
+
+GROUND TRUTH FOR: 2
+label: 100.0 || 97.0 || 968.0 || 414.0 || 4
+
+GROUND TRUTH FOR: 2
+label: 232.0 || 64.0 || 1022.0 || 679.0 || 1
+
+GROUND TRUTH FOR: 2
+label: 186.0 || 241.0 || 694.0 || 729.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 360.0 || 197.0 || 644.0 || 662.0 || 6
+
+GROUND TRUTH FOR: 3
+label: 83.0 || 378.0 || 351.0 || 682.0 || 7
+label: 278.0 || 255.0 || 831.0 || 682.0 || 7
+label: 776.0 || 351.0 || 1023.0 || 682.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 22.0 || -1.0 || 661.0 || 405.0 || 3
+label: 294.0 || 6.0 || 1023.0 || 738.0 || 3
+
+GROUND TRUTH FOR: 3
+label: 9.0 || 41.0 || 1012.0 || 728.0 || 4
+
+GROUND TRUTH FOR: 3
+label: 401.0 || 123.0 || 971.0 || 641.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 10.0 || 50.0 || 760.0 || 777.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 73.0 || 223.0 || 892.0 || 497.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 144.0 || 60.0 || 606.0 || 967.0 || 1
+
+GROUND TRUTH FOR: 3
+label: 173.0 || 37.0 || 798.0 || 983.0 || 3
+
+GROUND TRUTH FOR: 3
+label: 281.0 || 121.0 || 897.0 || 745.0 || 7
+
+GROUND TRUTH FOR: 4
+label: -1.0 || 151.0 || 688.0 || 347.0 || 7
+label: 492.0 || 293.0 || 663.0 || 657.0 || 7
+label: 725.0 || 136.0 || 900.0 || 274.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 210.0 || 232.0 || 612.0 || 652.0 || 7
+label: 561.0 || 285.0 || 892.0 || 713.0 || 7
+label: 938.0 || 267.0 || 1023.0 || 642.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 0.0 || 298.0 || 154.0 || 477.0 || 0
+label: 144.0 || 131.0 || 717.0 || 619.0 || 0
+
+GROUND TRUTH FOR: 4
+label: 119.0 || 148.0 || 1022.0 || 725.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 95.0 || 347.0 || 1022.0 || 558.0 || 7
+
+GROUND TRUTH FOR: 5
+label: -1.0 || 277.0 || 59.0 || 396.0 || 7
+label: 18.0 || 217.0 || 176.0 || 551.0 || 7
+label: 239.0 || 272.0 || 660.0 || 568.0 || 7
+label: 452.0 || 221.0 || 672.0 || 516.0 || 7
+label: 700.0 || 236.0 || 795.0 || 450.0 || 7
+label: 749.0 || 233.0 || 1017.0 || 464.0 || 7
+
+GROUND TRUTH FOR: 5
+label: -1.0 || 79.0 || 905.0 || 811.0 || 7
+
+GROUND TRUTH FOR: 5
+label: -1.0 || 116.0 || 207.0 || 608.0 || 3
+label: 385.0 || 7.0 || 755.0 || 680.0 || 3
+label: 837.0 || -1.0 || 1023.0 || 275.0 || 3
+
+GROUND TRUTH FOR: 5
+label: 281.0 || 107.0 || 743.0 || 700.0 || 3
+
+GROUND TRUTH FOR: 6
+label: -1.0 || 107.0 || 1023.0 || 767.0 || 7
+
+GROUND TRUTH FOR: 6
+label: -1.0 || 231.0 || 963.0 || 524.0 || 2
+
+GROUND TRUTH FOR: 7
+label: 10.0 || 299.0 || 1022.0 || 678.0 || 7
+label: 267.0 || 307.0 || 802.0 || 679.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 391.0 || 192.0 || 1023.0 || 683.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 3.0 || 303.0 || 309.0 || 807.0 || 7
+label: 365.0 || 157.0 || 1023.0 || 808.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 29.0 || 8.0 || 251.0 || 222.0 || 3
+label: 271.0 || 35.0 || 511.0 || 271.0 || 3
+label: 498.0 || 87.0 || 679.0 || 216.0 || 3
+label: 541.0 || 98.0 || 711.0 || 363.0 || 3
+label: 611.0 || 94.0 || 778.0 || 174.0 || 3
+label: 728.0 || 145.0 || 874.0 || 390.0 || 3
+label: 815.0 || 83.0 || 985.0 || 262.0 || 3
+label: 864.0 || 67.0 || 939.0 || 128.0 || 3
+
+GROUND TRUTH FOR: 7
+label: 334.0 || 245.0 || 848.0 || 592.0 || 7
+PREDICTIONS: 
+1 label: horse score: tensor(0.6189) 341.12598 || 315.4861 || 821.2533 || 578.4244
+
+GROUND TRUTH FOR: 8
+label: 33.0 || 334.0 || 1023.0 || 596.0 || 4
+
+GROUND TRUTH FOR: 8
+label: 50.0 || 59.0 || 1023.0 || 723.0 || 2
+
+GROUND TRUTH FOR: 8
+label: -1.0 || 72.0 || 987.0 || 812.0 || 0
+
+GROUND TRUTH FOR: 8
+label: 39.0 || 275.0 || 637.0 || 709.0 || 3
+
+GROUND TRUTH FOR: 8
+label: 268.0 || 96.0 || 609.0 || 603.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 36.0 || 225.0 || 688.0 || 1006.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 40.0 || 109.0 || 986.0 || 655.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 348.0 || 278.0 || 1023.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 216.0 || 17.0 || 585.0 || 652.0 || 3
+
+GROUND TRUTH FOR: 9
+label: -1.0 || 238.0 || 683.0 || 767.0 || 7
+
+GROUND TRUTH FOR: a
+label: 168.0 || 46.0 || 969.0 || 541.0 || 7
+
+GROUND TRUTH FOR: a
+label: 122.0 || 100.0 || 1022.0 || 663.0 || 7
+
+GROUND TRUTH FOR: a
+label: 45.0 || 447.0 || 684.0 || 1022.0 || 7
+
+GROUND TRUTH FOR: a
+label: 193.0 || 112.0 || 843.0 || 682.0 || 7
+
+GROUND TRUTH FOR: a
+label: 35.0 || 153.0 || 987.0 || 652.0 || 7
+label: 302.0 || 307.0 || 1022.0 || 653.0 || 7
+
+GROUND TRUTH FOR: b
+label: 339.0 || 137.0 || 729.0 || 679.0 || 7
+
+GROUND TRUTH FOR: b
+label: 163.0 || 274.0 || 381.0 || 524.0 || 6
+label: 474.0 || 210.0 || 748.0 || 522.0 || 6
+label: 753.0 || 161.0 || 1023.0 || 532.0 || 6
+
+GROUND TRUTH FOR: b
+label: 81.0 || 205.0 || 1023.0 || 625.0 || 1
+
+GROUND TRUTH FOR: b
+label: 148.0 || 184.0 || 859.0 || 601.0 || 7
+label: 148.0 || 218.0 || 669.0 || 601.0 || 7
+
+GROUND TRUTH FOR: b
+label: 376.0 || 208.0 || 861.0 || 574.0 || 3
+
+GROUND TRUTH FOR: b
+label: 157.0 || 28.0 || 870.0 || 705.0 || 4
+label: 328.0 || 444.0 || 581.0 || 671.0 || 4
+
+GROUND TRUTH FOR: b
+label: 260.0 || 496.0 || 689.0 || 1002.0 || 7
+
+GROUND TRUTH FOR: b
+label: 151.0 || 86.0 || 855.0 || 628.0 || 7
+
+GROUND TRUTH FOR: b
+label: 87.0 || 341.0 || 604.0 || 685.0 || 3
+label: 115.0 || 416.0 || 468.0 || 685.0 || 3
+label: 543.0 || 400.0 || 699.0 || 685.0 || 3
+label: 653.0 || 63.0 || 888.0 || 685.0 || 3
+
+GROUND TRUTH FOR: b
+label: -1.0 || 99.0 || 978.0 || 633.0 || 2
+
+GROUND TRUTH FOR: c
+label: 262.0 || 428.0 || 563.0 || 828.0 || 7
+
+GROUND TRUTH FOR: c
+label: 337.0 || 206.0 || 775.0 || 738.0 || 7
+label: 991.0 || 282.0 || 1022.0 || 488.0 || 7
+
+GROUND TRUTH FOR: c
+label: 3.0 || -1.0 || 899.0 || 766.0 || 3
+
+GROUND TRUTH FOR: c
+label: 90.0 || 307.0 || 541.0 || 605.0 || 7
+
+GROUND TRUTH FOR: d
+label: 101.0 || 173.0 || 431.0 || 968.0 || 7
+label: 458.0 || 171.0 || 729.0 || 972.0 || 7
+
+GROUND TRUTH FOR: d
+label: -1.0 || -1.0 || 916.0 || 601.0 || 2
+
+GROUND TRUTH FOR: d
+label: 221.0 || 281.0 || 942.0 || 598.0 || 5
+
+GROUND TRUTH FOR: d
+label: 355.0 || 292.0 || 464.0 || 667.0 || 7
+label: 567.0 || 340.0 || 720.0 || 682.0 || 7
+
+GROUND TRUTH FOR: e
+label: 269.0 || 278.0 || 729.0 || 656.0 || 7
+label: 481.0 || 293.0 || 947.0 || 638.0 || 7
+
+GROUND TRUTH FOR: e
+label: -1.0 || 197.0 || 814.0 || 588.0 || 7
+
+GROUND TRUTH FOR: e
+label: 324.0 || 207.0 || 835.0 || 766.0 || 7
+label: 348.0 || 295.0 || 484.0 || 350.0 || 7
+
+GROUND TRUTH FOR: e
+label: 104.0 || 15.0 || 783.0 || 645.0 || 3
+
+GROUND TRUTH FOR: e
+label: -1.0 || 201.0 || 1023.0 || 591.0 || 7
+
+GROUND TRUTH FOR: e
+label: -1.0 || 4.0 || 957.0 || 766.0 || 3
+
+GROUND TRUTH FOR: f
+label: -1.0 || 208.0 || 814.0 || 767.0 || 7
+
+GROUND TRUTH FOR: f
+label: 102.0 || 216.0 || 342.0 || 403.0 || 3
+label: 399.0 || 260.0 || 808.0 || 488.0 || 3
+
+GROUND TRUTH FOR: f
+label: 116.0 || 196.0 || 663.0 || 664.0 || 2
+
+GROUND TRUTH FOR: f
+label: 458.0 || 245.0 || 809.0 || 744.0 || 7
+label: 670.0 || 189.0 || 965.0 || 744.0 || 7
+
+GROUND TRUTH FOR: f
+label: -1.0 || 323.0 || 695.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: f
+label: -1.0 || 242.0 || 1023.0 || 677.0 || 4
+
+GROUND TRUTH FOR: f
+label: 113.0 || 113.0 || 709.0 || 680.0 || 3
+
+GROUND TRUTH FOR: 0
+label: 16.0 || 175.0 || 626.0 || 540.0 || 4
+label: 55.0 || 159.0 || 484.0 || 394.0 || 4
+label: 295.0 || 348.0 || 944.0 || 543.0 || 4
+
+GROUND TRUTH FOR: 0
+label: 163.0 || 238.0 || 600.0 || 650.0 || 5
+
+GROUND TRUTH FOR: 0
+label: 178.0 || 246.0 || 435.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: 0
+label: -1.0 || -1.0 || 1023.0 || 683.0 || 4
+
+GROUND TRUTH FOR: 0
+label: 228.0 || 379.0 || 563.0 || 750.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 284.0 || 196.0 || 678.0 || 592.0 || 3
+
+GROUND TRUTH FOR: 0
+label: -1.0 || 115.0 || 970.0 || 433.0 || 4
+
+GROUND TRUTH FOR: 0
+label: 104.0 || 194.0 || 800.0 || 767.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 218.0 || 296.0 || 970.0 || 679.0 || 4
+
+GROUND TRUTH FOR: 0
+label: 7.0 || 47.0 || 514.0 || 587.0 || 4
+
+GROUND TRUTH FOR: 0
+label: 98.0 || 223.0 || 1023.0 || 753.0 || 2
+label: 620.0 || 76.0 || 928.0 || 192.0 || 2
+
+GROUND TRUTH FOR: 0
+label: 79.0 || 105.0 || 994.0 || 643.0 || 7
+label: 598.0 || 111.0 || 1023.0 || 633.0 || 7
+
+GROUND TRUTH FOR: 1
+label: -1.0 || 40.0 || 712.0 || 1023.0 || 3
+
+GROUND TRUTH FOR: 1
+label: 273.0 || 297.0 || 358.0 || 446.0 || 3
+label: 325.0 || 229.0 || 670.0 || 535.0 || 3
+
+GROUND TRUTH FOR: 1
+label: 121.0 || 30.0 || 861.0 || 535.0 || 3
+
+GROUND TRUTH FOR: 1
+label: 205.0 || 49.0 || 908.0 || 682.0 || 3
+
+GROUND TRUTH FOR: 1
+label: 91.0 || 85.0 || 892.0 || 662.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 21.0 || 79.0 || 693.0 || 563.0 || 7
+
+GROUND TRUTH FOR: 2
+label: -1.0 || 53.0 || 902.0 || 767.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 207.0 || 381.0 || 348.0 || 647.0 || 7
+label: 563.0 || 365.0 || 953.0 || 656.0 || 7
+label: 878.0 || 460.0 || 990.0 || 531.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 86.0 || 345.0 || 497.0 || 978.0 || 6
+
+GROUND TRUTH FOR: 2
+label: 125.0 || 327.0 || 1017.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 180.0 || 125.0 || 1023.0 || 1023.0 || 7
+label: 501.0 || 360.0 || 1022.0 || 955.0 || 7
+
+GROUND TRUTH FOR: 2
+label: -1.0 || 61.0 || 761.0 || 645.0 || 1
+
+GROUND TRUTH FOR: 2
+label: 45.0 || 133.0 || 244.0 || 352.0 || 3
+label: 156.0 || 126.0 || 357.0 || 380.0 || 3
+label: 765.0 || 132.0 || 958.0 || 400.0 || 3
+
+GROUND TRUTH FOR: 2
+label: 195.0 || 88.0 || 731.0 || 430.0 || 5
+
+GROUND TRUTH FOR: 3
+label: 69.0 || 129.0 || 905.0 || 714.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 279.0 || 330.0 || 775.0 || 591.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 349.0 || 252.0 || 549.0 || 677.0 || 6
+label: 405.0 || 300.0 || 550.0 || 676.0 || 6
+
+GROUND TRUTH FOR: 3
+label: 158.0 || 140.0 || 682.0 || 657.0 || 7
+
+GROUND TRUTH FOR: 3
+label: -1.0 || -1.0 || 1022.0 || 767.0 || 2
+
+GROUND TRUTH FOR: 4
+label: 341.0 || 307.0 || 648.0 || 751.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 572.0 || 310.0 || 697.0 || 511.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 470.0 || 80.0 || 931.0 || 823.0 || 3
+
+GROUND TRUTH FOR: 4
+label: 47.0 || 255.0 || 614.0 || 911.0 || 5
+
+GROUND TRUTH FOR: 4
+label: -1.0 || 202.0 || 649.0 || 681.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 2.0 || 243.0 || 295.0 || 535.0 || 7
+label: 348.0 || 270.0 || 544.0 || 516.0 || 7
+label: 378.0 || 287.0 || 637.0 || 522.0 || 7
+
+GROUND TRUTH FOR: 4
+label: -1.0 || 332.0 || 644.0 || 1023.0 || 0
+
+GROUND TRUTH FOR: 4
+label: 295.0 || 195.0 || 810.0 || 577.0 || 5
+
+GROUND TRUTH FOR: 5
+label: 352.0 || 233.0 || 999.0 || 661.0 || 7
+
+GROUND TRUTH FOR: 5
+label: -1.0 || 10.0 || 192.0 || 270.0 || 7
+label: 102.0 || 241.0 || 681.0 || 640.0 || 7
+label: 854.0 || 250.0 || 1023.0 || 503.0 || 7
+
+GROUND TRUTH FOR: 5
+label: -1.0 || 137.0 || 949.0 || 689.0 || 2
+
+GROUND TRUTH FOR: 5
+label: 17.0 || 307.0 || 999.0 || 515.0 || 7
+
+GROUND TRUTH FOR: 5
+label: 447.0 || 229.0 || 636.0 || 682.0 || 7
+
+GROUND TRUTH FOR: 5
+label: 126.0 || 322.0 || 742.0 || 864.0 || 7
+label: 440.0 || 339.0 || 820.0 || 940.0 || 7
+
+GROUND TRUTH FOR: 5
+label: 458.0 || 81.0 || 991.0 || 682.0 || 1
+
+GROUND TRUTH FOR: 6
+label: 48.0 || 162.0 || 1007.0 || 786.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 266.0 || 185.0 || 961.0 || 700.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 296.0 || 136.0 || 850.0 || 551.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 25.0 || 74.0 || 548.0 || 550.0 || 3
+label: 32.0 || 444.0 || 563.0 || 1023.0 || 3
+
+GROUND TRUTH FOR: 6
+label: 383.0 || 235.0 || 767.0 || 485.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 90.0 || 253.0 || 566.0 || 515.0 || 7
+label: 591.0 || 224.0 || 1022.0 || 609.0 || 7
+
+GROUND TRUTH FOR: 6
+label: -1.0 || 405.0 || 387.0 || 718.0 || 5
+label: 344.0 || 395.0 || 1023.0 || 715.0 || 5
+
+GROUND TRUTH FOR: 7
+label: 39.0 || 120.0 || 987.0 || 624.0 || 0
+
+GROUND TRUTH FOR: 7
+label: -1.0 || 124.0 || 699.0 || 681.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 368.0 || -1.0 || 1006.0 || 904.0 || 3
+
+GROUND TRUTH FOR: 8
+label: 105.0 || -1.0 || 646.0 || 886.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 347.0 || 368.0 || 490.0 || 579.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 433.0 || 326.0 || 615.0 || 418.0 || 0
+label: 598.0 || 341.0 || 766.0 || 414.0 || 0
+label: 720.0 || 338.0 || 892.0 || 424.0 || 0
+label: 887.0 || 340.0 || 1023.0 || 423.0 || 0
+
+GROUND TRUTH FOR: 8
+label: -1.0 || 188.0 || 122.0 || 333.0 || 7
+label: 139.0 || 191.0 || 288.0 || 347.0 || 7
+label: 298.0 || 198.0 || 446.0 || 353.0 || 7
+label: 462.0 || 213.0 || 599.0 || 357.0 || 7
+label: 631.0 || 380.0 || 716.0 || 504.0 || 7
+label: 749.0 || 280.0 || 895.0 || 453.0 || 7
+label: 920.0 || 421.0 || 978.0 || 528.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 374.0 || 306.0 || 762.0 || 638.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 54.0 || 239.0 || 701.0 || 604.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 6.0 || 230.0 || 1004.0 || 648.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 66.0 || 53.0 || 943.0 || 588.0 || 1
+
+GROUND TRUTH FOR: 9
+label: -1.0 || 294.0 || 535.0 || 639.0 || 7
+PREDICTIONS: 
+1 label: horse score: tensor(0.6303) 41.55159 || 300.19553 || 468.19568 || 590.55664
+
+GROUND TRUTH FOR: 9
+label: -1.0 || 229.0 || 1022.0 || 766.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 62.0 || 133.0 || 254.0 || 460.0 || 7
+label: 343.0 || 161.0 || 588.0 || 496.0 || 7
+label: 724.0 || 191.0 || 1016.0 || 535.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 88.0 || 181.0 || 341.0 || 829.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 157.0 || 62.0 || 897.0 || 629.0 || 3
+
+GROUND TRUTH FOR: 9
+label: 179.0 || 323.0 || 492.0 || 570.0 || 3
+
+GROUND TRUTH FOR: 9
+label: 36.0 || 200.0 || 684.0 || 674.0 || 1
+
+GROUND TRUTH FOR: a
+label: 142.0 || 254.0 || 700.0 || 535.0 || 7
+
+GROUND TRUTH FOR: a
+label: 106.0 || 254.0 || 888.0 || 584.0 || 7
+
+GROUND TRUTH FOR: a
+label: 113.0 || 55.0 || 767.0 || 991.0 || 5
+
+GROUND TRUTH FOR: a
+label: 334.0 || 279.0 || 612.0 || 627.0 || 7
+label: 467.0 || 291.0 || 988.0 || 631.0 || 7
+label: 941.0 || 237.0 || 1023.0 || 462.0 || 7
+
+GROUND TRUTH FOR: a
+label: 185.0 || -1.0 || 850.0 || 766.0 || 7
+label: 331.0 || 52.0 || 386.0 || 71.0 || 7
+label: 577.0 || 43.0 || 623.0 || 59.0 || 7
+
+GROUND TRUTH FOR: a
+label: 119.0 || 324.0 || 381.0 || 676.0 || 7
+label: 476.0 || 367.0 || 774.0 || 677.0 || 7
+
+GROUND TRUTH FOR: a
+label: 303.0 || 191.0 || 721.0 || 562.0 || 7
+
+GROUND TRUTH FOR: a
+label: 436.0 || 192.0 || 839.0 || 767.0 || 7
+
+GROUND TRUTH FOR: a
+label: 182.0 || 72.0 || 1003.0 || 670.0 || 5
+
+GROUND TRUTH FOR: b
+label: 79.0 || 206.0 || 656.0 || 614.0 || 7
+label: 347.0 || 205.0 || 981.0 || 651.0 || 7
+
+GROUND TRUTH FOR: b
+label: -1.0 || 128.0 || 680.0 || 849.0 || 7
+label: 0.0 || 36.0 || 195.0 || 169.0 || 7
+
+GROUND TRUTH FOR: b
+label: -1.0 || 96.0 || 821.0 || 817.0 || 3
+
+GROUND TRUTH FOR: b
+label: 20.0 || 24.0 || 740.0 || 1022.0 || 3
+
+GROUND TRUTH FOR: b
+label: -1.0 || 359.0 || 316.0 || 650.0 || 4
+label: 126.0 || 65.0 || 969.0 || 623.0 || 4
+
+GROUND TRUTH FOR: b
+label: -1.0 || -1.0 || 766.0 || 1023.0 || 3
+
+GROUND TRUTH FOR: b
+label: 26.0 || 95.0 || 604.0 || 705.0 || 7
+label: 558.0 || 124.0 || 880.0 || 729.0 || 7
+label: 720.0 || 176.0 || 1023.0 || 647.0 || 7
+
+GROUND TRUTH FOR: b
+label: 364.0 || 196.0 || 680.0 || 499.0 || 7
+label: 373.0 || 179.0 || 997.0 || 689.0 || 7
+
+GROUND TRUTH FOR: c
+label: 139.0 || 199.0 || 865.0 || 691.0 || 3
+
+GROUND TRUTH FOR: c
+label: 106.0 || 81.0 || 656.0 || 628.0 || 7
+
+GROUND TRUTH FOR: c
+label: 149.0 || 313.0 || 999.0 || 985.0 || 7
+
+GROUND TRUTH FOR: c
+label: 79.0 || 125.0 || 486.0 || 868.0 || 7
+
+GROUND TRUTH FOR: c
+label: 140.0 || 101.0 || 827.0 || 712.0 || 2
+
+GROUND TRUTH FOR: c
+label: 280.0 || 191.0 || 1022.0 || 496.0 || 2
+
+GROUND TRUTH FOR: c
+label: 21.0 || 124.0 || 867.0 || 597.0 || 7
+
+GROUND TRUTH FOR: d
+label: 6.0 || 26.0 || 766.0 || 677.0 || 1
+
+GROUND TRUTH FOR: d
+label: 536.0 || -1.0 || 591.0 || 121.0 || 7
+label: 584.0 || 32.0 || 669.0 || 103.0 || 7
+
+GROUND TRUTH FOR: d
+label: 12.0 || 64.0 || 583.0 || 931.0 || 3
+
+GROUND TRUTH FOR: d
+label: 294.0 || 162.0 || 678.0 || 678.0 || 6
+
+GROUND TRUTH FOR: d
+label: 611.0 || 159.0 || 877.0 || 369.0 || 7
+
+GROUND TRUTH FOR: d
+label: 113.0 || -1.0 || 673.0 || 738.0 || 3
+
+GROUND TRUTH FOR: d
+label: 39.0 || 14.0 || 700.0 || 1022.0 || 7
+
+GROUND TRUTH FOR: e
+label: 320.0 || 276.0 || 569.0 || 1022.0 || 2
+
+GROUND TRUTH FOR: e
+label: -1.0 || 9.0 || 230.0 || 355.0 || 3
+label: 5.0 || 85.0 || 392.0 || 439.0 || 3
+label: 439.0 || 99.0 || 764.0 || 542.0 || 3
+label: 479.0 || 193.0 || 1023.0 || 672.0 || 3
+
+GROUND TRUTH FOR: e
+label: 153.0 || 173.0 || 952.0 || 685.0 || 4
+
+GROUND TRUTH FOR: e
+label: -1.0 || -1.0 || 653.0 || 1023.0 || 7
+label: 97.0 || 363.0 || 969.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: e
+label: -1.0 || 118.0 || 627.0 || 538.0 || 7
+
+GROUND TRUTH FOR: f
+label: 216.0 || 146.0 || 1023.0 || 741.0 || 2
+
+GROUND TRUTH FOR: f
+label: 82.0 || 173.0 || 959.0 || 628.0 || 2
+
+GROUND TRUTH FOR: f
+label: -1.0 || 27.0 || 810.0 || 766.0 || 4
+
+GROUND TRUTH FOR: f
+label: 255.0 || 84.0 || 753.0 || 642.0 || 7
+
+GROUND TRUTH FOR: f
+label: 111.0 || 115.0 || 948.0 || 767.0 || 7
+label: 509.0 || 25.0 || 1023.0 || 767.0 || 7
+
+GROUND TRUTH FOR: f
+label: 39.0 || 225.0 || 1023.0 || 660.0 || 7
+
+GROUND TRUTH FOR: f
+label: 226.0 || -1.0 || 626.0 || 744.0 || 3
+
+GROUND TRUTH FOR: 0
+label: 117.0 || 228.0 || 314.0 || 435.0 || 3
+label: 436.0 || 188.0 || 574.0 || 347.0 || 3
+label: 560.0 || 221.0 || 752.0 || 367.0 || 3
+label: 890.0 || 261.0 || 1023.0 || 403.0 || 3
+
+GROUND TRUTH FOR: 0
+label: 446.0 || 187.0 || 946.0 || 603.0 || 4
+
+GROUND TRUTH FOR: 0
+label: -1.0 || 273.0 || 883.0 || 634.0 || 2
+label: -1.0 || 78.0 || 985.0 || 328.0 || 2
+
+GROUND TRUTH FOR: 0
+label: 156.0 || 258.0 || 799.0 || 528.0 || 1
+
+GROUND TRUTH FOR: 0
+label: 128.0 || 345.0 || 225.0 || 427.0 || 1
+label: 149.0 || 135.0 || 554.0 || 443.0 || 1
+label: 736.0 || 448.0 || 885.0 || 565.0 || 1
+
+GROUND TRUTH FOR: 0
+label: 220.0 || -1.0 || 1022.0 || 685.0 || 3
+
+GROUND TRUTH FOR: 0
+label: 21.0 || -1.0 || 966.0 || 613.0 || 2
+
+GROUND TRUTH FOR: 0
+label: -1.0 || 323.0 || 575.0 || 897.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 147.0 || 130.0 || 932.0 || 689.0 || 4
+
+GROUND TRUTH FOR: 1
+label: -1.0 || 347.0 || 13.0 || 485.0 || 7
+label: 352.0 || 37.0 || 616.0 || 730.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 174.0 || 189.0 || 826.0 || 738.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 1.0 || 135.0 || 797.0 || 1000.0 || 3
+
+GROUND TRUTH FOR: 2
+label: 15.0 || 320.0 || 619.0 || 1022.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 42.0 || 223.0 || 911.0 || 698.0 || 5
+
+GROUND TRUTH FOR: 2
+label: 63.0 || -1.0 || 966.0 || 492.0 || 1
+
+GROUND TRUTH FOR: 2
+label: 310.0 || 331.0 || 701.0 || 607.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 567.0 || 181.0 || 752.0 || 413.0 || 7
+
+GROUND TRUTH FOR: 2
+label: -1.0 || 160.0 || 439.0 || 610.0 || 4
+label: 416.0 || 55.0 || 735.0 || 552.0 || 4
+label: 605.0 || 192.0 || 1022.0 || 611.0 || 4
+
+GROUND TRUTH FOR: 3
+label: 64.0 || 212.0 || 609.0 || 766.0 || 4
+label: 385.0 || 216.0 || 760.0 || 767.0 || 4
+
+GROUND TRUTH FOR: 4
+label: 348.0 || 350.0 || 850.0 || 700.0 || 3
+label: 412.0 || 175.0 || 529.0 || 513.0 || 3
+label: 475.0 || 32.0 || 923.0 || 527.0 || 3
+
+GROUND TRUTH FOR: 4
+label: 190.0 || 65.0 || 834.0 || 603.0 || 3
+
+GROUND TRUTH FOR: 4
+label: 94.0 || 601.0 || 450.0 || 1022.0 || 3
+label: 197.0 || 277.0 || 315.0 || 469.0 || 3
+label: 570.0 || 198.0 || 680.0 || 350.0 || 3
+
+GROUND TRUTH FOR: 4
+label: 5.0 || 10.0 || 1003.0 || 683.0 || 3
+
+GROUND TRUTH FOR: 4
+label: -1.0 || -1.0 || 1023.0 || 682.0 || 2
+
+GROUND TRUTH FOR: 5
+label: 31.0 || 119.0 || 952.0 || 557.0 || 5
+
+GROUND TRUTH FOR: 5
+label: 66.0 || 274.0 || 299.0 || 598.0 || 4
+label: 303.0 || 222.0 || 627.0 || 654.0 || 4
+label: 538.0 || 158.0 || 799.0 || 588.0 || 4
+
+GROUND TRUTH FOR: 5
+label: 258.0 || 338.0 || 411.0 || 576.0 || 4
+label: 488.0 || 108.0 || 868.0 || 556.0 || 4
+
+GROUND TRUTH FOR: 6
+label: 276.0 || 150.0 || 773.0 || 574.0 || 3
+
+GROUND TRUTH FOR: 6
+label: 203.0 || 275.0 || 407.0 || 419.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 203.0 || 65.0 || 967.0 || 531.0 || 4
+
+GROUND TRUTH FOR: 6
+label: 54.0 || 230.0 || 489.0 || 639.0 || 4
+label: 368.0 || 202.0 || 755.0 || 650.0 || 4
+label: 526.0 || 279.0 || 869.0 || 684.0 || 4
+label: 675.0 || 209.0 || 1023.0 || 741.0 || 4
+
+GROUND TRUTH FOR: 6
+label: 136.0 || 101.0 || 903.0 || 767.0 || 3
+
+GROUND TRUTH FOR: 6
+label: 406.0 || 182.0 || 961.0 || 551.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 39.0 || 72.0 || 750.0 || 591.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 61.0 || 209.0 || 945.0 || 556.0 || 2
+
+GROUND TRUTH FOR: 7
+label: 59.0 || 244.0 || 916.0 || 701.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 105.0 || 53.0 || 1023.0 || 586.0 || 4
+
+GROUND TRUTH FOR: 7
+label: 141.0 || 6.0 || 829.0 || 766.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 334.0 || 38.0 || 1023.0 || 684.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 251.0 || 317.0 || 497.0 || 585.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 252.0 || 172.0 || 547.0 || 603.0 || 7
+label: 476.0 || 180.0 || 848.0 || 540.0 || 7
+
+GROUND TRUTH FOR: 8
+label: -1.0 || -1.0 || 1023.0 || 681.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 108.0 || 286.0 || 262.0 || 518.0 || 7
+label: 109.0 || 288.0 || 945.0 || 515.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 67.0 || 111.0 || 970.0 || 611.0 || 7
+
+GROUND TRUTH FOR: 8
+label: -1.0 || -1.0 || 1023.0 || 679.0 || 2
+
+GROUND TRUTH FOR: 8
+label: 28.0 || -1.0 || 1023.0 || 865.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 93.0 || 379.0 || 736.0 || 839.0 || 1
+
+GROUND TRUTH FOR: 8
+label: 89.0 || 47.0 || 902.0 || 979.0 || 5
+
+GROUND TRUTH FOR: 8
+label: 322.0 || 384.0 || 518.0 || 1022.0 || 0
+
+GROUND TRUTH FOR: 8
+label: 94.0 || 57.0 || 725.0 || 618.0 || 4
+label: 227.0 || 186.0 || 808.0 || 655.0 || 4
+
+GROUND TRUTH FOR: 8
+label: 107.0 || 479.0 || 267.0 || 682.0 || 3
+label: 245.0 || 416.0 || 671.0 || 718.0 || 3
+
+GROUND TRUTH FOR: 8
+label: 89.0 || 172.0 || 591.0 || 1023.0 || 6
+
+GROUND TRUTH FOR: 9
+label: 165.0 || 240.0 || 846.0 || 672.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 88.0 || 36.0 || 1023.0 || 682.0 || 1
+
+GROUND TRUTH FOR: 9
+label: 289.0 || -1.0 || 1023.0 || 812.0 || 3
+
+GROUND TRUTH FOR: 9
+label: -1.0 || 179.0 || 754.0 || 678.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 343.0 || 236.0 || 727.0 || 579.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 217.0 || 234.0 || 706.0 || 569.0 || 5
+
+GROUND TRUTH FOR: 9
+label: 39.0 || 222.0 || 227.0 || 552.0 || 7
+label: 98.0 || 180.0 || 435.0 || 552.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 6.0 || 255.0 || 1023.0 || 682.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 61.0 || 117.0 || 635.0 || 297.0 || 4
+label: 288.0 || 160.0 || 758.0 || 442.0 || 4
+label: 636.0 || 132.0 || 867.0 || 229.0 || 4
+
+GROUND TRUTH FOR: 9
+label: 553.0 || 249.0 || 634.0 || 360.0 || 6
+
+GROUND TRUTH FOR: a
+label: 350.0 || 162.0 || 848.0 || 616.0 || 3
+
+GROUND TRUTH FOR: a
+label: 144.0 || 131.0 || 573.0 || 682.0 || 7
+
+GROUND TRUTH FOR: a
+label: -1.0 || 307.0 || 48.0 || 506.0 || 0
+label: 25.0 || 381.0 || 137.0 || 455.0 || 0
+label: 172.0 || 349.0 || 327.0 || 441.0 || 0
+label: 179.0 || 228.0 || 629.0 || 667.0 || 0
+label: 444.0 || 109.0 || 714.0 || 682.0 || 0
+
+GROUND TRUTH FOR: a
+label: -1.0 || 409.0 || 155.0 || 632.0 || 7
+label: 28.0 || 394.0 || 149.0 || 640.0 || 7
+label: 283.0 || 378.0 || 1023.0 || 635.0 || 7
+
+GROUND TRUTH FOR: a
+label: 3.0 || 166.0 || 483.0 || 457.0 || 7
+label: 235.0 || 147.0 || 916.0 || 494.0 || 7
+
+GROUND TRUTH FOR: a
+label: 241.0 || 298.0 || 448.0 || 516.0 || 4
+label: 427.0 || 319.0 || 623.0 || 518.0 || 4
+label: 657.0 || 327.0 || 866.0 || 526.0 || 4
+label: 774.0 || 314.0 || 980.0 || 559.0 || 4
+label: 894.0 || 325.0 || 1023.0 || 593.0 || 4
+label: 925.0 || 307.0 || 1023.0 || 639.0 || 4
+
+GROUND TRUTH FOR: a
+label: 518.0 || 274.0 || 776.0 || 561.0 || 7
+
+GROUND TRUTH FOR: b
+label: 137.0 || 213.0 || 580.0 || 521.0 || 7
+
+GROUND TRUTH FOR: b
+label: -1.0 || 3.0 || 1023.0 || 760.0 || 7
+
+GROUND TRUTH FOR: b
+label: -1.0 || 4.0 || 837.0 || 682.0 || 3
+
+GROUND TRUTH FOR: b
+label: -1.0 || -1.0 || 674.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: b
+label: 325.0 || 254.0 || 844.0 || 757.0 || 7
+
+GROUND TRUTH FOR: b
+label: 189.0 || 58.0 || 769.0 || 523.0 || 3
+
+GROUND TRUTH FOR: b
+label: 179.0 || 82.0 || 861.0 || 686.0 || 3
+
+GROUND TRUTH FOR: c
+label: 187.0 || 178.0 || 488.0 || 683.0 || 7
+label: 566.0 || 352.0 || 917.0 || 684.0 || 7
+
+GROUND TRUTH FOR: c
+label: 69.0 || 230.0 || 423.0 || 562.0 || 3
+label: 565.0 || 225.0 || 950.0 || 596.0 || 3
+
+GROUND TRUTH FOR: c
+label: -1.0 || 70.0 || 940.0 || 680.0 || 3
+
+GROUND TRUTH FOR: c
+label: -1.0 || 5.0 || 830.0 || 679.0 || 3
+label: 892.0 || 513.0 || 1023.0 || 679.0 || 3
+
+GROUND TRUTH FOR: c
+label: -1.0 || 467.0 || 89.0 || 1023.0 || 7
+label: 8.0 || 178.0 || 795.0 || 1022.0 || 7
+
+GROUND TRUTH FOR: c
+label: 223.0 || 250.0 || 766.0 || 741.0 || 7
+
+GROUND TRUTH FOR: c
+label: -1.0 || -1.0 || 1023.0 || 999.0 || 5
+
+GROUND TRUTH FOR: d
+label: 17.0 || 199.0 || 1023.0 || 737.0 || 7
+label: 376.0 || 216.0 || 588.0 || 731.0 || 7
+
+GROUND TRUTH FOR: d
+label: 145.0 || 25.0 || 820.0 || 605.0 || 3
+
+GROUND TRUTH FOR: d
+label: 100.0 || 268.0 || 812.0 || 458.0 || 4
+
+GROUND TRUTH FOR: d
+label: 551.0 || 305.0 || 799.0 || 535.0 || 7
+
+GROUND TRUTH FOR: d
+label: -1.0 || 416.0 || 468.0 || 1022.0 || 7
+
+GROUND TRUTH FOR: d
+label: 135.0 || 321.0 || 282.0 || 676.0 || 7
+label: 381.0 || 146.0 || 1023.0 || 767.0 || 7
+
+GROUND TRUTH FOR: e
+label: 333.0 || 167.0 || 867.0 || 581.0 || 7
+
+GROUND TRUTH FOR: e
+label: 450.0 || 271.0 || 946.0 || 802.0 || 7
+
+GROUND TRUTH FOR: e
+label: -1.0 || 65.0 || 439.0 || 1023.0 || 7
+label: 324.0 || -1.0 || 767.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: e
+label: 543.0 || 98.0 || 875.0 || 717.0 || 3
+
+GROUND TRUTH FOR: e
+label: 91.0 || 308.0 || 574.0 || 965.0 || 4
+
+GROUND TRUTH FOR: e
+label: 375.0 || 117.0 || 947.0 || 548.0 || 5
+
+GROUND TRUTH FOR: e
+label: -1.0 || -1.0 || 682.0 || 1023.0 || 3
+label: 209.0 || 600.0 || 682.0 || 944.0 || 3
+
+GROUND TRUTH FOR: e
+label: 126.0 || 7.0 || 865.0 || 833.0 || 4
+
+GROUND TRUTH FOR: e
+label: 0.0 || 133.0 || 1023.0 || 627.0 || 4
+
+GROUND TRUTH FOR: e
+label: -1.0 || 52.0 || 676.0 || 766.0 || 7
+
+GROUND TRUTH FOR: e
+label: -1.0 || 225.0 || 48.0 || 343.0 || 4
+label: 15.0 || 248.0 || 161.0 || 380.0 || 4
+label: 149.0 || 228.0 || 576.0 || 552.0 || 4
+
+GROUND TRUTH FOR: f
+label: 260.0 || 220.0 || 475.0 || 686.0 || 4
+label: 498.0 || 78.0 || 1023.0 || 767.0 || 4
+
+GROUND TRUTH FOR: f
+label: 500.0 || 207.0 || 909.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: f
+label: 236.0 || 411.0 || 995.0 || 678.0 || 7
+label: 761.0 || 456.0 || 992.0 || 677.0 || 7
+
+GROUND TRUTH FOR: f
+label: 489.0 || 132.0 || 950.0 || 681.0 || 7
+
+GROUND TRUTH FOR: f
+label: 70.0 || 262.0 || 346.0 || 694.0 || 7
+label: 468.0 || 494.0 || 594.0 || 594.0 || 7
+label: 487.0 || 35.0 || 938.0 || 345.0 || 7
+label: 861.0 || 488.0 || 992.0 || 636.0 || 7
+
+GROUND TRUTH FOR: f
+label: 666.0 || 491.0 || 810.0 || 682.0 || 4
+
+GROUND TRUTH FOR: f
+label: 0.0 || -1.0 || 665.0 || 679.0 || 4
+
+GROUND TRUTH FOR: f
+label: 460.0 || 115.0 || 720.0 || 697.0 || 6
+
+GROUND TRUTH FOR: 0
+label: -1.0 || 24.0 || 1018.0 || 752.0 || 4
+
+GROUND TRUTH FOR: 0
+label: 463.0 || 209.0 || 1023.0 || 727.0 || 0
+
+GROUND TRUTH FOR: 0
+label: 92.0 || 184.0 || 744.0 || 622.0 || 7
+
+GROUND TRUTH FOR: 0
+label: -1.0 || 266.0 || 526.0 || 767.0 || 7
+label: 348.0 || 256.0 || 569.0 || 767.0 || 7
+label: 587.0 || 270.0 || 1023.0 || 720.0 || 7
+
+GROUND TRUTH FOR: 0
+label: -1.0 || 283.0 || 1022.0 || 546.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 139.0 || 249.0 || 830.0 || 598.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 26.0 || 313.0 || 308.0 || 565.0 || 7
+label: 192.0 || 465.0 || 602.0 || 821.0 || 7
+
+GROUND TRUTH FOR: 1
+label: -1.0 || 73.0 || 679.0 || 1021.0 || 3
+
+GROUND TRUTH FOR: 1
+label: 115.0 || 204.0 || 648.0 || 602.0 || 7
+
+GROUND TRUTH FOR: 1
+label: -1.0 || 168.0 || 921.0 || 731.0 || 7
+
+GROUND TRUTH FOR: 2
+label: -1.0 || 46.0 || 572.0 || 1022.0 || 3
+
+GROUND TRUTH FOR: 2
+label: 67.0 || 150.0 || 1023.0 || 624.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 143.0 || 136.0 || 732.0 || 543.0 || 5
+label: 310.0 || 88.0 || 1022.0 || 541.0 || 5
+
+GROUND TRUTH FOR: 2
+label: 202.0 || 192.0 || 1023.0 || 651.0 || 2
+
+GROUND TRUTH FOR: 2
+label: -1.0 || 139.0 || 945.0 || 682.0 || 4
+
+GROUND TRUTH FOR: 2
+label: 26.0 || 24.0 || 772.0 || 859.0 || 1
+
+GROUND TRUTH FOR: 2
+label: 416.0 || 16.0 || 942.0 || 676.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 95.0 || 22.0 || 994.0 || 710.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 296.0 || 62.0 || 1022.0 || 680.0 || 5
+
+GROUND TRUTH FOR: 4
+label: 240.0 || 229.0 || 519.0 || 435.0 || 7
+label: 537.0 || 186.0 || 926.0 || 474.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 130.0 || 383.0 || 526.0 || 654.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 283.0 || 154.0 || 449.0 || 524.0 || 3
+label: 603.0 || 145.0 || 748.0 || 521.0 || 3
+
+GROUND TRUTH FOR: 4
+label: 252.0 || 302.0 || 352.0 || 528.0 || 7
+label: 558.0 || 293.0 || 773.0 || 507.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 73.0 || 56.0 || 685.0 || 521.0 || 7
+label: 451.0 || 234.0 || 892.0 || 654.0 || 7
+
+GROUND TRUTH FOR: 4
+label: -1.0 || -1.0 || 767.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: 5
+label: 189.0 || -1.0 || 807.0 || 678.0 || 0
+
+GROUND TRUTH FOR: 5
+label: 100.0 || 59.0 || 1023.0 || 681.0 || 2
+
+GROUND TRUTH FOR: 5
+label: 135.0 || 227.0 || 851.0 || 681.0 || 7
+
+GROUND TRUTH FOR: 5
+label: 24.0 || 350.0 || 428.0 || 993.0 || 7
+label: 309.0 || 323.0 || 627.0 || 976.0 || 7
+
+GROUND TRUTH FOR: 5
+label: 373.0 || 0.0 || 876.0 || 562.0 || 7
+label: 506.0 || 267.0 || 664.0 || 489.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 139.0 || 120.0 || 325.0 || 957.0 || 6
+
+GROUND TRUTH FOR: 6
+label: 55.0 || 123.0 || 207.0 || 600.0 || 3
+label: 238.0 || 96.0 || 645.0 || 577.0 || 3
+label: 469.0 || 75.0 || 928.0 || 662.0 || 3
+label: 1001.0 || 330.0 || 1023.0 || 423.0 || 3
+
+GROUND TRUTH FOR: 6
+label: 262.0 || 129.0 || 711.0 || 681.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 49.0 || 314.0 || 614.0 || 858.0 || 7
+
+GROUND TRUTH FOR: 7
+label: -1.0 || 186.0 || 1022.0 || 507.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 212.0 || 126.0 || 786.0 || 454.0 || 5
+
+GROUND TRUTH FOR: 7
+label: 105.0 || 242.0 || 926.0 || 480.0 || 2
+
+GROUND TRUTH FOR: 7
+label: 460.0 || 183.0 || 955.0 || 627.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 176.0 || 143.0 || 761.0 || 673.0 || 4
+
+GROUND TRUTH FOR: 7
+label: 357.0 || 376.0 || 673.0 || 840.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 348.0 || 121.0 || 766.0 || 684.0 || 3
+
+GROUND TRUTH FOR: 8
+label: -1.0 || 87.0 || 676.0 || 948.0 || 7
+
+GROUND TRUTH FOR: 8
+label: -1.0 || 426.0 || 653.0 || 871.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 205.0 || 18.0 || 414.0 || 767.0 || 6
+
+GROUND TRUTH FOR: 9
+label: -1.0 || -1.0 || 815.0 || 683.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 622.0 || 93.0 || 781.0 || 261.0 || 7
+
+GROUND TRUTH FOR: 9
+label: -1.0 || 49.0 || 969.0 || 705.0 || 0
+
+GROUND TRUTH FOR: 9
+label: 57.0 || 17.0 || 612.0 || 708.0 || 3
+
+GROUND TRUTH FOR: a
+label: 65.0 || 690.0 || 512.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: a
+label: 120.0 || 96.0 || 834.0 || 991.0 || 1
+
+GROUND TRUTH FOR: a
+label: 317.0 || 87.0 || 727.0 || 762.0 || 3
+
+GROUND TRUTH FOR: a
+label: 19.0 || 88.0 || 320.0 || 633.0 || 1
+label: 538.0 || 81.0 || 915.0 || 632.0 || 1
+
+GROUND TRUTH FOR: a
+label: 244.0 || 387.0 || 725.0 || 645.0 || 3
+
+GROUND TRUTH FOR: b
+label: -1.0 || 234.0 || 805.0 || 767.0 || 7
+
+GROUND TRUTH FOR: b
+label: 217.0 || 282.0 || 775.0 || 587.0 || 1
+
+GROUND TRUTH FOR: b
+label: 14.0 || 306.0 || 966.0 || 995.0 || 5
+
+GROUND TRUTH FOR: b
+label: 125.0 || 71.0 || 854.0 || 767.0 || 7
+
+GROUND TRUTH FOR: b
+label: 493.0 || 192.0 || 759.0 || 596.0 || 6
+label: 633.0 || 243.0 || 844.0 || 596.0 || 6
+
+GROUND TRUTH FOR: b
+label: 100.0 || 108.0 || 1022.0 || 884.0 || 2
+
+GROUND TRUTH FOR: c
+label: 180.0 || 93.0 || 664.0 || 653.0 || 7
+label: 438.0 || 93.0 || 851.0 || 611.0 || 7
+
+GROUND TRUTH FOR: c
+label: 120.0 || 94.0 || 936.0 || 575.0 || 3
+
+GROUND TRUTH FOR: c
+label: 165.0 || 177.0 || 1022.0 || 682.0 || 2
+
+GROUND TRUTH FOR: c
+label: 221.0 || 303.0 || 621.0 || 610.0 || 0
+
+GROUND TRUTH FOR: c
+label: 39.0 || 110.0 || 540.0 || 617.0 || 7
+
+GROUND TRUTH FOR: c
+label: -1.0 || 55.0 || 1023.0 || 659.0 || 3
+
+GROUND TRUTH FOR: d
+label: -1.0 || -1.0 || 526.0 || 687.0 || 4
+label: 314.0 || 384.0 || 555.0 || 687.0 || 4
+label: 540.0 || -1.0 || 1023.0 || 729.0 || 4
+label: 647.0 || 361.0 || 962.0 || 709.0 || 4
+label: 665.0 || 528.0 || 763.0 || 589.0 || 4
+
+GROUND TRUTH FOR: d
+label: 417.0 || 240.0 || 716.0 || 767.0 || 4
+
+GROUND TRUTH FOR: d
+label: 329.0 || 249.0 || 686.0 || 668.0 || 7
+label: 844.0 || 326.0 || 893.0 || 405.0 || 7
+
+GROUND TRUTH FOR: d
+label: -1.0 || -1.0 || 906.0 || 735.0 || 3
+
+GROUND TRUTH FOR: d
+label: -1.0 || 169.0 || 241.0 || 467.0 || 4
+label: 169.0 || 207.0 || 526.0 || 548.0 || 4
+label: 469.0 || 248.0 || 882.0 || 662.0 || 4
+
+GROUND TRUTH FOR: e
+label: -1.0 || 35.0 || 548.0 || 613.0 || 1
+label: 429.0 || 113.0 || 1022.0 || 603.0 || 1
+
+GROUND TRUTH FOR: e
+label: -1.0 || 51.0 || 1023.0 || 679.0 || 7
+
+GROUND TRUTH FOR: e
+label: -1.0 || 389.0 || 999.0 || 839.0 || 4
+
+GROUND TRUTH FOR: e
+label: 47.0 || 202.0 || 97.0 || 283.0 || 7
+label: 130.0 || 82.0 || 823.0 || 613.0 || 7
+
+GROUND TRUTH FOR: e
+label: 286.0 || 101.0 || 758.0 || 568.0 || 3
+label: 355.0 || 44.0 || 645.0 || 269.0 || 3
+label: 575.0 || -1.0 || 774.0 || 100.0 || 3
+label: 699.0 || -1.0 || 968.0 || 147.0 || 3
+
+GROUND TRUTH FOR: e
+label: 310.0 || 310.0 || 590.0 || 909.0 || 7
+
+GROUND TRUTH FOR: e
+label: 128.0 || 150.0 || 975.0 || 681.0 || 7
+
+GROUND TRUTH FOR: e
+label: 136.0 || 194.0 || 653.0 || 619.0 || 5
+label: 460.0 || 143.0 || 1023.0 || 639.0 || 5
+
+GROUND TRUTH FOR: e
+label: 273.0 || 221.0 || 866.0 || 638.0 || 5
+
+GROUND TRUTH FOR: e
+label: 52.0 || 153.0 || 815.0 || 717.0 || 7
+
+GROUND TRUTH FOR: e
+label: 12.0 || 141.0 || 717.0 || 677.0 || 0
+label: 392.0 || 222.0 || 911.0 || 632.0 || 0
+
+GROUND TRUTH FOR: e
+label: -1.0 || 371.0 || 764.0 || 767.0 || 0
+label: 767.0 || 159.0 || 955.0 || 326.0 || 0
+
+GROUND TRUTH FOR: f
+label: 142.0 || 168.0 || 948.0 || 815.0 || 7
+
+GROUND TRUTH FOR: f
+label: 51.0 || 134.0 || 1023.0 || 652.0 || 2
+
+GROUND TRUTH FOR: f
+label: -1.0 || 93.0 || 950.0 || 765.0 || 7
+
+GROUND TRUTH FOR: f
+label: 284.0 || 48.0 || 790.0 || 682.0 || 7
+
+GROUND TRUTH FOR: f
+label: -1.0 || 44.0 || 1023.0 || 767.0 || 7
+
+GROUND TRUTH FOR: 0
+label: 178.0 || 121.0 || 815.0 || 706.0 || 3
+
+GROUND TRUTH FOR: 0
+label: 26.0 || 120.0 || 1023.0 || 766.0 || 2
+
+GROUND TRUTH FOR: 1
+label: 37.0 || 8.0 || 1022.0 || 679.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 75.0 || 143.0 || 687.0 || 454.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 11.0 || 87.0 || 911.0 || 683.0 || 0
+label: 665.0 || 264.0 || 994.0 || 683.0 || 0
+
+GROUND TRUTH FOR: 1
+label: 13.0 || 297.0 || 87.0 || 362.0 || 7
+label: 61.0 || 328.0 || 124.0 || 411.0 || 7
+label: 297.0 || 263.0 || 625.0 || 516.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 114.0 || 126.0 || 627.0 || 465.0 || 7
+label: 575.0 || 123.0 || 951.0 || 420.0 || 7
+
+GROUND TRUTH FOR: 1
+label: 78.0 || 41.0 || 951.0 || 969.0 || 3
+
+GROUND TRUTH FOR: 1
+label: 172.0 || 43.0 || 977.0 || 757.0 || 1
+
+GROUND TRUTH FOR: 1
+label: 382.0 || 118.0 || 721.0 || 338.0 || 7
+label: 651.0 || 98.0 || 956.0 || 338.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 86.0 || 91.0 || 958.0 || 732.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 158.0 || 251.0 || 300.0 || 644.0 || 7
+label: 277.0 || 239.0 || 484.0 || 643.0 || 7
+
+GROUND TRUTH FOR: 2
+label: 96.0 || 130.0 || 884.0 || 721.0 || 3
+
+GROUND TRUTH FOR: 3
+label: -1.0 || -1.0 || 785.0 || 679.0 || 3
+
+GROUND TRUTH FOR: 3
+label: 154.0 || 12.0 || 1018.0 || 763.0 || 0
+
+GROUND TRUTH FOR: 3
+label: 60.0 || 7.0 || 894.0 || 687.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 17.0 || 432.0 || 555.0 || 1022.0 || 7
+label: 629.0 || 601.0 || 720.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: 3
+label: 29.0 || 69.0 || 955.0 || 767.0 || 1
+
+GROUND TRUTH FOR: 3
+label: 5.0 || 123.0 || 793.0 || 767.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 306.0 || 199.0 || 420.0 || 256.0 || 7
+label: 331.0 || 122.0 || 1022.0 || 682.0 || 7
+
+GROUND TRUTH FOR: 4
+label: 163.0 || 328.0 || 320.0 || 428.0 || 4
+label: 334.0 || 305.0 || 532.0 || 428.0 || 4
+label: 360.0 || 378.0 || 820.0 || 889.0 || 4
+label: 675.0 || 110.0 || 1023.0 || 1019.0 || 4
+
+GROUND TRUTH FOR: 4
+label: 510.0 || 134.0 || 1023.0 || 565.0 || 7
+
+GROUND TRUTH FOR: 4
+label: -1.0 || 404.0 || 979.0 || 684.0 || 0
+label: 825.0 || 582.0 || 1023.0 || 684.0 || 0
+
+GROUND TRUTH FOR: 4
+label: -1.0 || 166.0 || 1022.0 || 832.0 || 7
+
+GROUND TRUTH FOR: 4
+label: -1.0 || 0.0 || 1022.0 || 643.0 || 4
+
+GROUND TRUTH FOR: 5
+label: 354.0 || 110.0 || 733.0 || 634.0 || 7
+
+GROUND TRUTH FOR: 5
+label: 339.0 || 199.0 || 763.0 || 709.0 || 4
+
+GROUND TRUTH FOR: 5
+label: -1.0 || 522.0 || 149.0 || 681.0 || 3
+label: 43.0 || 614.0 || 256.0 || 681.0 || 3
+label: 108.0 || -1.0 || 791.0 || 681.0 || 3
+
+GROUND TRUTH FOR: 5
+label: -1.0 || 56.0 || 799.0 || 926.0 || 7
+
+GROUND TRUTH FOR: 5
+label: 314.0 || 237.0 || 492.0 || 680.0 || 7
+label: 544.0 || 238.0 || 725.0 || 679.0 || 7
+
+GROUND TRUTH FOR: 5
+label: -1.0 || 262.0 || 433.0 || 666.0 || 7
+
+GROUND TRUTH FOR: 5
+label: -1.0 || 201.0 || 423.0 || 767.0 || 7
+label: 167.0 || 200.0 || 665.0 || 743.0 || 7
+label: 219.0 || 203.0 || 728.0 || 604.0 || 7
+
+GROUND TRUTH FOR: 5
+label: 183.0 || 18.0 || 775.0 || 747.0 || 3
+label: 714.0 || 243.0 || 874.0 || 732.0 || 3
+
+GROUND TRUTH FOR: 6
+label: -1.0 || -1.0 || 623.0 || 1023.0 || 3
+
+GROUND TRUTH FOR: 6
+label: 234.0 || 490.0 || 469.0 || 696.0 || 7
+
+GROUND TRUTH FOR: 6
+label: -1.0 || -1.0 || 477.0 || 993.0 || 7
+
+GROUND TRUTH FOR: 6
+label: 265.0 || 203.0 || 767.0 || 566.0 || 7
+
+GROUND TRUTH FOR: 6
+label: -1.0 || 125.0 || 1023.0 || 766.0 || 6
+
+GROUND TRUTH FOR: 6
+label: 141.0 || 147.0 || 939.0 || 637.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 286.0 || 273.0 || 918.0 || 577.0 || 5
+
+GROUND TRUTH FOR: 7
+label: 452.0 || 131.0 || 840.0 || 697.0 || 3
+
+GROUND TRUTH FOR: 7
+label: 200.0 || 373.0 || 598.0 || 850.0 || 7
+label: 785.0 || 425.0 || 954.0 || 813.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 383.0 || 125.0 || 728.0 || 512.0 || 3
+
+GROUND TRUTH FOR: 7
+label: 279.0 || 41.0 || 1022.0 || 942.0 || 3
+
+GROUND TRUTH FOR: 7
+label: 20.0 || 521.0 || 685.0 || 1023.0 || 7
+
+GROUND TRUTH FOR: 7
+label: 155.0 || 494.0 || 931.0 || 869.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 142.0 || 247.0 || 724.0 || 767.0 || 7
+label: 630.0 || 301.0 || 1023.0 || 767.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 368.0 || 70.0 || 614.0 || 757.0 || 7
+
+GROUND TRUTH FOR: 8
+label: 176.0 || 233.0 || 747.0 || 659.0 || 3
+
+GROUND TRUTH FOR: 9
+label: -1.0 || -1.0 || 961.0 || 682.0 || 2
+
+GROUND TRUTH FOR: 9
+label: 379.0 || 210.0 || 966.0 || 618.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 242.0 || 100.0 || 813.0 || 718.0 || 7
+
+GROUND TRUTH FOR: 9
+label: -1.0 || 173.0 || 979.0 || 681.0 || 2
+
+GROUND TRUTH FOR: 9
+label: 141.0 || 298.0 || 497.0 || 1022.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 266.0 || 136.0 || 821.0 || 594.0 || 7
+label: 561.0 || 150.0 || 749.0 || 482.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 71.0 || -1.0 || 889.0 || 575.0 || 7
+
+GROUND TRUTH FOR: 9
+label: -1.0 || 131.0 || 1020.0 || 693.0 || 7
+label: 168.0 || 252.0 || 492.0 || 700.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 166.0 || 260.0 || 579.0 || 621.0 || 7
+label: 584.0 || 259.0 || 848.0 || 643.0 || 7
+
+GROUND TRUTH FOR: 9
+label: 17.0 || 367.0 || 669.0 || 658.0 || 4
+label: 690.0 || 179.0 || 1022.0 || 641.0 || 4
+
+GROUND TRUTH FOR: a
+label: 532.0 || 269.0 || 982.0 || 630.0 || 7
+
+GROUND TRUTH FOR: a
+label: 114.0 || 0.0 || 766.0 || 1023.0 || 4
+
+GROUND TRUTH FOR: a
+label: 164.0 || 197.0 || 490.0 || 997.0 || 7
+
+GROUND TRUTH FOR: a
+label: 184.0 || -1.0 || 1022.0 || 680.0 || 5
+
+GROUND TRUTH FOR: a
+label: -1.0 || 247.0 || 737.0 || 764.0 || 7
+label: 907.0 || 231.0 || 1023.0 || 475.0 || 7
+
+GROUND TRUTH FOR: a
+label: 406.0 || 51.0 || 853.0 || 998.0 || 3
+
+GROUND TRUTH FOR: a
+label: -1.0 || 243.0 || 805.0 || 682.0 || 7
+
+GROUND TRUTH FOR: b
+label: -1.0 || 185.0 || 1023.0 || 719.0 || 4
+
+GROUND TRUTH FOR: b
+label: 288.0 || 65.0 || 930.0 || 681.0 || 3
+
+GROUND TRUTH FOR: b
+label: 49.0 || 139.0 || 1023.0 || 681.0 || 7
+
+GROUND TRUTH FOR: b
+label: 211.0 || 271.0 || 442.0 || 767.0 || 3
+
+GROUND TRUTH FOR: b
+label: 349.0 || 69.0 || 1023.0 || 682.0 || 7
+
+GROUND TRUTH FOR: b
+label: 252.0 || 9.0 || 687.0 || 632.0 || 3
+
+GROUND TRUTH FOR: b
+label: 338.0 || 460.0 || 681.0 || 862.0 || 3
+
+GROUND TRUTH FOR: b
+label: 289.0 || 198.0 || 1023.0 || 651.0 || 7
+
+GROUND TRUTH FOR: b
+label: -1.0 || 374.0 || 123.0 || 597.0 || 0
+label: 124.0 || 436.0 || 410.0 || 665.0 || 0
+label: 286.0 || 147.0 || 489.0 || 244.0 || 0
+label: 651.0 || 406.0 || 939.0 || 517.0 || 0
+
+GROUND TRUTH FOR: c
+label: -1.0 || -1.0 || 218.0 || 767.0 || 7
+label: -1.0 || 203.0 || 645.0 || 702.0 || 7
+
+GROUND TRUTH FOR: c
+label: 447.0 || 185.0 || 921.0 || 766.0 || 7
+
+GROUND TRUTH FOR: c
+label: 69.0 || 99.0 || 724.0 || 569.0 || 7
+
+GROUND TRUTH FOR: c
+label: 28.0 || 37.0 || 690.0 || 671.0 || 7
+
+GROUND TRUTH FOR: c
+label: 209.0 || 4.0 || 477.0 || 767.0 || 7
+label: 429.0 || -1.0 || 833.0 || 765.0 || 7
+
+GROUND TRUTH FOR: c
+label: 400.0 || 139.0 || 673.0 || 510.0 || 7
+
+GROUND TRUTH FOR: d
+label: 176.0 || 158.0 || 821.0 || 631.0 || 3
+
+GROUND TRUTH FOR: d
+label: -1.0 || 289.0 || 25.0 || 397.0 || 6
+label: 236.0 || 184.0 || 409.0 || 421.0 || 6
+label: 505.0 || 157.0 || 719.0 || 455.0 || 6
+label: 831.0 || 197.0 || 917.0 || 499.0 || 6
+
+GROUND TRUTH FOR: d
+label: -1.0 || 73.0 || 577.0 || 1023.0 || 3
+label: 472.0 || 154.0 || 681.0 || 1023.0 || 3
+
+GROUND TRUTH FOR: d
+label: 288.0 || 133.0 || 951.0 || 707.0 || 2
+
+GROUND TRUTH FOR: d
+label: -1.0 || 133.0 || 1023.0 || 569.0 || 7
+
+GROUND TRUTH FOR: d
+label: -1.0 || 180.0 || 800.0 || 767.0 || 2
+label: -1.0 || 98.0 || 1023.0 || 478.0 || 2
+
+GROUND TRUTH FOR: d
+label: 242.0 || 347.0 || 541.0 || 946.0 || 3
+
+GROUND TRUTH FOR: e
+label: 304.0 || 323.0 || 798.0 || 945.0 || 7
+
+GROUND TRUTH FOR: e
+label: 131.0 || 246.0 || 710.0 || 766.0 || 7
+
+GROUND TRUTH FOR: e
+label: 130.0 || 12.0 || 1022.0 || 682.0 || 3
+
+GROUND TRUTH FOR: f
+label: -1.0 || 84.0 || 265.0 || 479.0 || 7
+label: 33.0 || 119.0 || 393.0 || 504.0 || 7
+label: 261.0 || 96.0 || 977.0 || 537.0 || 7
+
+GROUND TRUTH FOR: f
+label: 237.0 || 267.0 || 749.0 || 858.0 || 7
+
+GROUND TRUTH FOR: f
+label: 483.0 || 250.0 || 578.0 || 315.0 || 7
