@@ -5,5 +5,5 @@ This repo will demonstrate a very simple method by which you can deploy your pyt
 
 A detailed step by step blog is posted here. 
 
-[Deploy Your Deep Learning Model On Kubernetes With Python, Pytorch, Flask, and Docker]()
+[Deploy Your Deep Learning Model On Kubernetes With Python, Pytorch, Flask, and Docker](https://atrisaxena.github.io/projects/deploy-deeplearning-model-kubernetes/)
 
